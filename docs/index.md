@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382v1](http://arxiv.org/abs/2505.21382v1)|null|
+|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219v1](http://arxiv.org/abs/2505.21219v1)|null|
+|**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012v1](http://arxiv.org/abs/2505.21012v1)|null|
+|**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010v1](http://arxiv.org/abs/2505.21010v1)|null|
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|null|
+|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723v1](http://arxiv.org/abs/2505.20723v1)|null|
+|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648v1](http://arxiv.org/abs/2505.20648v1)|null|
+|**2025-05-26**|**One-shot Robust Federated Learning of Independent Component Analysis**|Dian Jin et.al.|[2505.20532v1](http://arxiv.org/abs/2505.20532v1)|null|
+|**2025-05-26**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485v1](http://arxiv.org/abs/2505.20485v1)|null|
+|**2025-05-26**|**Federated Learning-Distillation Alternation for Resource-Constrained IoT**|Rafael Valente da Silva et.al.|[2505.20456v1](http://arxiv.org/abs/2505.20456v1)|null|
 |**2025-05-26**|**Multimodal Federated Learning With Missing Modalities through Feature Imputation Network**|Pranav Poudel et.al.|[2505.20232v1](http://arxiv.org/abs/2505.20232v1)|null|
 |**2025-05-26**|**Gradient Inversion Transcript: Leveraging Robust Generative Priors to Reconstruct Training Data from Gradient Leakage**|Xinping Chen et.al.|[2505.20026v1](http://arxiv.org/abs/2505.20026v1)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020v1](http://arxiv.org/abs/2505.20020v1)|null|
