@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706v1](http://arxiv.org/abs/2505.23706v1)|null|
+|**2025-05-29**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593v1](http://arxiv.org/abs/2505.23593v1)|null|
+|**2025-05-29**|**Accelerated Training of Federated Learning via Second-Order Methods**|Mrinmay Sen et.al.|[2505.23588v1](http://arxiv.org/abs/2505.23588v1)|null|
+|**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459v1](http://arxiv.org/abs/2505.23459v1)|null|
+|**2025-05-29**|**Federated Unsupervised Semantic Segmentation**|Evangelos Charalampakis et.al.|[2505.23292v1](http://arxiv.org/abs/2505.23292v1)|null|
+|**2025-05-29**|**Measuring Participant Contributions in Decentralized Federated Learning**|Honoka Anada et.al.|[2505.23246v1](http://arxiv.org/abs/2505.23246v1)|null|
+|**2025-05-29**|**FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation**|Srijith Nair et.al.|[2505.23182v1](http://arxiv.org/abs/2505.23182v1)|null|
+|**2025-05-29**|**The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning**|Shiwei Li et.al.|[2505.23176v1](http://arxiv.org/abs/2505.23176v1)|null|
+|**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063v1](http://arxiv.org/abs/2505.23063v1)|null|
+|**2025-05-29**|**Deep Modeling and Optimization of Medical Image Classification**|Yihang Wu et.al.|[2505.23040v1](http://arxiv.org/abs/2505.23040v1)|null|
 |**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549v1](http://arxiv.org/abs/2505.22549v1)|null|
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447v1](http://arxiv.org/abs/2505.22447v1)|null|
