@@ -1242,7 +1242,7 @@ layout: default
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447v1](http://arxiv.org/abs/2505.22447v1)|null|
 |**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108v1](http://arxiv.org/abs/2505.22108v1)|null|
-|**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877v1](http://arxiv.org/abs/2505.21877v1)|null|
+|**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877v1](http://arxiv.org/abs/2505.21877v1)|**[link](https://github.com/Hongyao-Chen/HybridBN)**|
 |**2025-05-27**|**Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**|Yuanzhe Peng et.al.|[2505.21792v1](http://arxiv.org/abs/2505.21792v1)|null|
 |**2025-05-27**|**FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud**|Aditya Sinha et.al.|[2505.21727v1](http://arxiv.org/abs/2505.21727v1)|null|
 |**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715v1](http://arxiv.org/abs/2505.21715v1)|null|
@@ -1252,7 +1252,7 @@ layout: default
 |**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219v1](http://arxiv.org/abs/2505.21219v1)|null|
 |**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012v1](http://arxiv.org/abs/2505.21012v1)|null|
 |**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010v1](http://arxiv.org/abs/2505.21010v1)|null|
-|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|null|
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|**[link](https://github.com/mariusbock/leakage_har)**|
 |**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723v1](http://arxiv.org/abs/2505.20723v1)|null|
 |**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648v1](http://arxiv.org/abs/2505.20648v1)|null|
 |**2025-05-26**|**One-shot Robust Federated Learning of Independent Component Analysis**|Dian Jin et.al.|[2505.20532v1](http://arxiv.org/abs/2505.20532v1)|null|
@@ -1266,13 +1266,13 @@ layout: default
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699v1](http://arxiv.org/abs/2505.19699v1)|null|
 |**2025-05-26**|**Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity**|Aggrey Muhebwa et.al.|[2505.19605v1](http://arxiv.org/abs/2505.19605v1)|null|
 |**2025-05-26**|**Exploring the Possibility of TypiClust for Low-Budget Federated Active Learning**|Yuta Ono et.al.|[2505.19404v1](http://arxiv.org/abs/2505.19404v1)|null|
-|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-25**|**FedORA: Resource Allocation for Federated Learning in ORAN using Radio Intelligent Controllers**|Abdelaziz Salama et.al.|[2505.19211v1](http://arxiv.org/abs/2505.19211v1)|null|
 |**2025-05-25**|**Federated Learning: From Theory to Practice**|A. Jung et.al.|[2505.19183v1](http://arxiv.org/abs/2505.19183v1)|null|
 |**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961v1](http://arxiv.org/abs/2505.17961v1)|null|
 |**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226v1](http://arxiv.org/abs/2505.17226v1)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857v1](http://arxiv.org/abs/2505.16857v1)|null|
-|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|**[link](https://github.com/tajamul21/atr-bench)**|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|null|
 |**2025-05-22**|**WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning**|Zhaomin Wu et.al.|[2505.16635v1](http://arxiv.org/abs/2505.16635v1)|null|
 |**2025-05-22**|**From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling**|Yi Hu et.al.|[2505.16573v1](http://arxiv.org/abs/2505.16573v1)|null|
