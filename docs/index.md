@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Computation- and Communication-Efficient Online FL for Resource-Constrained Aerial Vehicles**|Md-Ferdous Pervej et.al.|[2506.02972v1](http://arxiv.org/abs/2506.02972v1)|null|
+|**2025-06-03**|**FORLA:Federated Object-centric Representation Learning with Slot Attention**|Guiqiu Liao et.al.|[2506.02964v1](http://arxiv.org/abs/2506.02964v1)|null|
+|**2025-06-03**|**FlowerTune: A Cross-Domain Benchmark for Federated Fine-Tuning of Large Language Models**|Yan Gao et.al.|[2506.02961v1](http://arxiv.org/abs/2506.02961v1)|null|
+|**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940v1](http://arxiv.org/abs/2506.02940v1)|null|
+|**2025-06-03**|**Sociodynamics-inspired Adaptive Coalition and Client Selection in Federated Learning**|Alessandro Licciardi et.al.|[2506.02897v1](http://arxiv.org/abs/2506.02897v1)|null|
+|**2025-06-03**|**Overcoming Challenges of Partial Client Participation in Federated Learning : A Comprehensive Review**|Mrinmay Sen et.al.|[2506.02887v1](http://arxiv.org/abs/2506.02887v1)|null|
+|**2025-06-03**|**Poster: FedBlockParadox -- A Framework for Simulating and Securing Decentralized Federated Learning**|Gabriele Digregorio et.al.|[2506.02679v1](http://arxiv.org/abs/2506.02679v1)|null|
+|**2025-06-03**|**Privacy-Preserving Federated Convex Optimization: Balancing Partial-Participation and Efficiency via Noise Cancellation**|Roie Reshef et.al.|[2506.02563v1](http://arxiv.org/abs/2506.02563v1)|null|
+|**2025-06-03**|**Enhancing Convergence, Privacy and Fairness for Wireless Personalized Federated Learning: Quantization-Assisted Min-Max Fair Scheduling**|Xiyu Zhao et.al.|[2506.02422v1](http://arxiv.org/abs/2506.02422v1)|null|
+|**2025-06-03**|**Reconciling Hessian-Informed Acceleration and Scalar-Only Communication for Efficient Federated Zeroth-Order Fine-Tuning**|Zhe Li et.al.|[2506.02370v1](http://arxiv.org/abs/2506.02370v1)|null|
 |**2025-05-30**|**ByzFL: Research Framework for Robust Federated Learning**|Marc González et.al.|[2505.24802v1](http://arxiv.org/abs/2505.24802v1)|null|
 |**2025-05-30**|**Robust Federated Learning against Model Perturbation in Edge Networks**|Dongzi Jin et.al.|[2505.24728v1](http://arxiv.org/abs/2505.24728v1)|null|
 |**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603v1](http://arxiv.org/abs/2505.24603v1)|null|
