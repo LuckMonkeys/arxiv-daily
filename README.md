@@ -60,7 +60,7 @@
 |**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063v1](http://arxiv.org/abs/2505.23063v1)|null|
 |**2025-05-29**|**Deep Modeling and Optimization of Medical Image Classification**|Yihang Wu et.al.|[2505.23040v1](http://arxiv.org/abs/2505.23040v1)|**[link](https://github.com/aipmlab/skincancersimulation)**|
 |**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549v1](http://arxiv.org/abs/2505.22549v1)|null|
-|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|null|
+|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|**[link](https://github.com/yuanzhang7/pathfl)**|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447v1](http://arxiv.org/abs/2505.22447v1)|null|
 |**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108v1](http://arxiv.org/abs/2505.22108v1)|null|
 |**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877v1](http://arxiv.org/abs/2505.21877v1)|**[link](https://github.com/Hongyao-Chen/HybridBN)**|
@@ -70,12 +70,12 @@
 |**2025-05-27**|**AMSFL: Adaptive Multi-Step Federated Learning via Gradient Difference-Based Error Modeling**|Ganglou Xu et.al.|[2505.21695v1](http://arxiv.org/abs/2505.21695v1)|null|
 |**2025-05-27**|**Incentivizing Permissionless Distributed Learning of LLMs**|Joel Lidin et.al.|[2505.21684v1](http://arxiv.org/abs/2505.21684v1)|null|
 |**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382v1](http://arxiv.org/abs/2505.21382v1)|null|
-|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219v1](http://arxiv.org/abs/2505.21219v1)|null|
+|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219v1](http://arxiv.org/abs/2505.21219v1)|**[link](https://github.com/ari-dasci/s-sbro-fl)**|
 |**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012v1](http://arxiv.org/abs/2505.21012v1)|null|
 |**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010v1](http://arxiv.org/abs/2505.21010v1)|null|
 |**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|**[link](https://github.com/mariusbock/leakage_har)**|
 |**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723v1](http://arxiv.org/abs/2505.20723v1)|null|
-|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648v1](http://arxiv.org/abs/2505.20648v1)|null|
+|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648v1](http://arxiv.org/abs/2505.20648v1)|**[link](https://github.com/buptcmm/phnhvvs)**|
 |**2025-05-26**|**One-shot Robust Federated Learning of Independent Component Analysis**|Dian Jin et.al.|[2505.20532v1](http://arxiv.org/abs/2505.20532v1)|null|
 |**2025-05-26**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485v1](http://arxiv.org/abs/2505.20485v1)|null|
 |**2025-05-26**|**Federated Learning-Distillation Alternation for Resource-Constrained IoT**|Rafael Valente da Silva et.al.|[2505.20456v1](http://arxiv.org/abs/2505.20456v1)|null|
