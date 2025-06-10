@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980v1](http://arxiv.org/abs/2506.07980v1)|null|
+|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894v1](http://arxiv.org/abs/2506.07894v1)|null|
+|**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769v1](http://arxiv.org/abs/2506.07769v1)|null|
+|**2025-06-09**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605v1](http://arxiv.org/abs/2506.07605v1)|null|
+|**2025-06-09**|**FedCGD: Collective Gradient Divergence Optimized Scheduling for Wireless Federated Learning**|Tan Chen et.al.|[2506.07581v1](http://arxiv.org/abs/2506.07581v1)|null|
+|**2025-06-09**|**Synesthesia of Machines (SoM)-Aided Online FDD Precoding via Heterogeneous Multi-Modal Sensing: A Vertical Federated Learning Approach**|Haotian Zhang et.al.|[2506.07535v1](http://arxiv.org/abs/2506.07535v1)|null|
+|**2025-06-09**|**From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks**|Yuyang Zhou et.al.|[2506.07392v1](http://arxiv.org/abs/2506.07392v1)|null|
+|**2025-06-08**|**Mobility-Aware Asynchronous Federated Learning with Dynamic Sparsification**|Jintao Yan et.al.|[2506.07328v1](http://arxiv.org/abs/2506.07328v1)|null|
+|**2025-06-08**|**Translating Federated Learning Algorithms in Python into CSP Processes Using ChatGPT**|Miroslav Popovic et.al.|[2506.07173v1](http://arxiv.org/abs/2506.07173v1)|null|
+|**2025-06-08**|**pFedSOP : Accelerating Training Of Personalized Federated Learning Using Second-Order Optimization**|Mrinmay Sen et.al.|[2506.07159v1](http://arxiv.org/abs/2506.07159v1)|null|
 |**2025-06-06**|**Distribution-Level AirComp for Wireless Federated Learning under Data Scarcity and Heterogeneity**|Jun-Pyo Hong et.al.|[2506.06090v1](http://arxiv.org/abs/2506.06090v1)|null|
 |**2025-06-06**|**Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models**|Yingqi Hu et.al.|[2506.06060v1](http://arxiv.org/abs/2506.06060v1)|null|
 |**2025-06-06**|**Multi-Modal Multi-Task Federated Foundation Models for Next-Generation Extended Reality Systems: Towards Privacy-Preserving Distributed Intelligence in AR/VR/MR**|Fardis Nadimi et.al.|[2506.05683v1](http://arxiv.org/abs/2506.05683v1)|null|
@@ -3666,7 +3676,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## MMS
 
@@ -3689,7 +3699,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
