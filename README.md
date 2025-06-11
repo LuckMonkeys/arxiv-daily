@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
+|**2025-06-10**|**Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings**|Mingyuan Fan et.al.|[2506.08435v1](http://arxiv.org/abs/2506.08435v1)|null|
+|**2025-06-10**|**HASFL: Heterogeneity-aware Split Federated Learning over Edge Computing Systems**|Zheng Lin et.al.|[2506.08426v1](http://arxiv.org/abs/2506.08426v1)|null|
+|**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176v1](http://arxiv.org/abs/2506.08176v1)|null|
+|**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169v1](http://arxiv.org/abs/2506.08169v1)|null|
+|**2025-06-09**|**UniVarFL: Uniformity and Variance Regularized Federated Learning for Heterogeneous Data**|Sunny Gupta et.al.|[2506.08167v1](http://arxiv.org/abs/2506.08167v1)|null|
 |**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980v1](http://arxiv.org/abs/2506.07980v1)|null|
 |**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894v1](http://arxiv.org/abs/2506.07894v1)|null|
 |**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769v1](http://arxiv.org/abs/2506.07769v1)|null|
@@ -3676,7 +3682,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## MMS
 
@@ -3699,7 +3705,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

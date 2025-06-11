@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
+|**2025-06-10**|**Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings**|Mingyuan Fan et.al.|[2506.08435v1](http://arxiv.org/abs/2506.08435v1)|null|
+|**2025-06-10**|**HASFL: Heterogeneity-aware Split Federated Learning over Edge Computing Systems**|Zheng Lin et.al.|[2506.08426v1](http://arxiv.org/abs/2506.08426v1)|null|
+|**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176v1](http://arxiv.org/abs/2506.08176v1)|null|
+|**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169v1](http://arxiv.org/abs/2506.08169v1)|null|
+|**2025-06-09**|**UniVarFL: Uniformity and Variance Regularized Federated Learning for Heterogeneous Data**|Sunny Gupta et.al.|[2506.08167v1](http://arxiv.org/abs/2506.08167v1)|null|
 |**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980v1](http://arxiv.org/abs/2506.07980v1)|null|
 |**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894v1](http://arxiv.org/abs/2506.07894v1)|null|
 |**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769v1](http://arxiv.org/abs/2506.07769v1)|null|
