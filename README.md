@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607v1](http://arxiv.org/abs/2506.10607v1)|null|
+|**2025-06-12**|**Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs**|Yilin Xiao et.al.|[2506.10508v1](http://arxiv.org/abs/2506.10508v1)|null|
+|**2025-06-12**|**Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators**|Roopkatha Banerjee et.al.|[2506.10413v1](http://arxiv.org/abs/2506.10413v1)|null|
+|**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280v1](http://arxiv.org/abs/2506.10280v1)|null|
+|**2025-06-11**|**A new type of federated clustering: A non-model-sharing approach**|Yuji Kawamata et.al.|[2506.10244v1](http://arxiv.org/abs/2506.10244v1)|null|
+|**2025-06-11**|**Intelligent Travel Activity Monitoring: Generalized Distributed Acoustic Sensing Approaches**|Ruikang Zhong et.al.|[2506.10237v1](http://arxiv.org/abs/2506.10237v1)|null|
+|**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207v1](http://arxiv.org/abs/2506.10207v1)|null|
 |**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870v1](http://arxiv.org/abs/2506.09870v1)|null|
 |**2025-06-12**|**A Weighted Loss Approach to Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824v2](http://arxiv.org/abs/2506.09824v2)|null|
 |**2025-06-11**|**Load-Aware Training Scheduling for Model Circulation-based Decentralized Federated Learning**|Haruki Kainuma et.al.|[2506.09769v1](http://arxiv.org/abs/2506.09769v1)|null|
