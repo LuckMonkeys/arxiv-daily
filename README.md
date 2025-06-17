@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612v1](http://arxiv.org/abs/2506.13612v1)|null|
+|**2025-06-16**|**Perfect Privacy for Discriminator-Based Byzantine-Resilient Federated Learning**|Yue Xia et.al.|[2506.13561v1](http://arxiv.org/abs/2506.13561v1)|null|
+|**2025-06-16**|**Overcoming Occlusions in the Wild: A Multi-Task Age Head Approach to Age Estimation**|Waqar Tanveer et.al.|[2506.13445v1](http://arxiv.org/abs/2506.13445v1)|null|
+|**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846v1](http://arxiv.org/abs/2506.12846v1)|null|
+|**2025-06-15**|**Leveraging MIMIC Datasets for Better Digital Health: A Review on Open Problems, Progress Highlights, and Future Promises**|Afifa Khaled et.al.|[2506.12808v1](http://arxiv.org/abs/2506.12808v1)|null|
+|**2025-06-15**|**AFBS:Buffer Gradient Selection in Semi-asynchronous Federated Learning**|Chaoyi Lu et.al.|[2506.12754v1](http://arxiv.org/abs/2506.12754v1)|null|
+|**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749v1](http://arxiv.org/abs/2506.12749v1)|null|
+|**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425v1](http://arxiv.org/abs/2506.12425v1)|null|
+|**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303v1](http://arxiv.org/abs/2506.12303v1)|null|
+|**2025-06-13**|**Fed-HeLLo: Efficient Federated Foundation Model Fine-Tuning with Heterogeneous LoRA Allocation**|Zikai Zhang et.al.|[2506.12213v1](http://arxiv.org/abs/2506.12213v1)|null|
 |**2025-06-13**|**Spectral Estimation with Free Decompression**|Siavash Ameli et.al.|[2506.11994v1](http://arxiv.org/abs/2506.11994v1)|null|
 |**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|null|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413v1](http://arxiv.org/abs/2506.11413v1)|null|
