@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626v1](http://arxiv.org/abs/2506.15626v1)|null|
+|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365v1](http://arxiv.org/abs/2506.15365v1)|null|
+|**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264v1](http://arxiv.org/abs/2506.15264v1)|null|
+|**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189v1](http://arxiv.org/abs/2506.15189v1)|null|
+|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|null|
+|**2025-06-17**|**Event-Driven Online Vertical Federated Learning**|Ganyu Wang et.al.|[2506.14911v1](http://arxiv.org/abs/2506.14911v1)|null|
 |**2025-06-17**|**Knowledge Adaptation as Posterior Correction**|Mohammad Emtiyaz Khan et.al.|[2506.14262v1](http://arxiv.org/abs/2506.14262v1)|null|
 |**2025-06-17**|**Convergence-Privacy-Fairness Trade-Off in Personalized Federated Learning**|Xiyu Zhao et.al.|[2506.14251v1](http://arxiv.org/abs/2506.14251v1)|null|
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165v1](http://arxiv.org/abs/2506.14165v1)|null|
