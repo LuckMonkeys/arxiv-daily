@@ -1229,15 +1229,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626v1](http://arxiv.org/abs/2506.15626v1)|null|
-|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365v1](http://arxiv.org/abs/2506.15365v1)|null|
+|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365v1](http://arxiv.org/abs/2506.15365v1)|**[link](https://github.com/f1onae/fedwsidd)**|
 |**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264v1](http://arxiv.org/abs/2506.15264v1)|null|
 |**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189v1](http://arxiv.org/abs/2506.15189v1)|null|
-|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|null|
+|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929v1](http://arxiv.org/abs/2506.14929v1)|**[link](https://github.com/ganyuwang/fedone-bdpl)**|
 |**2025-06-17**|**Event-Driven Online Vertical Federated Learning**|Ganyu Wang et.al.|[2506.14911v1](http://arxiv.org/abs/2506.14911v1)|null|
 |**2025-06-17**|**Knowledge Adaptation as Posterior Correction**|Mohammad Emtiyaz Khan et.al.|[2506.14262v1](http://arxiv.org/abs/2506.14262v1)|null|
 |**2025-06-17**|**Convergence-Privacy-Fairness Trade-Off in Personalized Federated Learning**|Xiyu Zhao et.al.|[2506.14251v1](http://arxiv.org/abs/2506.14251v1)|null|
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165v1](http://arxiv.org/abs/2506.14165v1)|null|
-|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612v1](http://arxiv.org/abs/2506.13612v1)|null|
+|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612v1](http://arxiv.org/abs/2506.13612v1)|**[link](https://github.com/lee-va/ebs-cfl)**|
 |**2025-06-16**|**Perfect Privacy for Discriminator-Based Byzantine-Resilient Federated Learning**|Yue Xia et.al.|[2506.13561v1](http://arxiv.org/abs/2506.13561v1)|null|
 |**2025-06-16**|**Overcoming Occlusions in the Wild: A Multi-Task Age Head Approach to Age Estimation**|Waqar Tanveer et.al.|[2506.13445v1](http://arxiv.org/abs/2506.13445v1)|null|
 |**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846v1](http://arxiv.org/abs/2506.12846v1)|null|
