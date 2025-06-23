@@ -36,8 +36,8 @@
 |**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749v1](http://arxiv.org/abs/2506.12749v1)|null|
 |**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425v1](http://arxiv.org/abs/2506.12425v1)|null|
 |**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303v1](http://arxiv.org/abs/2506.12303v1)|null|
-|**2025-06-13**|**Fed-HeLLo: Efficient Federated Foundation Model Fine-Tuning with Heterogeneous LoRA Allocation**|Zikai Zhang et.al.|[2506.12213v1](http://arxiv.org/abs/2506.12213v1)|null|
-|**2025-06-13**|**Spectral Estimation with Free Decompression**|Siavash Ameli et.al.|[2506.11994v1](http://arxiv.org/abs/2506.11994v1)|null|
+|**2025-06-13**|**Fed-HeLLo: Efficient Federated Foundation Model Fine-Tuning with Heterogeneous LoRA Allocation**|Zikai Zhang et.al.|[2506.12213v1](http://arxiv.org/abs/2506.12213v1)|**[link](https://github.com/tni-playground/fed_hello)**|
+|**2025-06-13**|**Spectral Estimation with Free Decompression**|Siavash Ameli et.al.|[2506.11994v1](http://arxiv.org/abs/2506.11994v1)|**[link](https://github.com/ameli/freealg)**|
 |**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|null|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413v1](http://arxiv.org/abs/2506.11413v1)|null|
 |**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607v1](http://arxiv.org/abs/2506.10607v1)|null|
@@ -82,7 +82,7 @@
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138v1](http://arxiv.org/abs/2506.05138v1)|null|
 |**2025-06-05**|**An SCMA Receiver for 6G NTN based on Multi-Task Learning**|Bruno De Filippo et.al.|[2506.05111v1](http://arxiv.org/abs/2506.05111v1)|null|
 |**2025-06-05**|**Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection**|Gabriele Digregorio et.al.|[2506.04978v1](http://arxiv.org/abs/2506.04978v1)|null|
-|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672v1](http://arxiv.org/abs/2506.04672v1)|null|
+|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672v1](http://arxiv.org/abs/2506.04672v1)|**[link](https://github.com/whu-totemdb/FedAPM)**|
 |**2025-06-05**|**Federated Learning Assisted Edge Caching Scheme Based on Lightweight Architecture DDPM**|Xun Li et.al.|[2506.04593v1](http://arxiv.org/abs/2506.04593v1)|**[link](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)**|
 |**2025-06-05**|**Communication Efficient Adaptive Model-Driven Quantum Federated Learning**|Dev Gurung et.al.|[2506.04548v1](http://arxiv.org/abs/2506.04548v1)|null|
 |**2025-06-04**|**Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning**|Hasin Us Sami et.al.|[2506.04453v1](http://arxiv.org/abs/2506.04453v1)|**[link](https://github.com/info-ucr/peftleak)**|
@@ -1456,7 +1456,7 @@
 |**2024-08-06**|**Deep Clustering via Distribution Learning**|Guanfang Dong et.al.|[2408.03407v1](http://arxiv.org/abs/2408.03407v1)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220v1](http://arxiv.org/abs/2408.03220v1)|**[link](https://github.com/Leopold1423/fedmrn-mm24)**|
 |**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215v1](http://arxiv.org/abs/2408.03215v1)|**[link](https://github.com/Leopold1423/fedbat-icml24)**|
-|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|**[link](https://github.com/wzjialang/pfedsis)**|
 |**2024-08-06**|**Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**|Anwesha Mukherjee et.al.|[2408.02998v1](http://arxiv.org/abs/2408.02998v1)|null|
 |**2024-08-05**|**Mitigating Malicious Attacks in Federated Learning via Confidence-aware Defense**|Qilei Li et.al.|[2408.02813v1](http://arxiv.org/abs/2408.02813v1)|null|
 |**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501v1](http://arxiv.org/abs/2408.02501v1)|null|
