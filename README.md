@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789v1](http://arxiv.org/abs/2506.18789v1)|null|
+|**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732v1](http://arxiv.org/abs/2506.18732v1)|null|
+|**2025-06-23**|**Federated Loss Exploration for Improved Convergence on Non-IID Data**|Christian Internò et.al.|[2506.18640v1](http://arxiv.org/abs/2506.18640v1)|null|
+|**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525v1](http://arxiv.org/abs/2506.18525v1)|null|
+|**2025-06-23**|**Edge Association Strategies for Synthetic Data Empowered Hierarchical Federated Learning with Non-IID Data**|Jer Shyuan Ng et.al.|[2506.18259v1](http://arxiv.org/abs/2506.18259v1)|null|
+|**2025-06-22**|**Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**|Huaiying Luo et.al.|[2506.18087v1](http://arxiv.org/abs/2506.18087v1)|null|
+|**2025-06-22**|**Generalization under Byzantine & Poisoning Attacks: Tight Stability Bounds in Robust Distributed Learning**|Thomas Boudou et.al.|[2506.18020v1](http://arxiv.org/abs/2506.18020v1)|null|
+|**2025-06-22**|**Trustworthy Efficient Communication for Distributed Learning using LQ-SGD Algorithm**|Hongyang Li et.al.|[2506.17974v1](http://arxiv.org/abs/2506.17974v1)|null|
+|**2025-06-22**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v1](http://arxiv.org/abs/2506.17872v1)|null|
+|**2025-06-21**|**AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator**|Md. Kamrul Hossain et.al.|[2506.17805v1](http://arxiv.org/abs/2506.17805v1)|null|
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|null|
 |**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
 |**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731v1](http://arxiv.org/abs/2506.16731v1)|null|
