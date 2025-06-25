@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**|Yuqian Fu et.al.|[2506.19767v1](http://arxiv.org/abs/2506.19767v1)|null|
+|**2025-06-24**|**Neural Collapse based Deep Supervised Federated Learning for Signal Detection in OFDM Systems**|Kaidi Xu et.al.|[2506.19476v1](http://arxiv.org/abs/2506.19476v1)|null|
+|**2025-06-24**|**Network Structures as an Attack Surface: Topology-Based Privacy Leakage in Federated Learning**|Murtaza Rangwala et.al.|[2506.19260v1](http://arxiv.org/abs/2506.19260v1)|null|
+|**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246v1](http://arxiv.org/abs/2506.19246v1)|null|
+|**2025-06-24**|**Private Model Personalization Revisited**|Conor Snedeker et.al.|[2506.19220v1](http://arxiv.org/abs/2506.19220v1)|null|
+|**2025-06-23**|**GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model**|Amir Faiyaz et.al.|[2506.19164v1](http://arxiv.org/abs/2506.19164v1)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789v1](http://arxiv.org/abs/2506.18789v1)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732v1](http://arxiv.org/abs/2506.18732v1)|null|
 |**2025-06-23**|**Federated Loss Exploration for Improved Convergence on Non-IID Data**|Christian Internò et.al.|[2506.18640v1](http://arxiv.org/abs/2506.18640v1)|null|
