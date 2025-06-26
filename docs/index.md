@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning**|Fei Wang et.al.|[2506.20651v1](http://arxiv.org/abs/2506.20651v1)|null|
+|**2025-06-25**|**Efficient Federated Learning with Encrypted Data Sharing for Data-Heterogeneous Edge Devices**|Hangyu Li et.al.|[2506.20644v1](http://arxiv.org/abs/2506.20644v1)|null|
+|**2025-06-25**|**WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning**|Arno Geimer et.al.|[2506.20518v1](http://arxiv.org/abs/2506.20518v1)|null|
+|**2025-06-25**|**Collaborative Batch Size Optimization for Federated Learning**|Arno Geimer et.al.|[2506.20511v1](http://arxiv.org/abs/2506.20511v1)|null|
+|**2025-06-25**|**Tackling Data Heterogeneity in Federated Learning through Knowledge Distillation with Inequitable Aggregation**|Xing Ma et.al.|[2506.20431v1](http://arxiv.org/abs/2506.20431v1)|null|
+|**2025-06-25**|**OLALa: Online Learned Adaptive Lattice Codes for Heterogeneous Federated Learning**|Natalie Lang et.al.|[2506.20297v1](http://arxiv.org/abs/2506.20297v1)|null|
+|**2025-06-25**|**Distilling A Universal Expert from Clustered Federated Learning**|Zeqi Leng et.al.|[2506.20285v1](http://arxiv.org/abs/2506.20285v1)|null|
+|**2025-06-25**|**FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data**|Yushan Zhao et.al.|[2506.20245v1](http://arxiv.org/abs/2506.20245v1)|null|
+|**2025-06-25**|**Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning**|Andrea Bussolan et.al.|[2506.20212v1](http://arxiv.org/abs/2506.20212v1)|null|
+|**2025-06-25**|**Secure Multi-Key Homomorphic Encryption with Application to Privacy-Preserving Federated Learning**|Jiahui Wu et.al.|[2506.20101v1](http://arxiv.org/abs/2506.20101v1)|null|
 |**2025-06-24**|**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**|Yuqian Fu et.al.|[2506.19767v1](http://arxiv.org/abs/2506.19767v1)|null|
 |**2025-06-24**|**Neural Collapse based Deep Supervised Federated Learning for Signal Detection in OFDM Systems**|Kaidi Xu et.al.|[2506.19476v1](http://arxiv.org/abs/2506.19476v1)|null|
 |**2025-06-24**|**Network Structures as an Attack Surface: Topology-Based Privacy Leakage in Federated Learning**|Murtaza Rangwala et.al.|[2506.19260v1](http://arxiv.org/abs/2506.19260v1)|null|
