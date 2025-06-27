@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144v1](http://arxiv.org/abs/2506.21144v1)|null|
+|**2025-06-26**|**FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation**|Xenia Heilmann et.al.|[2506.21095v1](http://arxiv.org/abs/2506.21095v1)|null|
+|**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054v1](http://arxiv.org/abs/2506.21054v1)|null|
+|**2025-06-26**|**An Information-Theoretic Analysis for Federated Learning under Concept Drift**|Fu Peng et.al.|[2506.21036v1](http://arxiv.org/abs/2506.21036v1)|null|
+|**2025-06-26**|**FedSC: Federated Learning with Semantic-Aware Collaboration**|Huan Wang et.al.|[2506.21012v1](http://arxiv.org/abs/2506.21012v1)|null|
+|**2025-06-26**|**SPA: Towards More Stealth and Persistent Backdoor Attacks in Federated Learning**|Chengcheng Zhu et.al.|[2506.20931v1](http://arxiv.org/abs/2506.20931v1)|null|
+|**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872v1](http://arxiv.org/abs/2506.20872v1)|null|
 |**2025-06-25**|**Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning**|Fei Wang et.al.|[2506.20651v1](http://arxiv.org/abs/2506.20651v1)|null|
 |**2025-06-25**|**Efficient Federated Learning with Encrypted Data Sharing for Data-Heterogeneous Edge Devices**|Hangyu Li et.al.|[2506.20644v1](http://arxiv.org/abs/2506.20644v1)|null|
 |**2025-06-25**|**WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning**|Arno Geimer et.al.|[2506.20518v1](http://arxiv.org/abs/2506.20518v1)|null|
