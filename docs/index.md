@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
+|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374v1](http://arxiv.org/abs/2506.22374v1)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190v1](http://arxiv.org/abs/2506.22190v1)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933v1](http://arxiv.org/abs/2506.21933v1)|null|
+|**2025-06-27**|**Improving Convergence for Semi-Federated Learning: An Energy-Efficient Approach by Manipulating Over-the-Air Distortion**|Jingheng Zheng et.al.|[2506.21893v1](http://arxiv.org/abs/2506.21893v1)|null|
+|**2025-06-26**|**Federated Item Response Theory Models**|Biying Zhou et.al.|[2506.21744v1](http://arxiv.org/abs/2506.21744v1)|null|
+|**2025-06-26**|**Equitable Federated Learning with NCA**|Nick Lemke et.al.|[2506.21735v1](http://arxiv.org/abs/2506.21735v1)|null|
 |**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144v1](http://arxiv.org/abs/2506.21144v1)|null|
 |**2025-06-26**|**FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation**|Xenia Heilmann et.al.|[2506.21095v1](http://arxiv.org/abs/2506.21095v1)|null|
 |**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054v1](http://arxiv.org/abs/2506.21054v1)|null|
