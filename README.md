@@ -52,7 +52,7 @@
 |**2025-06-22**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v1](http://arxiv.org/abs/2506.17872v1)|null|
 |**2025-06-21**|**AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator**|Md. Kamrul Hossain et.al.|[2506.17805v1](http://arxiv.org/abs/2506.17805v1)|null|
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|null|
-|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|**[link](https://github.com/adap/flower)**|
 |**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731v1](http://arxiv.org/abs/2506.16731v1)|null|
 |**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723v1](http://arxiv.org/abs/2506.16723v1)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600v1](http://arxiv.org/abs/2506.16600v1)|null|
@@ -176,7 +176,7 @@
 |**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012v1](http://arxiv.org/abs/2505.21012v1)|null|
 |**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010v1](http://arxiv.org/abs/2505.21010v1)|null|
 |**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|**[link](https://github.com/mariusbock/leakage_har)**|
-|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723v1](http://arxiv.org/abs/2505.20723v1)|null|
+|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723v1](http://arxiv.org/abs/2505.20723v1)|**[link](https://github.com/fzi-forschungszentrum-informatik/lediflow)**|
 |**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648v1](http://arxiv.org/abs/2505.20648v1)|**[link](https://github.com/buptcmm/phnhvvs)**|
 |**2025-05-26**|**One-shot Robust Federated Learning of Independent Component Analysis**|Dian Jin et.al.|[2505.20532v1](http://arxiv.org/abs/2505.20532v1)|null|
 |**2025-05-26**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485v1](http://arxiv.org/abs/2505.20485v1)|null|

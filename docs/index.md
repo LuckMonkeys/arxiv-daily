@@ -1262,7 +1262,7 @@ layout: default
 |**2025-06-22**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v1](http://arxiv.org/abs/2506.17872v1)|null|
 |**2025-06-21**|**AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator**|Md. Kamrul Hossain et.al.|[2506.17805v1](http://arxiv.org/abs/2506.17805v1)|null|
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|null|
-|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|**[link](https://github.com/adap/flower)**|
 |**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731v1](http://arxiv.org/abs/2506.16731v1)|null|
 |**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723v1](http://arxiv.org/abs/2506.16723v1)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600v1](http://arxiv.org/abs/2506.16600v1)|null|
