@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581v1](http://arxiv.org/abs/2507.01581v1)|null|
+|**2025-07-02**|**Hardness of Quantum Distribution Learning and Quantum Cryptography**|Taiga Hiroka et.al.|[2507.01292v1](http://arxiv.org/abs/2507.01292v1)|null|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|null|
+|**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068v1](http://arxiv.org/abs/2507.01068v1)|null|
+|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920v1](http://arxiv.org/abs/2507.00920v1)|null|
+|**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856v1](http://arxiv.org/abs/2507.00856v1)|null|
+|**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643v1](http://arxiv.org/abs/2507.00643v1)|null|
+|**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423v1](http://arxiv.org/abs/2507.00423v1)|null|
+|**2025-07-01**|**Accuracy and Security-Guaranteed Participant Selection and Beamforming Design for RIS-Assisted Federated Learning**|Mengru Wu et.al.|[2507.00388v1](http://arxiv.org/abs/2507.00388v1)|null|
+|**2025-07-02**|**Who Should I Listen To? Adaptive Collaboration in Personalized Federated Learning**|Amr Abourayya et.al.|[2507.00259v2](http://arxiv.org/abs/2507.00259v2)|null|
 |**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836v1](http://arxiv.org/abs/2506.23836v1)|null|
 |**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759v1](http://arxiv.org/abs/2506.23759v1)|null|
 |**2025-06-30**|**Asymptotically Optimal Secure Aggregation for Wireless Federated Learning with Multiple Servers**|Zhenhao Huang et.al.|[2506.23680v1](http://arxiv.org/abs/2506.23680v1)|null|
