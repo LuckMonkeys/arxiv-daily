@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Fluid Democracy in Federated Data Aggregation**|Aditya Vema Reddy Kesari et.al.|[2507.02710v1](http://arxiv.org/abs/2507.02710v1)|null|
+|**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671v1](http://arxiv.org/abs/2507.02671v1)|null|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409v1](http://arxiv.org/abs/2507.02409v1)|null|
+|**2025-07-03**|**VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software**|Chung-ju Huang et.al.|[2507.02376v1](http://arxiv.org/abs/2507.02376v1)|null|
+|**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295v1](http://arxiv.org/abs/2507.02295v1)|null|
+|**2025-07-02**|**REDUS: Adaptive Resampling for Efficient Deep Learning in Centralized and Federated IoT Networks**|Eyad Gad et.al.|[2507.02021v1](http://arxiv.org/abs/2507.02021v1)|null|
 |**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581v1](http://arxiv.org/abs/2507.01581v1)|null|
 |**2025-07-02**|**Hardness of Quantum Distribution Learning and Quantum Cryptography**|Taiga Hiroka et.al.|[2507.01292v1](http://arxiv.org/abs/2507.01292v1)|null|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|null|
