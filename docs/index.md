@@ -1228,6 +1228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230v1](http://arxiv.org/abs/2507.05230v1)|null|
+|**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111v1](http://arxiv.org/abs/2507.05111v1)|null|
+|**2025-07-07**|**BackFed: An Efficient & Standardized Benchmark Suite for Backdoor Attacks in Federated Learning**|Thinh Dao et.al.|[2507.04903v1](http://arxiv.org/abs/2507.04903v1)|null|
+|**2025-07-07**|**Kalman Filter Aided Federated Koopman Learning**|Yutao Chen et.al.|[2507.04808v1](http://arxiv.org/abs/2507.04808v1)|null|
+|**2025-07-07**|**FedPall: Prototype-based Adversarial and Collaborative Learning for Federated Learning with Feature Drift**|Yong Zhang et.al.|[2507.04781v1](http://arxiv.org/abs/2507.04781v1)|null|
+|**2025-07-06**|**TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments**|Gyuejeong Lee et.al.|[2507.04327v1](http://arxiv.org/abs/2507.04327v1)|null|
+|**2025-07-06**|**Heterogeneous Federated Learning with Prototype Alignment and Upscaling**|Gyuejeong Lee et.al.|[2507.04310v1](http://arxiv.org/abs/2507.04310v1)|null|
+|**2025-07-05**|**One-Bit Model Aggregation for Differentially Private and Byzantine-Robust Personalized Federated Learning**|Muhang Lan et.al.|[2507.03973v1](http://arxiv.org/abs/2507.03973v1)|null|
+|**2025-07-05**|**FedFog: Resource-Aware Federated Learning in Edge and Fog Networks**|Somayeh Sobati-M et.al.|[2507.03952v1](http://arxiv.org/abs/2507.03952v1)|null|
+|**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545v1](http://arxiv.org/abs/2507.03545v1)|null|
 |**2025-07-03**|**Fluid Democracy in Federated Data Aggregation**|Aditya Vema Reddy Kesari et.al.|[2507.02710v1](http://arxiv.org/abs/2507.02710v1)|null|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671v1](http://arxiv.org/abs/2507.02671v1)|null|
 |**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409v1](http://arxiv.org/abs/2507.02409v1)|null|
