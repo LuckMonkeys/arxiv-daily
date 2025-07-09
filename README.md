@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031v1](http://arxiv.org/abs/2507.06031v1)|null|
+|**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|null|
+|**2025-07-08**|**Property Elicitation on Imprecise Probabilities**|James Bailie et.al.|[2507.05857v1](http://arxiv.org/abs/2507.05857v1)|null|
+|**2025-07-08**|**Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning**|Samuel Ofosu Mensah et.al.|[2507.05852v1](http://arxiv.org/abs/2507.05852v1)|null|
+|**2025-07-08**|**Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**|Qianpiao Ma et.al.|[2507.05704v1](http://arxiv.org/abs/2507.05704v1)|null|
+|**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685v1](http://arxiv.org/abs/2507.05685v1)|null|
+|**2025-07-07**|**PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**|Sara Chennoufi et.al.|[2507.05524v1](http://arxiv.org/abs/2507.05524v1)|null|
+|**2025-07-07**|**Beyond Communication Overhead: A Multilevel Monte Carlo Approach for Mitigating Compression Bias in Distributed Learning**|Ze'ev Zukerman et.al.|[2507.05508v1](http://arxiv.org/abs/2507.05508v1)|null|
+|**2025-07-07**|**2048: Reinforcement Learning in a Delayed Reward Environment**|Prady Saligram et.al.|[2507.05465v1](http://arxiv.org/abs/2507.05465v1)|null|
+|**2025-07-07**|**pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**|Sajjad Ghiasvand et.al.|[2507.05394v1](http://arxiv.org/abs/2507.05394v1)|null|
 |**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230v1](http://arxiv.org/abs/2507.05230v1)|null|
 |**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111v1](http://arxiv.org/abs/2507.05111v1)|null|
 |**2025-07-07**|**BackFed: An Efficient & Standardized Benchmark Suite for Backdoor Attacks in Federated Learning**|Thinh Dao et.al.|[2507.04903v1](http://arxiv.org/abs/2507.04903v1)|null|
