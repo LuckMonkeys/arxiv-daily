@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997v1](http://arxiv.org/abs/2507.06997v1)|null|
+|**2025-07-09**|**Adaptive collaboration for online personalized distributed learning with heterogeneous clients**|Constantin Philippenko et.al.|[2507.06844v1](http://arxiv.org/abs/2507.06844v1)|null|
+|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813v1](http://arxiv.org/abs/2507.06813v1)|null|
+|**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652v1](http://arxiv.org/abs/2507.06652v1)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482v1](http://arxiv.org/abs/2507.06482v1)|null|
+|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449v1](http://arxiv.org/abs/2507.06449v1)|null|
+|**2025-07-08**|**A Survey of Multi Agent Reinforcement Learning: Federated Learning and Cooperative and Noncooperative Decentralized Regimes**|Kemboi Cheruiyot et.al.|[2507.06278v1](http://arxiv.org/abs/2507.06278v1)|null|
 |**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031v1](http://arxiv.org/abs/2507.06031v1)|null|
 |**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|null|
 |**2025-07-08**|**Property Elicitation on Imprecise Probabilities**|James Bailie et.al.|[2507.05857v1](http://arxiv.org/abs/2507.05857v1)|null|
