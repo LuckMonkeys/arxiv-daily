@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,7 +1230,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997v1](http://arxiv.org/abs/2507.06997v1)|null|
 |**2025-07-09**|**Adaptive collaboration for online personalized distributed learning with heterogeneous clients**|Constantin Philippenko et.al.|[2507.06844v1](http://arxiv.org/abs/2507.06844v1)|null|
-|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-10**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v2](http://arxiv.org/abs/2507.06821v2)|null|
 |**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813v1](http://arxiv.org/abs/2507.06813v1)|null|
 |**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652v1](http://arxiv.org/abs/2507.06652v1)|null|
 |**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482v1](http://arxiv.org/abs/2507.06482v1)|null|

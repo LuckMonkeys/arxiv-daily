@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997v1](http://arxiv.org/abs/2507.06997v1)|null|
 |**2025-07-09**|**Adaptive collaboration for online personalized distributed learning with heterogeneous clients**|Constantin Philippenko et.al.|[2507.06844v1](http://arxiv.org/abs/2507.06844v1)|null|
-|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-10**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v2](http://arxiv.org/abs/2507.06821v2)|null|
 |**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813v1](http://arxiv.org/abs/2507.06813v1)|null|
 |**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652v1](http://arxiv.org/abs/2507.06652v1)|null|
 |**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482v1](http://arxiv.org/abs/2507.06482v1)|null|
@@ -3824,7 +3824,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514v1](http://arxiv.org/abs/2302.14514v1)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427v1](http://arxiv.org/abs/2302.14427v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 
 ## MMS
 
@@ -3847,7 +3847,7 @@
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677v1](http://arxiv.org/abs/1910.11677v1)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196v1](http://arxiv.org/abs/1902.06196v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
