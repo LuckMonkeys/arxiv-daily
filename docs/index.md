@@ -1228,6 +1228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric**|Carlos Beis Penedo et.al.|[2507.07637v1](http://arxiv.org/abs/2507.07637v1)|null|
+|**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|null|
+|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|null|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320v1](http://arxiv.org/abs/2507.07320v1)|null|
+|**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316v1](http://arxiv.org/abs/2507.07316v1)|null|
+|**2025-07-09**|**FedP3E: Privacy-Preserving Prototype Exchange for Non-IID IoT Malware Detection in Cross-Silo Federated Learning**|Rami Darwish et.al.|[2507.07258v1](http://arxiv.org/abs/2507.07258v1)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997v1](http://arxiv.org/abs/2507.06997v1)|null|
 |**2025-07-09**|**Adaptive collaboration for online personalized distributed learning with heterogeneous clients**|Constantin Philippenko et.al.|[2507.06844v1](http://arxiv.org/abs/2507.06844v1)|null|
 |**2025-07-10**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v2](http://arxiv.org/abs/2507.06821v2)|null|
