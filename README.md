@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784v1](http://arxiv.org/abs/2507.08784v1)|null|
+|**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743v1](http://arxiv.org/abs/2507.08743v1)|null|
+|**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617v1](http://arxiv.org/abs/2507.08617v1)|null|
+|**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508v1](http://arxiv.org/abs/2507.08508v1)|null|
+|**2025-07-10**|**Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach**|Atit Pokharel et.al.|[2507.08217v1](http://arxiv.org/abs/2507.08217v1)|null|
 |**2025-07-10**|**HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric**|Carlos Beis Penedo et.al.|[2507.07637v1](http://arxiv.org/abs/2507.07637v1)|null|
 |**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|null|
 |**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565v1](http://arxiv.org/abs/2507.07565v1)|null|
