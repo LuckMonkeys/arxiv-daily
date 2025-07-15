@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474v1](http://arxiv.org/abs/2507.10474v1)|null|
+|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430v1](http://arxiv.org/abs/2507.10430v1)|null|
+|**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348v1](http://arxiv.org/abs/2507.10348v1)|null|
+|**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325v1](http://arxiv.org/abs/2507.10325v1)|null|
+|**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162v1](http://arxiv.org/abs/2507.10162v1)|null|
+|**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160v1](http://arxiv.org/abs/2507.10160v1)|null|
+|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158v1](http://arxiv.org/abs/2507.10158v1)|null|
+|**2025-07-13**|**Federated Learning with Graph-Based Aggregation for Traffic Forecasting**|Audri Banik et.al.|[2507.09805v1](http://arxiv.org/abs/2507.09805v1)|null|
+|**2025-07-13**|**Networked Information Aggregation via Machine Learning**|Michael Kearns et.al.|[2507.09683v1](http://arxiv.org/abs/2507.09683v1)|null|
+|**2025-07-13**|**DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences**|Bocheng Ju et.al.|[2507.09602v1](http://arxiv.org/abs/2507.09602v1)|null|
 |**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784v1](http://arxiv.org/abs/2507.08784v1)|null|
 |**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743v1](http://arxiv.org/abs/2507.08743v1)|null|
 |**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617v1](http://arxiv.org/abs/2507.08617v1)|null|
