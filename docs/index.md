@@ -1228,6 +1228,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models**|Chao Feng et.al.|[2507.13313v1](http://arxiv.org/abs/2507.13313v1)|null|
+|**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983v1](http://arxiv.org/abs/2507.12983v1)|null|
+|**2025-07-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al.|[2507.12979v1](http://arxiv.org/abs/2507.12979v1)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967v1](http://arxiv.org/abs/2507.12967v1)|null|
+|**2025-07-17**|**Federated Learning for Commercial Image Sources**|Shreyansh Jain et.al.|[2507.12903v1](http://arxiv.org/abs/2507.12903v1)|null|
+|**2025-07-16**|**Federated Learning in Open- and Closed-Loop EMG Decoding: A Privacy and Performance Perspective**|Kai Malcolm et.al.|[2507.12652v1](http://arxiv.org/abs/2507.12652v1)|null|
+|**2025-07-16**|**Safeguarding Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[2507.12568v1](http://arxiv.org/abs/2507.12568v1)|null|
 |**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439v1](http://arxiv.org/abs/2507.12439v1)|null|
 |**2025-07-17**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269v2](http://arxiv.org/abs/2507.12269v2)|null|
 |**2025-07-16**|**Self-Adaptive and Robust Federated Spectrum Sensing without Benign Majority for Cellular Networks**|Ngoc Duy Pham et.al.|[2507.12127v1](http://arxiv.org/abs/2507.12127v1)|null|
