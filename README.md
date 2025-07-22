@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Federated Split Learning with Improved Communication and Storage Efficiency**|Yujia Mu et.al.|[2507.15816v1](http://arxiv.org/abs/2507.15816v1)|null|
+|**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796v1](http://arxiv.org/abs/2507.15796v1)|null|
+|**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601v1](http://arxiv.org/abs/2507.15601v1)|null|
+|**2025-07-21**|**FedMultiEmo: Real-Time Emotion Recognition via Multimodal Federated Learning**|Baran Can Gül et.al.|[2507.15470v1](http://arxiv.org/abs/2507.15470v1)|null|
+|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v1](http://arxiv.org/abs/2507.15460v1)|null|
+|**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349v1](http://arxiv.org/abs/2507.15349v1)|null|
+|**2025-07-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al.|[2507.15335v1](http://arxiv.org/abs/2507.15335v1)|null|
+|**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256v1](http://arxiv.org/abs/2507.15256v1)|null|
+|**2025-07-20**|**Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**|Yunfeng Li et.al.|[2507.14999v1](http://arxiv.org/abs/2507.14999v1)|null|
+|**2025-07-20**|**FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios**|Tianle Li et.al.|[2507.14980v1](http://arxiv.org/abs/2507.14980v1)|null|
 |**2025-07-18**|**FedSkipTwin: Digital-Twin-Guided Client Skipping for Communication-Efficient Federated Learning**|Daniel Commey et.al.|[2507.13624v1](http://arxiv.org/abs/2507.13624v1)|null|
 |**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591v1](http://arxiv.org/abs/2507.13591v1)|null|
 |**2025-07-17**|**A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models**|Chao Feng et.al.|[2507.13313v1](http://arxiv.org/abs/2507.13313v1)|null|
