@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Failure to Mix: Large language models struggle to answer according to desired probability distributions**|Ivy Yuqian Yang et.al.|[2511.14630](http://arxiv.org/abs/2511.14630)|**[link](https://github.com/BiostateAIresearch/failure-to-mix)**|
+|**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
+|**2025-11-18**|**Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease**|Julia Machnio et.al.|[2511.14588](http://arxiv.org/abs/2511.14588)|null|
+|**2025-11-18**|**Full Atom Peptide Design via Riemannian Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
+|**2025-11-18**|**Improved Convergence in Parameter-Agnostic Error Feedback through Momentum**|Abdurakhmon Sadiev et.al.|[2511.14501](http://arxiv.org/abs/2511.14501)|null|
+|**2025-11-18**|**Notes on Kernel Methods in Machine Learning**|Diego Armando Pérez-Rosero et.al.|[2511.14485](http://arxiv.org/abs/2511.14485)|**[link](https://github.com/ahmetcik/ML-and-LA-from-scratch)**|
+|**2025-11-18**|**Analyzing the Impact of Participant Failures in Cross-Silo Federated Learning**|Fabian Stricker et.al.|[2511.14456](http://arxiv.org/abs/2511.14456)|null|
+|**2025-11-18**|**Nonparametric estimation of conditional probability distributions using a generative approach based on conditional push-forward neural networks**|Nicola Rares Franco et.al.|[2511.14455](http://arxiv.org/abs/2511.14455)|null|
+|**2025-11-18**|**Multi-network Topology Underlying Individual Language Learning Success**|Peilun Song et.al.|[2511.14453](http://arxiv.org/abs/2511.14453)|null|
+|**2025-11-18**|**Sigil: Server-Enforced Watermarking in U-Shaped Split Federated Learning via Gradient Injection**|Zhengchunmin Dai et.al.|[2511.14422](http://arxiv.org/abs/2511.14422)|null|
 |**2025-07-23**|**Enhancing Quantum Federated Learning with Fisher Information-Based Optimization**|Amandeep Singh Bhatia et.al.|[2507.17580](http://arxiv.org/abs/2507.17580)|null|
 |**2025-07-23**|**Federated Majorize-Minimization: Beyond Parameter Aggregation**|Aymeric Dieuleveut et.al.|[2507.17534](http://arxiv.org/abs/2507.17534)|null|
 |**2025-07-23**|**Decentralized Federated Learning of Probabilistic Generative Classifiers**|Aritz Pérez et.al.|[2507.17285](http://arxiv.org/abs/2507.17285)|null|
@@ -3884,6 +3894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](http://arxiv.org/abs/2511.14005)|null|
+|**2025-11-12**|**Value-Aligned Prompt Moderation via Zero-Shot Agentic Rewriting for Safe Image Generation**|Xin Zhao et.al.|[2511.11693](http://arxiv.org/abs/2511.11693)|null|
+|**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
+|**2025-11-12**|**Framing the Hacker: Media Representations and Public Discourse in Germany**|Raphael Morisco et.al.|[2511.09608](http://arxiv.org/abs/2511.09608)|null|
+|**2025-11-12**|**Intelligent Carrier Allocation: A Cross-Modal Reasoning Framework for Adaptive Multimodal Steganography**|Abhirup Das et.al.|[2511.09552](http://arxiv.org/abs/2511.09552)|null|
+|**2025-11-09**|**SteganoSNN: SNN-Based Audio-in-Image Steganography with Encryption**|Biswajit Kumar Sahoo et.al.|[2511.06573](http://arxiv.org/abs/2511.06573)|null|
+|**2025-11-09**|**A Visual Perception-Based Tunable Framework and Evaluation Benchmark for H.265/HEVC ROI Encryption**|Xiang Zhang et.al.|[2511.06394](http://arxiv.org/abs/2511.06394)|null|
+|**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
+|**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|null|
+|**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
 |**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
