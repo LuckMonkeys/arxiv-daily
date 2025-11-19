@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
+|**2025-11-18**|**\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning**|Abolfazl Younesi et.al.|[2511.14715](http://arxiv.org/abs/2511.14715)|null|
 |**2025-11-18**|**Failure to Mix: Large language models struggle to answer according to desired probability distributions**|Ivy Yuqian Yang et.al.|[2511.14630](http://arxiv.org/abs/2511.14630)|**[link](https://github.com/BiostateAIresearch/failure-to-mix)**|
 |**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
 |**2025-11-18**|**Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease**|Julia Machnio et.al.|[2511.14588](http://arxiv.org/abs/2511.14588)|null|
@@ -5103,7 +5105,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](http://arxiv.org/abs/2511.14005)|null|
-|**2025-11-12**|**Value-Aligned Prompt Moderation via Zero-Shot Agentic Rewriting for Safe Image Generation**|Xin Zhao et.al.|[2511.11693](http://arxiv.org/abs/2511.11693)|null|
+|**2025-11-12**|**Value-Aligned Prompt Moderation via Zero-Shot Agentic Rewriting for Safe Image Generation**|Xin Zhao et.al.|[2511.11693](http://arxiv.org/abs/2511.11693)|**[link](https://github.com/Zhaoxinxinzi/VALOR)**|
 |**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
 |**2025-11-12**|**Framing the Hacker: Media Representations and Public Discourse in Germany**|Raphael Morisco et.al.|[2511.09608](http://arxiv.org/abs/2511.09608)|null|
 |**2025-11-12**|**Intelligent Carrier Allocation: A Cross-Modal Reasoning Framework for Adaptive Multimodal Steganography**|Abhirup Das et.al.|[2511.09552](http://arxiv.org/abs/2511.09552)|null|
