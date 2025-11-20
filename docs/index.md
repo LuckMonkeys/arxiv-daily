@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**Information Efficiency of Scientific Automation**|Mihir Rao et.al.|[2511.15671](http://arxiv.org/abs/2511.15671)|null|
+|**2025-11-19**|**Learning from Imperfect Labels: A Physics-Aware Neural Operator with Application to DAS Data Denoising**|Yang Cui et.al.|[2511.15638](http://arxiv.org/abs/2511.15638)|null|
+|**2025-11-19**|**Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography**|Sai Puppala et.al.|[2511.15614](http://arxiv.org/abs/2511.15614)|null|
+|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
+|**2025-11-19**|**Variance-reduced extreme value index estimators using control variates in a semi-supervised setting**|Louison Bocquet-Nouaille et.al.|[2511.15561](http://arxiv.org/abs/2511.15561)|null|
+|**2025-11-19**|**A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation**|Georgios Venianakis et.al.|[2511.15543](http://arxiv.org/abs/2511.15543)|null|
+|**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](http://arxiv.org/abs/2511.15535)|null|
+|**2025-11-19**|**Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies**|Gabriel Lauzier et.al.|[2511.15520](http://arxiv.org/abs/2511.15520)|null|
+|**2025-11-19**|**Sample-Adaptivity Tradeoff in On-Demand Sampling**|Nika Haghtalab et.al.|[2511.15507](http://arxiv.org/abs/2511.15507)|null|
 |**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
 |**2025-11-18**|**\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning**|Abolfazl Younesi et.al.|[2511.14715](http://arxiv.org/abs/2511.14715)|null|
 |**2025-11-18**|**Failure to Mix: Large language models struggle to answer according to desired probability distributions**|Ivy Yuqian Yang et.al.|[2511.14630](http://arxiv.org/abs/2511.14630)|**[link](https://github.com/BiostateAIresearch/failure-to-mix)**|
