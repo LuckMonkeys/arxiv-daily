@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**From Polynomials to Databases: Arithmetic Structures in Galois Theory**|Jurgen Mezinaj et.al.|[2511.16622](http://arxiv.org/abs/2511.16622)|null|
+|**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](http://arxiv.org/abs/2511.16571)|null|
+|**2025-11-20**|**Dynamic Participation in Federated Learning: Benchmarks and a Knowledge Pool Plugin**|Ming-Lun Lee et.al.|[2511.16523](http://arxiv.org/abs/2511.16523)|null|
+|**2025-11-20**|**Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming**|Ziyue Xu et.al.|[2511.16450](http://arxiv.org/abs/2511.16450)|null|
+|**2025-11-20**|**FreqFlow: Long-term forecasting using lightweight flow matching**|Seyed Mohamad Moghadas et.al.|[2511.16426](http://arxiv.org/abs/2511.16426)|null|
+|**2025-11-20**|**Second-Order MPC-Based Distributed Q-Learning**|Samuel Mallick et.al.|[2511.16424](http://arxiv.org/abs/2511.16424)|**[link](https://github.com/SamuelMallick/dmpcrl_so)**|
+|**2025-11-20**|**TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models**|Li Zhang et.al.|[2511.16423](http://arxiv.org/abs/2511.16423)|null|
+|**2025-11-20**|**Denoising weak lensing mass maps with diffusion model and generative adversarial network**|Shohei D. Aoyama et.al.|[2511.16415](http://arxiv.org/abs/2511.16415)|null|
+|**2025-11-20**|**Sparse Autoencoders are Topic Models**|Leander Girrbach et.al.|[2511.16309](http://arxiv.org/abs/2511.16309)|null|
 |**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
 |**2025-11-19**|**Information Efficiency of Scientific Automation**|Mihir Rao et.al.|[2511.15671](http://arxiv.org/abs/2511.15671)|null|
 |**2025-11-19**|**Learning from Imperfect Labels: A Physics-Aware Neural Operator with Application to DAS Data Denoising**|Yang Cui et.al.|[2511.15638](http://arxiv.org/abs/2511.15638)|null|
