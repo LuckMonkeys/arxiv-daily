@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
+|**2025-11-21**|**InTAct: Interval-based Task Activation Consolidation for Continual Learning**|Patryk Krukowski et.al.|[2511.17439](http://arxiv.org/abs/2511.17439)|null|
+|**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
+|**2025-11-21**|**Preventing Shortcut Learning in Medical Image Analysis through Intermediate Layer Knowledge Distillation from Specialist Teachers**|Christopher Boland et.al.|[2511.17421](http://arxiv.org/abs/2511.17421)|null|
+|**2025-11-21**|**MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration**|Runxun Zhang et.al.|[2511.17392](http://arxiv.org/abs/2511.17392)|null|
+|**2025-11-21**|**Non-Parametric Probabilistic Robustness: A Conservative Metric with Optimized Perturbation Distributions**|Zheng Wang et.al.|[2511.17380](http://arxiv.org/abs/2511.17380)|null|
+|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Yixuan Pan et.al.|[2511.17373](http://arxiv.org/abs/2511.17373)|**[link](https://github.com/OpenDriveLab/AMS)**|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Yankai Fu et.al.|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture**|Xiangteng He et.al.|[2511.17354](http://arxiv.org/abs/2511.17354)|**[link](https://github.com/SkyShunsuke/DSeq-JEPAProject)**|
+|**2025-11-21**|**Label-Efficient Skeleton-based Recognition with Stable-Invertible Graph Convolutional Networks**|Hichem Sahbi et.al.|[2511.17345](http://arxiv.org/abs/2511.17345)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**From Polynomials to Databases: Arithmetic Structures in Galois Theory**|Jurgen Mezinaj et.al.|[2511.16622](http://arxiv.org/abs/2511.16622)|null|
 |**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](http://arxiv.org/abs/2511.16571)|null|
@@ -5132,7 +5142,7 @@ layout: default
 |**2025-11-09**|**SteganoSNN: SNN-Based Audio-in-Image Steganography with Encryption**|Biswajit Kumar Sahoo et.al.|[2511.06573](http://arxiv.org/abs/2511.06573)|null|
 |**2025-11-09**|**A Visual Perception-Based Tunable Framework and Evaluation Benchmark for H.265/HEVC ROI Encryption**|Xiang Zhang et.al.|[2511.06394](http://arxiv.org/abs/2511.06394)|null|
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
-|**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|null|
+|**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
 |**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
