@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://github.com/hsouzaeduardo/cloud4developers-cloudserrado-event)**|
+|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|null|
+|**2025-11-24**|**Black-Box Lifting and Robustness Theorems for Multi-Agent Contracts**|Paul Dütting et.al.|[2511.19358](http://arxiv.org/abs/2511.19358)|null|
+|**2025-11-24**|**Growing with the Generator: Self-paced GRPO for Video Generation**|Rui Li et.al.|[2511.19356](http://arxiv.org/abs/2511.19356)|null|
+|**2025-11-24**|**CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting**|Abdurahman Ali Mohammed et.al.|[2511.19351](http://arxiv.org/abs/2511.19351)|null|
+|**2025-11-24**|**AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning**|Jiayi Zhang et.al.|[2511.19304](http://arxiv.org/abs/2511.19304)|null|
+|**2025-11-24**|**MapFormer: Self-Supervised Learning of Cognitive Maps with Input-Dependent Positional Embeddings**|Victor Rambaud et.al.|[2511.19279](http://arxiv.org/abs/2511.19279)|null|
+|**2025-11-24**|**Diffusion Reconstruction-based Data Likelihood Estimation for Core-Set Selection**|Mingyang Chen et.al.|[2511.19274](http://arxiv.org/abs/2511.19274)|null|
+|**2025-11-24**|**FedPoisonTTP: A Threat Model and Poisoning Attack for Federated Test-Time Personalization**|Md Akil Raihan Iftee et.al.|[2511.19248](http://arxiv.org/abs/2511.19248)|null|
+|**2025-11-24**|**Empirical Comparison of Forgetting Mechanisms for UCB-based Algorithms on a Data-Driven Simulation Platform**|Minxin Chen et.al.|[2511.19240](http://arxiv.org/abs/2511.19240)|null|
 |**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
 |**2025-11-21**|**InTAct: Interval-based Task Activation Consolidation for Continual Learning**|Patryk Krukowski et.al.|[2511.17439](http://arxiv.org/abs/2511.17439)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
@@ -5134,6 +5144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
 |**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](http://arxiv.org/abs/2511.14005)|null|
 |**2025-11-12**|**Value-Aligned Prompt Moderation via Zero-Shot Agentic Rewriting for Safe Image Generation**|Xin Zhao et.al.|[2511.11693](http://arxiv.org/abs/2511.11693)|**[link](https://github.com/Zhaoxinxinzi/VALOR)**|
 |**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
