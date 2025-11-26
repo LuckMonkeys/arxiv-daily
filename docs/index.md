@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1224,7 +1224,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://github.com/hsouzaeduardo/cloud4developers-cloudserrado-event)**|
-|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|null|
+|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|**[link](https://github.com/ShangyuanTong/FreeFlow)**|
 |**2025-11-24**|**Black-Box Lifting and Robustness Theorems for Multi-Agent Contracts**|Paul Dütting et.al.|[2511.19358](http://arxiv.org/abs/2511.19358)|null|
 |**2025-11-24**|**Growing with the Generator: Self-paced GRPO for Video Generation**|Rui Li et.al.|[2511.19356](http://arxiv.org/abs/2511.19356)|null|
 |**2025-11-24**|**CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting**|Abdurahman Ali Mohammed et.al.|[2511.19351](http://arxiv.org/abs/2511.19351)|null|
