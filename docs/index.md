@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
+|**2025-11-25**|**Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model**|Ziyue Wang et.al.|[2511.20636](http://arxiv.org/abs/2511.20636)|null|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Jiahui Zhang et.al.|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://github.com/LogosRoboticsGroup/ProphRL)**|
+|**2025-11-25**|**Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition**|Yujin Kim et.al.|[2511.20612](http://arxiv.org/abs/2511.20612)|**[link](https://github.com/sdean-group/Stochastic-NODE-DMD)**|
+|**2025-11-25**|**Adaptive Hopfield Network: Rethinking Similarities in Associative Memory**|Shurong Wang et.al.|[2511.20609](http://arxiv.org/abs/2511.20609)|null|
+|**2025-11-25**|**Feature-Modulated UFNO for Improved Prediction of Multiphase Flow in Porous Media**|Alhasan Abdellatif et.al.|[2511.20543](http://arxiv.org/abs/2511.20543)|null|
+|**2025-11-25**|**Generative Modeling with Manifold Percolation**|Rui Tong et.al.|[2511.20503](http://arxiv.org/abs/2511.20503)|null|
+|**2025-11-25**|**From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations**|Zhiqing Guo et.al.|[2511.20359](http://arxiv.org/abs/2511.20359)|null|
+|**2025-11-25**|**Forgetting by Pruning: Data Deletion in Join Cardinality Estimation**|Chaowei He et.al.|[2511.20293](http://arxiv.org/abs/2511.20293)|**[link](https://github.com/heriec/CEP)**|
+|**2025-11-25**|**Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits**|Areeb Ahmad et.al.|[2511.20273](http://arxiv.org/abs/2511.20273)|null|
 |**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://github.com/hsouzaeduardo/cloud4developers-cloudserrado-event)**|
 |**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|**[link](https://github.com/ShangyuanTong/FreeFlow)**|
 |**2025-11-24**|**Black-Box Lifting and Robustness Theorems for Multi-Agent Contracts**|Paul Dütting et.al.|[2511.19358](http://arxiv.org/abs/2511.19358)|null|
@@ -5144,6 +5154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
 |**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
 |**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](http://arxiv.org/abs/2511.14005)|null|
 |**2025-11-12**|**Value-Aligned Prompt Moderation via Zero-Shot Agentic Rewriting for Safe Image Generation**|Xin Zhao et.al.|[2511.11693](http://arxiv.org/abs/2511.11693)|**[link](https://github.com/Zhaoxinxinzi/VALOR)**|
@@ -5151,7 +5162,7 @@ layout: default
 |**2025-11-12**|**Framing the Hacker: Media Representations and Public Discourse in Germany**|Raphael Morisco et.al.|[2511.09608](http://arxiv.org/abs/2511.09608)|null|
 |**2025-11-12**|**Intelligent Carrier Allocation: A Cross-Modal Reasoning Framework for Adaptive Multimodal Steganography**|Abhirup Das et.al.|[2511.09552](http://arxiv.org/abs/2511.09552)|null|
 |**2025-11-09**|**SteganoSNN: SNN-Based Audio-in-Image Steganography with Encryption**|Biswajit Kumar Sahoo et.al.|[2511.06573](http://arxiv.org/abs/2511.06573)|null|
-|**2025-11-09**|**A Visual Perception-Based Tunable Framework and Evaluation Benchmark for H.265/HEVC ROI Encryption**|Xiang Zhang et.al.|[2511.06394](http://arxiv.org/abs/2511.06394)|null|
+|**2025-11-25**|**A Visual Perception-Based Tunable Framework and Evaluation Benchmark for H.265/HEVC ROI Encryption**|Xiang Zhang et.al.|[2511.06394](http://arxiv.org/abs/2511.06394)|null|
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
