@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
+|**2025-11-26**|**On Evolution-Based Models for Experimentation Under Interference**|Sadegh Shirani et.al.|[2511.21675](http://arxiv.org/abs/2511.21675)|null|
+|**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
+|**2025-11-26**|**Mechanisms of Non-Monotonic Scaling in Vision Transformers**|Anantha Padmanaban Krishna Kumar et.al.|[2511.21635](http://arxiv.org/abs/2511.21635)|null|
+|**2025-11-26**|**Active Learning for GCN-based Action Recognition**|Hichem Sahbi et.al.|[2511.21625](http://arxiv.org/abs/2511.21625)|null|
+|**2025-11-26**|**Beyond Accuracy: An Empirical Study of Uncertainty Estimation in Imputation**|Zarin Tahia Hossain et.al.|[2511.21607](http://arxiv.org/abs/2511.21607)|null|
+|**2025-11-26**|**Computing Strategic Responses to Non-Linear Classifiers**|Jack Geary et.al.|[2511.21560](http://arxiv.org/abs/2511.21560)|null|
+|**2025-11-26**|**$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**|Zhihao Zhan et.al.|[2511.21542](http://arxiv.org/abs/2511.21542)|null|
+|**2025-11-26**|**Predictive Safety Shield for Dyna-Q Reinforcement Learning**|Jin Pin et.al.|[2511.21531](http://arxiv.org/abs/2511.21531)|null|
+|**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
 |**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
 |**2025-11-25**|**Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model**|Ziyue Wang et.al.|[2511.20636](http://arxiv.org/abs/2511.20636)|null|
 |**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Jiahui Zhang et.al.|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://github.com/LogosRoboticsGroup/ProphRL)**|
