@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation**|Bernhard Klein et.al.|[2511.23440](http://arxiv.org/abs/2511.23440)|null|
+|**2025-11-28**|**Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning**|Jiajun Guo et.al.|[2511.23402](http://arxiv.org/abs/2511.23402)|null|
+|**2025-11-28**|**FedSGT: Exact Federated Unlearning via Sequential Group-based Training**|Bokang Zhang et.al.|[2511.23393](http://arxiv.org/abs/2511.23393)|null|
+|**2025-11-28**|**SimScale: Learning to Drive via Real-World Simulation at Scale**|Haochen Tian et.al.|[2511.23369](http://arxiv.org/abs/2511.23369)|null|
+|**2025-11-28**|**Distributed Dynamic Associative Memory via Online Convex Optimization**|Bowen Wang et.al.|[2511.23347](http://arxiv.org/abs/2511.23347)|null|
+|**2025-11-28**|**Emergent Coordination and Phase Structure in Independent Multi-Agent Reinforcement Learning**|Azusa Yamaguchi et.al.|[2511.23315](http://arxiv.org/abs/2511.23315)|null|
+|**2025-11-28**|**Closing the Generalization Gap in Parameter-efficient Federated Edge Learning**|Xinnong Du et.al.|[2511.23282](http://arxiv.org/abs/2511.23282)|null|
+|**2025-11-28**|**One-Shot Secure Aggregation: A Hybrid Cryptographic Protocol for Private Federated Learning in IoT**|Imraul Emmaka et.al.|[2511.23252](http://arxiv.org/abs/2511.23252)|null|
+|**2025-11-28**|**Deep Learning for Restoring MPI System Matrices Using Simulated Training Data**|Artyom Tsanda et.al.|[2511.23251](http://arxiv.org/abs/2511.23251)|null|
+|**2025-11-28**|**SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows**|Niklas Houba et.al.|[2511.23228](http://arxiv.org/abs/2511.23228)|null|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
 |**2025-11-26**|**On Evolution-Based Models for Experimentation Under Interference**|Sadegh Shirani et.al.|[2511.21675](http://arxiv.org/abs/2511.21675)|null|
 |**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
@@ -3956,6 +3966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](http://arxiv.org/abs/2511.23026)|null|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
 |**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
 |**2025-11-18**|**Privis: Towards Content-Aware Secure Volumetric Video Delivery**|Kaiyuan Hu et.al.|[2511.14005](http://arxiv.org/abs/2511.14005)|null|
