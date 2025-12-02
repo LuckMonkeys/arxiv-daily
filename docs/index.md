@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|**[link](https://github.com/chang-jl/EfficientFlow)**|
+|**2025-12-01**|**A Diffusion Model Framework for Maximum Entropy Reinforcement Learning**|Sebastian Sanokowski et.al.|[2512.02019](http://arxiv.org/abs/2512.02019)|null|
+|**2025-12-01**|**AlignSAE: Concept-Aligned Sparse Autoencoders**|Minglai Yang et.al.|[2512.02004](http://arxiv.org/abs/2512.02004)|null|
+|**2025-12-01**|**Feature-Based Semantics-Aware Scheduling for Energy-Harvesting Federated Learning**|Eunjeong Jeong et.al.|[2512.01983](http://arxiv.org/abs/2512.01983)|null|
+|**2025-12-01**|**Consistent Synthetic Sequences Unlock Structural Diversity in Fully Atomistic De Novo Protein Design**|Danny Reidenbach et.al.|[2512.01976](http://arxiv.org/abs/2512.01976)|null|
+|**2025-12-01**|**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**|Sitao Cheng et.al.|[2512.01970](http://arxiv.org/abs/2512.01970)|null|
+|**2025-12-01**|**SARL: Spatially-Aware Self-Supervised Representation Learning for Visuo-Tactile Perception**|Gurmeher Khurana et.al.|[2512.01908](http://arxiv.org/abs/2512.01908)|null|
+|**2025-12-01**|**Digital Twin Aided Millimeter Wave MIMO: Site-Specific Beam Codebook Learning**|Hao Luo et.al.|[2512.01902](http://arxiv.org/abs/2512.01902)|null|
+|**2025-12-01**|**Provably Safe Model Updates**|Leo Elmecker-Plakolm et.al.|[2512.01899](http://arxiv.org/abs/2512.01899)|null|
+|**2025-12-01**|**Forget Less, Retain More: A Lightweight Regularizer for Rehearsal-Based Continual Learning**|Lama Alssum et.al.|[2512.01818](http://arxiv.org/abs/2512.01818)|null|
 |**2025-11-28**|**Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation**|Bernhard Klein et.al.|[2511.23440](http://arxiv.org/abs/2511.23440)|null|
 |**2025-11-28**|**Quantized-Tinyllava: a new multimodal foundation model enables efficient split learning**|Jiajun Guo et.al.|[2511.23402](http://arxiv.org/abs/2511.23402)|null|
 |**2025-11-28**|**FedSGT: Exact Federated Unlearning via Sequential Group-based Training**|Bokang Zhang et.al.|[2511.23393](http://arxiv.org/abs/2511.23393)|null|
@@ -5174,6 +5184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**MARSAD: A Multi-Functional Tool for Real-Time Social Media Analysis**|Md. Rafiul Biswas et.al.|[2512.01369](http://arxiv.org/abs/2512.01369)|null|
 |**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](http://arxiv.org/abs/2511.23026)|null|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
 |**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
