@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
+|**2025-12-02**|**Learning interpretable surface elasticity properties from bulk properties**|Saaketh Desai et.al.|[2512.02985](http://arxiv.org/abs/2512.02985)|null|
+|**2025-12-02**|**Fast Gaussian Process Approximations for Autocorrelated Data**|Ahmadreza Chokhachian et.al.|[2512.02925](http://arxiv.org/abs/2512.02925)|**[link](https://github.com/AhmadChokhachian/FastGP)**|
+|**2025-12-02**|**OptPO: Optimal Rollout Allocation for Test-time Policy Optimization**|Youkang Wang et.al.|[2512.02882](http://arxiv.org/abs/2512.02882)|null|
+|**2025-12-02**|**Adaptive Decentralized Federated Learning for Robust Optimization**|Shuyuan Wu et.al.|[2512.02852](http://arxiv.org/abs/2512.02852)|null|
+|**2025-12-02**|**VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion**|Xinzheng Wu et.al.|[2512.02844](http://arxiv.org/abs/2512.02844)|null|
+|**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|**[link](https://github.com/breez3young/TACO)**|
+|**2025-12-02**|**Revisiting Theory of Contrastive Learning for Domain Generalization**|Ali Alvandi et.al.|[2512.02831](http://arxiv.org/abs/2512.02831)|null|
+|**2025-12-02**|**Tempering the Bayes Filter towards Improved Model-Based Estimation**|Menno van Zutphen et.al.|[2512.02823](http://arxiv.org/abs/2512.02823)|null|
+|**2025-12-02**|**SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment**|Yixuan Tang et.al.|[2512.02807](http://arxiv.org/abs/2512.02807)|null|
 |**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|**[link](https://github.com/chang-jl/EfficientFlow)**|
 |**2025-12-01**|**A Diffusion Model Framework for Maximum Entropy Reinforcement Learning**|Sebastian Sanokowski et.al.|[2512.02019](http://arxiv.org/abs/2512.02019)|null|
 |**2025-12-01**|**AlignSAE: Concept-Aligned Sparse Autoencoders**|Minglai Yang et.al.|[2512.02004](http://arxiv.org/abs/2512.02004)|null|
