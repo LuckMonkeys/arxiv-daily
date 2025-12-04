@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
+|**2025-12-03**|**On distance and velocity estimation in cosmology**|Adi Nusser et.al.|[2512.04075](http://arxiv.org/abs/2512.04075)|null|
+|**2025-12-03**|**Machine Learning Pipeline for Denoising Low Signal-To-Noise Ratio and Out-of-Distribution Transmission Electron Microscopy Datasets**|Brian Lee et.al.|[2512.04045](http://arxiv.org/abs/2512.04045)|null|
+|**2025-12-03**|**Teaching Using Immersion - Explaining Magnetism and Eclipses in a Planetarium Dome**|Patricia H Reiff et.al.|[2512.04027](http://arxiv.org/abs/2512.04027)|null|
+|**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
+|**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[2512.03949](http://arxiv.org/abs/2512.03949)|null|
+|**2025-12-03**|**Probabilistic Foundations of Fuzzy Simplicial Sets for Nonlinear Dimensionality Reduction**|Janis Keck et.al.|[2512.03899](http://arxiv.org/abs/2512.03899)|null|
+|**2025-12-03**|**A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software**|Shree Hari Bittugondanahalli Indra Kumar et.al.|[2512.03868](http://arxiv.org/abs/2512.03868)|null|
+|**2025-12-03**|**Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba**|Liwen Pan et.al.|[2512.03852](http://arxiv.org/abs/2512.03852)|null|
+|**2025-12-03**|**DVPO: Distributional Value Modeling-based Policy Optimization for LLM Post-Training**|Dingwei Zhu et.al.|[2512.03847](http://arxiv.org/abs/2512.03847)|null|
 |**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
 |**2025-12-02**|**Learning interpretable surface elasticity properties from bulk properties**|Saaketh Desai et.al.|[2512.02985](http://arxiv.org/abs/2512.02985)|null|
 |**2025-12-02**|**Fast Gaussian Process Approximations for Autocorrelated Data**|Ahmadreza Chokhachian et.al.|[2512.02925](http://arxiv.org/abs/2512.02925)|**[link](https://github.com/AhmadChokhachian/FastGP)**|
