@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**|Germán Kruszewski et.al.|[2512.05962](http://arxiv.org/abs/2512.05962)|null|
+|**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
+|**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|**[link](https://github.com/irom-princeton/c-cubed)**|
+|**2025-12-05**|**Learning the Cosmic Web: Graph-based Classification of Simulated Galaxies by their Dark Matter Environments**|Dakshesh Kololgi et.al.|[2512.05909](http://arxiv.org/abs/2512.05909)|null|
+|**2025-12-05**|**Neural Coherence : Find higher performance to out-of-distribution tasks from few samples**|Simon Guiroy et.al.|[2512.05880](http://arxiv.org/abs/2512.05880)|null|
+|**2025-12-05**|**NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation**|Daniel Rose et.al.|[2512.05844](http://arxiv.org/abs/2512.05844)|null|
+|**2025-12-05**|**Real-time Remote Tracking and Autonomous Planning for Whale Rendezvous using Robots**|Sushmita Bhattacharya et.al.|[2512.05808](http://arxiv.org/abs/2512.05808)|null|
+|**2025-12-05**|**FNOPT: Resolution-Agnostic, Self-Supervised Cloth Simulation using Meta-Optimization with Fourier Neural Operators**|Ruochen Chen et.al.|[2512.05762](http://arxiv.org/abs/2512.05762)|null|
+|**2025-12-05**|**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**|Nan Zhong et.al.|[2512.05651](http://arxiv.org/abs/2512.05651)|null|
+|**2025-12-05**|**Modular Jets for Supervised Pipelines: Diagnosing Mirage vs Identifiability**|Suman Sanyal et.al.|[2512.05638](http://arxiv.org/abs/2512.05638)|null|
 |**2025-12-04**|**Model-Free Assessment of Simulator Fidelity via Quantile Curves**|Garud Iyengar et.al.|[2512.05024](http://arxiv.org/abs/2512.05024)|null|
 |**2025-12-04**|**Towards a unified framework for guided diffusion models**|Yuchen Jiao et.al.|[2512.04985](http://arxiv.org/abs/2512.04985)|null|
 |**2025-12-04**|**Federated Learning for Terahertz Wireless Communication**|O. Tansel Baydas et.al.|[2512.04984](http://arxiv.org/abs/2512.04984)|null|
@@ -5214,6 +5224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-01**|**MARSAD: A Multi-Functional Tool for Real-Time Social Media Analysis**|Md. Rafiul Biswas et.al.|[2512.01369](http://arxiv.org/abs/2512.01369)|null|
 |**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](http://arxiv.org/abs/2511.23026)|null|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
