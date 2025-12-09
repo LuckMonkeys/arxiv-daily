@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1233,6 +1233,9 @@ layout: default
 |**2025-12-05**|**FNOPT: Resolution-Agnostic, Self-Supervised Cloth Simulation using Meta-Optimization with Fourier Neural Operators**|Ruochen Chen et.al.|[2512.05762](http://arxiv.org/abs/2512.05762)|null|
 |**2025-12-05**|**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**|Nan Zhong et.al.|[2512.05651](http://arxiv.org/abs/2512.05651)|null|
 |**2025-12-05**|**Modular Jets for Supervised Pipelines: Diagnosing Mirage vs Identifiability**|Suman Sanyal et.al.|[2512.05638](http://arxiv.org/abs/2512.05638)|null|
+|**2025-12-05**|**University Building Recognition Dataset in Thailand for the mission-oriented IoT sensor system**|Takara Taniguchi et.al.|[2512.05468](http://arxiv.org/abs/2512.05468)|null|
+|**2025-12-05**|**FedGMR: Federated Learning with Gradual Model Restoration under Asynchrony and Model Heterogeneity**|Chengjie Ma et.al.|[2512.05372](http://arxiv.org/abs/2512.05372)|null|
+|**2025-12-04**|**MAR-FL: A Communication Efficient Peer-to-Peer Federated Learning System**|Felix Mulitze et.al.|[2512.05234](http://arxiv.org/abs/2512.05234)|null|
 |**2025-12-04**|**Model-Free Assessment of Simulator Fidelity via Quantile Curves**|Garud Iyengar et.al.|[2512.05024](http://arxiv.org/abs/2512.05024)|null|
 |**2025-12-04**|**Towards a unified framework for guided diffusion models**|Yuchen Jiao et.al.|[2512.04985](http://arxiv.org/abs/2512.04985)|null|
 |**2025-12-04**|**Federated Learning for Terahertz Wireless Communication**|O. Tansel Baydas et.al.|[2512.04984](http://arxiv.org/abs/2512.04984)|null|
@@ -1243,6 +1246,9 @@ layout: default
 |**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[2512.04771](http://arxiv.org/abs/2512.04771)|null|
 |**2025-12-04**|**POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?**|Divyansh Pandey et.al.|[2512.04702](http://arxiv.org/abs/2512.04702)|null|
 |**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|null|
+|**2025-12-04**|**Federated Learning for Anomaly Detection in Maritime Movement Data**|Anita Graser et.al.|[2512.04635](http://arxiv.org/abs/2512.04635)|null|
+|**2025-12-03**|**How (Mis)calibrated is Your Federated CLIP and What To Do About It?**|Mainak Singha et.al.|[2512.04305](http://arxiv.org/abs/2512.04305)|null|
+|**2025-12-03**|**Studying Various Activation Functions and Non-IID Data for Machine Learning Model Robustness**|Long Dang et.al.|[2512.04264](http://arxiv.org/abs/2512.04264)|null|
 |**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
 |**2025-12-03**|**On distance and velocity estimation in cosmology**|Adi Nusser et.al.|[2512.04075](http://arxiv.org/abs/2512.04075)|null|
 |**2025-12-03**|**Machine Learning Pipeline for Denoising Low Signal-To-Noise Ratio and Out-of-Distribution Transmission Electron Microscopy Datasets**|Brian Lee et.al.|[2512.04045](http://arxiv.org/abs/2512.04045)|null|
@@ -1253,6 +1259,8 @@ layout: default
 |**2025-12-03**|**A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software**|Shree Hari Bittugondanahalli Indra Kumar et.al.|[2512.03868](http://arxiv.org/abs/2512.03868)|null|
 |**2025-12-03**|**Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba**|Liwen Pan et.al.|[2512.03852](http://arxiv.org/abs/2512.03852)|null|
 |**2025-12-03**|**DVPO: Distributional Value Modeling-based Policy Optimization for LLM Post-Training**|Dingwei Zhu et.al.|[2512.03847](http://arxiv.org/abs/2512.03847)|null|
+|**2025-12-03**|**Over-the-Air Federated Learning: Rethinking Edge AI Through Signal Processing**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2512.03719](http://arxiv.org/abs/2512.03719)|null|
+|**2025-12-03**|**CoGraM: Context-sensitive granular optimization method with rollback for robust model fusion**|Julius Lenz et.al.|[2512.03610](http://arxiv.org/abs/2512.03610)|null|
 |**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
 |**2025-12-02**|**Learning interpretable surface elasticity properties from bulk properties**|Saaketh Desai et.al.|[2512.02985](http://arxiv.org/abs/2512.02985)|null|
 |**2025-12-02**|**Fast Gaussian Process Approximations for Autocorrelated Data**|Ahmadreza Chokhachian et.al.|[2512.02925](http://arxiv.org/abs/2512.02925)|**[link](https://github.com/AhmadChokhachian/FastGP)**|
@@ -5239,7 +5247,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
+|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
@@ -5249,12 +5257,13 @@ layout: default
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
 |**2019-10-19**|**Security analysis of an audio data encryption scheme based on key chaining and DNA encoding**|Imad El Hanouti et.al.|[1910.11677](http://arxiv.org/abs/1910.11677)|null|
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
+|**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
