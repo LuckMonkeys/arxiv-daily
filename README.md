@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Bandwidth-Aware Network Topology Optimization for Decentralized Learning**|Yipeng Shen et.al.|[2512.07536](http://arxiv.org/abs/2512.07536)|null|
+|**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
+|**2025-12-07**|**FedDSR: Federated Deep Supervision and Regularization Towards Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06676](http://arxiv.org/abs/2512.06676)|null|
+|**2025-12-06**|**Formalisation of Security for Federated Learning with DP and Attacker Advantage in IIIf for Satellite Swarms -- Extended Version**|Florian Kammüller et.al.|[2512.06467](http://arxiv.org/abs/2512.06467)|null|
+|**2025-12-06**|**AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems**|Chuanhao Nie et.al.|[2512.06240](http://arxiv.org/abs/2512.06240)|null|
+|**2025-12-05**|**The MICCAI Federated Tumor Segmentation (FeTS) Challenge 2024: Efficient and Robust Aggregation Methods for Federated Learning**|Akis Linardos et.al.|[2512.06206](http://arxiv.org/abs/2512.06206)|null|
+|**2025-12-05**|**DEFEND: Poisoned Model Detection and Malicious Client Exclusion Mechanism for Secure Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[2512.06172](http://arxiv.org/abs/2512.06172)|null|
+|**2025-12-04**|**Physics-Guided Deepfake Detection for Voice Authentication Systems**|Alireza Mohammadi et.al.|[2512.06040](http://arxiv.org/abs/2512.06040)|null|
 |**2025-12-05**|**Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**|Germán Kruszewski et.al.|[2512.05962](http://arxiv.org/abs/2512.05962)|null|
 |**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|**[link](https://github.com/irom-princeton/c-cubed)**|
