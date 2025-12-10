@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Decentralized Trust for Space AI: Blockchain-Based Federated Learning Across Multi-Vendor LEO Satellite Networks**|Mohamed Elmahallawy et.al.|[2512.08882](http://arxiv.org/abs/2512.08882)|null|
+|**2025-12-09**|**Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents**|Xiang Chen et.al.|[2512.08870](http://arxiv.org/abs/2512.08870)|null|
+|**2025-12-09**|**Secure and Privacy-Preserving Federated Learning for Next-Generation Underground Mine Safety**|Mohamed Elmahallawy et.al.|[2512.08862](http://arxiv.org/abs/2512.08862)|null|
+|**2025-12-09**|**A Systematic Evaluation of Preference Aggregation in Federated RLHF for Pluralistic Alignment of LLMs**|Mahmoud Srewa et.al.|[2512.08786](http://arxiv.org/abs/2512.08786)|null|
+|**2025-12-09**|**Skewness-Guided Pruning of Multimodal Swin Transformers for Federated Skin Lesion Classification on Edge Devices**|Kuniko Paxton et.al.|[2512.08751](http://arxiv.org/abs/2512.08751)|null|
+|**2025-12-09**|**Gradient-Informed Monte Carlo Fine-Tuning of Diffusion Models for Low-Thrust Trajectory Design**|Jannik Graebner et.al.|[2512.08705](http://arxiv.org/abs/2512.08705)|null|
+|**2025-12-09**|**DS FedProxGrad: Asymptotic Stationarity Without Noise Floor in Fair Federated Learning**|Huzaifa Arif et.al.|[2512.08671](http://arxiv.org/abs/2512.08671)|null|
+|**2025-12-09**|**Minimizing Layerwise Activation Norm Improves Generalization in Federated Learning**|M Yashwanth et.al.|[2512.08314](http://arxiv.org/abs/2512.08314)|null|
+|**2025-12-09**|**FedLAD: A Modular and Adaptive Testbed for Federated Log Anomaly Detection**|Yihan Liao et.al.|[2512.08277](http://arxiv.org/abs/2512.08277)|null|
+|**2025-12-09**|**SOFA-FL: Self-Organizing Hierarchical Federated Learning with Adaptive Clustered Data Sharing**|Yi Ni et.al.|[2512.08267](http://arxiv.org/abs/2512.08267)|null|
 |**2025-12-08**|**Bandwidth-Aware Network Topology Optimization for Decentralized Learning**|Yipeng Shen et.al.|[2512.07536](http://arxiv.org/abs/2512.07536)|null|
 |**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
 |**2025-12-07**|**FedDSR: Federated Deep Supervision and Regularization Towards Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06676](http://arxiv.org/abs/2512.06676)|null|
