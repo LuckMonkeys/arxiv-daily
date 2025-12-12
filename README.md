@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification**|Mostafa Anoosha et.al.|[2512.10701](http://arxiv.org/abs/2512.10701)|null|
+|**2025-12-11**|**Clustered Federated Learning with Hierarchical Knowledge Distillation**|Sabtain Ahmad et.al.|[2512.10443](http://arxiv.org/abs/2512.10443)|null|
+|**2025-12-11**|**D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning**|Yash Srivastava et.al.|[2512.10372](http://arxiv.org/abs/2512.10372)|null|
+|**2025-12-11**|**REMISVFU: Vertical Federated Unlearning via Representation Misdirection for Intermediate Output Feature**|Wenhan Wu et.al.|[2512.10348](http://arxiv.org/abs/2512.10348)|null|
+|**2025-12-11**|**A Privacy-Preserving Cloud Architecture for Distributed Machine Learning at Scale**|Vinoth Punniyamoorthy et.al.|[2512.10341](http://arxiv.org/abs/2512.10341)|null|
+|**2025-12-11**|**FLARE: A Wireless Side-Channel Fingerprinting Attack on Federated Learning**|Md Nahid Hasan Shuvo et.al.|[2512.10296](http://arxiv.org/abs/2512.10296)|null|
+|**2025-12-11**|**Federated Domain Generalization with Latent Space Inversion**|Ragja Palakkadavath et.al.|[2512.10224](http://arxiv.org/abs/2512.10224)|**[link](https://github.com/ragjapk/Latent-Space-Inversion)**|
 |**2025-12-10**|**Energy-Efficient Federated Learning with Relay-Assisted Aggregation in IIoT Networks**|Hamid Reza Hashempour et.al.|[2512.09827](http://arxiv.org/abs/2512.09827)|null|
 |**2025-12-10**|**Federated Distillation Assisted Vehicle Edge Caching Scheme Based on Lightweight DDPM**|Xun Li et.al.|[2512.09378](http://arxiv.org/abs/2512.09378)|**[link](https://github.com/qiongwu86/Federated-Distillation-Assisted-Vehicle-Edge-Caching-Scheme-Based-on-Lightweight-DDPM)**|
 |**2025-12-10**|**Hetero-SplitEE: Split Learning of Neural Networks with Early Exits for Heterogeneous IoT Devices**|Yuki Oda et.al.|[2512.09313](http://arxiv.org/abs/2512.09313)|null|
