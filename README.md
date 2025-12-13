@@ -19,7 +19,7 @@
 |**2025-12-11**|**REMISVFU: Vertical Federated Unlearning via Representation Misdirection for Intermediate Output Feature**|Wenhan Wu et.al.|[2512.10348](http://arxiv.org/abs/2512.10348)|null|
 |**2025-12-11**|**A Privacy-Preserving Cloud Architecture for Distributed Machine Learning at Scale**|Vinoth Punniyamoorthy et.al.|[2512.10341](http://arxiv.org/abs/2512.10341)|null|
 |**2025-12-11**|**FLARE: A Wireless Side-Channel Fingerprinting Attack on Federated Learning**|Md Nahid Hasan Shuvo et.al.|[2512.10296](http://arxiv.org/abs/2512.10296)|null|
-|**2025-12-11**|**Federated Domain Generalization with Latent Space Inversion**|Ragja Palakkadavath et.al.|[2512.10224](http://arxiv.org/abs/2512.10224)|**[link](https://github.com/ragjapk/Latent-Space-Inversion)**|
+|**2025-12-11**|**Federated Domain Generalization with Latent Space Inversion**|Ragja Palakkadavath et.al.|[2512.10224](http://arxiv.org/abs/2512.10224)|null|
 |**2025-12-10**|**Energy-Efficient Federated Learning with Relay-Assisted Aggregation in IIoT Networks**|Hamid Reza Hashempour et.al.|[2512.09827](http://arxiv.org/abs/2512.09827)|null|
 |**2025-12-10**|**Federated Distillation Assisted Vehicle Edge Caching Scheme Based on Lightweight DDPM**|Xun Li et.al.|[2512.09378](http://arxiv.org/abs/2512.09378)|**[link](https://github.com/qiongwu86/Federated-Distillation-Assisted-Vehicle-Edge-Caching-Scheme-Based-on-Lightweight-DDPM)**|
 |**2025-12-10**|**Hetero-SplitEE: Split Learning of Neural Networks with Early Exits for Heterogeneous IoT Devices**|Yuki Oda et.al.|[2512.09313](http://arxiv.org/abs/2512.09313)|null|
@@ -4067,7 +4067,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
