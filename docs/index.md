@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**SpectralKrum: A Spectral-Geometric Defense Against Byzantine Attacks in Federated Learning**|Aditya Tripathi et.al.|[2512.11760](http://arxiv.org/abs/2512.11760)|null|
 |**2025-12-11**|**HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification**|Mostafa Anoosha et.al.|[2512.10701](http://arxiv.org/abs/2512.10701)|null|
 |**2025-12-11**|**Clustered Federated Learning with Hierarchical Knowledge Distillation**|Sabtain Ahmad et.al.|[2512.10443](http://arxiv.org/abs/2512.10443)|null|
 |**2025-12-11**|**D2M: A Decentralized, Privacy-Preserving, Incentive-Compatible Data Marketplace for Collaborative Learning**|Yash Srivastava et.al.|[2512.10372](http://arxiv.org/abs/2512.10372)|null|
