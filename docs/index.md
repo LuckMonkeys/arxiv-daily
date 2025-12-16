@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**REVERB-FL: Server-Side Adversarial and Reserve-Enhanced Federated Learning for Robust Audio Classification**|Sathwika Peechara et.al.|[2512.13647](http://arxiv.org/abs/2512.13647)|null|
+|**2025-12-15**|**DP-EMAR: A Differentially Private Framework for Autonomous Model Weight Repair in Federated IoT Systems**|Chethana Prasad Kabgere et.al.|[2512.13460](http://arxiv.org/abs/2512.13460)|null|
+|**2025-12-15**|**ALIGN-FL: Architecture-independent Learning through Invariant Generative component sharing in Federated Learning**|Mayank Gulati et.al.|[2512.13316](http://arxiv.org/abs/2512.13316)|null|
+|**2025-12-15**|**Evaluating Adversarial Attacks on Federated Learning for Temperature Forecasting**|Karina Chichifoi et.al.|[2512.13207](http://arxiv.org/abs/2512.13207)|null|
+|**2025-12-15**|**Noise-Resilient Quantum Aggregation on NISQ for Federated ADAS Learning**|Chethana Prasad Kabgere et.al.|[2512.13196](http://arxiv.org/abs/2512.13196)|null|
+|**2025-12-14**|**PRIVEE: Privacy-Preserving Vertical Federated Learning Against Feature Inference Attacks**|Sindhuja Madabushi et.al.|[2512.12840](http://arxiv.org/abs/2512.12840)|null|
+|**2025-12-14**|**Federated Learning with Feedback Alignment**|Incheol Baek et.al.|[2512.12762](http://arxiv.org/abs/2512.12762)|**[link](https://github.com/AI-Tech-Research-Lab/TIFeD)**|
+|**2025-12-14**|**SPARK: Igniting Communication-Efficient Decentralized Learning via Stage-wise Projected NTK and Accelerated Regularization**|Li Xia et.al.|[2512.12737](http://arxiv.org/abs/2512.12737)|null|
+|**2025-12-14**|**Spectral Sentinel: Scalable Byzantine-Robust Decentralized Federated Learning via Sketched Random Matrix Theory on Blockchain**|Animesh Mishra et.al.|[2512.12617](http://arxiv.org/abs/2512.12617)|null|
+|**2025-12-12**|**Adaptive federated learning for ship detection across diverse satellite imagery sources**|Tran-Vu La et.al.|[2512.12053](http://arxiv.org/abs/2512.12053)|null|
 |**2025-12-12**|**SpectralKrum: A Spectral-Geometric Defense Against Byzantine Attacks in Federated Learning**|Aditya Tripathi et.al.|[2512.11760](http://arxiv.org/abs/2512.11760)|null|
 |**2025-12-11**|**HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification**|Mostafa Anoosha et.al.|[2512.10701](http://arxiv.org/abs/2512.10701)|null|
 |**2025-12-11**|**Clustered Federated Learning with Hierarchical Knowledge Distillation**|Sabtain Ahmad et.al.|[2512.10443](http://arxiv.org/abs/2512.10443)|null|
