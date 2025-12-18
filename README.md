@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**From Risk to Resilience: Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning**|Xiangrui Xu et.al.|[2512.15460](http://arxiv.org/abs/2512.15460)|null|
+|**2025-12-17**|**An Efficient Gradient-Based Inference Attack for Federated Learning**|Pablo Montaña-Fernández et.al.|[2512.15143](http://arxiv.org/abs/2512.15143)|null|
+|**2025-12-17**|**TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training**|Mukur Gupta et.al.|[2512.15123](http://arxiv.org/abs/2512.15123)|null|
+|**2025-12-16**|**Privacy-Preserving Feature Valuation in Vertical Federated Learning Using Shapley-CMI and PSI Permutation**|Unai Laskurain et.al.|[2512.14767](http://arxiv.org/abs/2512.14767)|null|
 |**2025-12-16**|**LegionITS: A Federated Intrusion-Tolerant System Architecture**|Tadeu Freitas et.al.|[2512.14242](http://arxiv.org/abs/2512.14242)|null|
 |**2025-12-15**|**MURIM: Multidimensional Reputation-based Incentive Mechanism for Federated Learning**|Sindhuja Madabushi et.al.|[2512.13955](http://arxiv.org/abs/2512.13955)|null|
 |**2025-12-15**|**Privacy-Enhancing Infant Cry Classification with Federated Transformers and Denoising Regularization**|Geofrey Owino et.al.|[2512.13880](http://arxiv.org/abs/2512.13880)|null|
