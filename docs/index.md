@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies**|Astrid Brull et.al.|[2512.16876](http://arxiv.org/abs/2512.16876)|null|
+|**2025-12-18**|**AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research**|Ignacio Heredia et.al.|[2512.16455](http://arxiv.org/abs/2512.16455)|null|
 |**2025-12-17**|**From Risk to Resilience: Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning**|Xiangrui Xu et.al.|[2512.15460](http://arxiv.org/abs/2512.15460)|null|
 |**2025-12-17**|**An Efficient Gradient-Based Inference Attack for Federated Learning**|Pablo Montaña-Fernández et.al.|[2512.15143](http://arxiv.org/abs/2512.15143)|null|
 |**2025-12-17**|**TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training**|Mukur Gupta et.al.|[2512.15123](http://arxiv.org/abs/2512.15123)|null|
