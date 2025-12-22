@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**A Systems-Theoretic View on the Convergence of Algorithms under Disturbances**|Guner Dilsad Er et.al.|[2512.17598](http://arxiv.org/abs/2512.17598)|null|
+|**2025-12-19**|**Sharing Knowledge without Sharing Data: Stitches can improve ensembles of disjointly trained models**|Arthur Guijt et.al.|[2512.17592](http://arxiv.org/abs/2512.17592)|null|
+|**2025-12-19**|**TwinSegNet: A Digital Twin-Enabled Federated Learning Framework for Brain Tumor Analysis**|Almustapha A. Wakili et.al.|[2512.17488](http://arxiv.org/abs/2512.17488)|null|
+|**2025-12-19**|**Practical Framework for Privacy-Preserving and Byzantine-robust Federated Learning**|Baolei Zhang et.al.|[2512.17254](http://arxiv.org/abs/2512.17254)|null|
+|**2025-12-19**|**Distributed Learning in Markovian Restless Bandits over Interference Graphs for Stable Spectrum Sharing**|Liad Lea Didi et.al.|[2512.17161](http://arxiv.org/abs/2512.17161)|null|
 |**2025-12-18**|**Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies**|Astrid Brull et.al.|[2512.16876](http://arxiv.org/abs/2512.16876)|null|
 |**2025-12-18**|**AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research**|Ignacio Heredia et.al.|[2512.16455](http://arxiv.org/abs/2512.16455)|null|
 |**2025-12-17**|**From Risk to Resilience: Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning**|Xiangrui Xu et.al.|[2512.15460](http://arxiv.org/abs/2512.15460)|null|
