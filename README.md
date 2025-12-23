@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**GShield: Mitigating Poisoning Attacks in Federated Learning**|Sameera K. M. et.al.|[2512.19286](http://arxiv.org/abs/2512.19286)|null|
+|**2025-12-22**|**Evidential Trust-Aware Model Personalization in Decentralized Federated Learning for Wearable IoT**|Murtaza Rangwala et.al.|[2512.19131](http://arxiv.org/abs/2512.19131)|null|
+|**2025-12-22**|**Timely Parameter Updating in Over-the-Air Federated Learning**|Jiaqi Zhu et.al.|[2512.19103](http://arxiv.org/abs/2512.19103)|null|
+|**2025-12-22**|**On Conditional Stochastic Interpolation for Generative Nonlinear Sufficient Dimension Reduction**|Shuntuo Xu et.al.|[2512.18971](http://arxiv.org/abs/2512.18971)|null|
+|**2025-12-21**|**Merging of Kolmogorov-Arnold networks trained on disjoint datasets**|Andrew Polar et.al.|[2512.18921](http://arxiv.org/abs/2512.18921)|null|
+|**2025-12-21**|**FedVideoMAE: Efficient Privacy-Preserving Federated Video Moderation**|Ziyuan Tao et.al.|[2512.18809](http://arxiv.org/abs/2512.18809)|null|
+|**2025-12-20**|**Federated Learning Based Decentralized Adaptive Intelligent Transmission Protocol for Privacy Preserving 6G Networks**|Ansar Ahmed et.al.|[2512.18432](http://arxiv.org/abs/2512.18432)|null|
+|**2025-12-20**|**FedSUM Family: Efficient Federated Learning Methods under Arbitrary Client Participation**|Runze You et.al.|[2512.18275](http://arxiv.org/abs/2512.18275)|null|
+|**2025-12-20**|**FedWiLoc: Federated Learning for Privacy-Preserving WiFi Indoor Localization**|Kanishka Roy et.al.|[2512.18207](http://arxiv.org/abs/2512.18207)|null|
+|**2025-12-19**|**FedOAED: Federated On-Device Autoencoder Denoiser for Heterogeneous Data under Limited Client Availability**|S M Ruhul Kabir Howlader et.al.|[2512.17986](http://arxiv.org/abs/2512.17986)|null|
 |**2025-12-19**|**A Systems-Theoretic View on the Convergence of Algorithms under Disturbances**|Guner Dilsad Er et.al.|[2512.17598](http://arxiv.org/abs/2512.17598)|null|
 |**2025-12-19**|**Sharing Knowledge without Sharing Data: Stitches can improve ensembles of disjointly trained models**|Arthur Guijt et.al.|[2512.17592](http://arxiv.org/abs/2512.17592)|null|
 |**2025-12-19**|**TwinSegNet: A Digital Twin-Enabled Federated Learning Framework for Brain Tumor Analysis**|Almustapha A. Wakili et.al.|[2512.17488](http://arxiv.org/abs/2512.17488)|null|
