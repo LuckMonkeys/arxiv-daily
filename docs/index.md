@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**FedPOD: the deployable units of training for federated learning**|Daewoon Kim et.al.|[2512.20610](http://arxiv.org/abs/2512.20610)|null|
+|**2025-12-23**|**Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2512.20363](http://arxiv.org/abs/2512.20363)|null|
+|**2025-12-23**|**FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning**|Mrinmay Sen et.al.|[2512.20329](http://arxiv.org/abs/2512.20329)|null|
+|**2025-12-23**|**Cost-TrustFL: Cost-Aware Hierarchical Federated Learning with Lightweight Reputation Evaluation across Multi-Cloud**|Jixiao Yang et.al.|[2512.20218](http://arxiv.org/abs/2512.20218)|null|
+|**2025-12-23**|**Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions**|Pengchao Han et.al.|[2512.19972](http://arxiv.org/abs/2512.19972)|null|
 |**2025-12-22**|**GShield: Mitigating Poisoning Attacks in Federated Learning**|Sameera K. M. et.al.|[2512.19286](http://arxiv.org/abs/2512.19286)|null|
 |**2025-12-22**|**Evidential Trust-Aware Model Personalization in Decentralized Federated Learning for Wearable IoT**|Murtaza Rangwala et.al.|[2512.19131](http://arxiv.org/abs/2512.19131)|null|
 |**2025-12-22**|**Timely Parameter Updating in Over-the-Air Federated Learning**|Jiaqi Zhu et.al.|[2512.19103](http://arxiv.org/abs/2512.19103)|null|
