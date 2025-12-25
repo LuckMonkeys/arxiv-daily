@@ -1223,7 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-23**|**FedPOD: the deployable units of training for federated learning**|Daewoon Kim et.al.|[2512.20610](http://arxiv.org/abs/2512.20610)|null|
+|**2025-12-24**|**zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy**|Savvy Sharma et.al.|[2512.21048](http://arxiv.org/abs/2512.21048)|null|
+|**2025-12-23**|**FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative**|Mohammadreza Rostami et.al.|[2512.20814](http://arxiv.org/abs/2512.20814)|null|
+|**2025-12-24**|**FedPOD: the deployable units of training for federated learning**|Daewoon Kim et.al.|[2512.20610](http://arxiv.org/abs/2512.20610)|null|
 |**2025-12-23**|**Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2512.20363](http://arxiv.org/abs/2512.20363)|null|
 |**2025-12-23**|**FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning**|Mrinmay Sen et.al.|[2512.20329](http://arxiv.org/abs/2512.20329)|null|
 |**2025-12-23**|**Cost-TrustFL: Cost-Aware Hierarchical Federated Learning with Lightweight Reputation Evaluation across Multi-Cloud**|Jixiao Yang et.al.|[2512.20218](http://arxiv.org/abs/2512.20218)|null|
