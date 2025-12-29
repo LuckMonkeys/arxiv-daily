@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks**|Ryotai Ariyoshi et.al.|[2512.22089](http://arxiv.org/abs/2512.22089)|null|
+|**2025-12-26**|**Toward Secure and Compliant AI: Organizational Standards and Protocols for NLP Model Lifecycle Management**|Sunil Arora et.al.|[2512.22060](http://arxiv.org/abs/2512.22060)|null|
+|**2025-12-25**|**Dictionary-Transform Generative Adversarial Networks**|Angshul Majumdar et.al.|[2512.21677](http://arxiv.org/abs/2512.21677)|null|
+|**2025-12-25**|**First Provable Guarantees for Practical Private FL: Beyond Restrictive Assumptions**|Egor Shulgin et.al.|[2512.21521](http://arxiv.org/abs/2512.21521)|null|
 |**2025-12-24**|**zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy**|Savvy Sharma et.al.|[2512.21048](http://arxiv.org/abs/2512.21048)|null|
 |**2025-12-23**|**FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative**|Mohammadreza Rostami et.al.|[2512.20814](http://arxiv.org/abs/2512.20814)|null|
 |**2025-12-24**|**FedPOD: the deployable units of training for federated learning**|Daewoon Kim et.al.|[2512.20610](http://arxiv.org/abs/2512.20610)|null|
