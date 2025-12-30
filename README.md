@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**On Signal Peak Power Constraint of Over-the-Air Federated Learning**|Lorenz Bielefeld et.al.|[2512.23381](http://arxiv.org/abs/2512.23381)|null|
+|**2025-12-29**|**PFed-Signal: An ADR Prediction Model based on Federated Learning**|Tao Li et.al.|[2512.23262](http://arxiv.org/abs/2512.23262)|null|
+|**2025-12-29**|**FairGFL: Privacy-Preserving Fairness-Aware Federated Learning with Overlapping Subgraphs**|Zihao Zhou et.al.|[2512.23235](http://arxiv.org/abs/2512.23235)|null|
+|**2025-12-29**|**Energy and Memory-Efficient Federated Learning With Ordered Layer Freezing**|Ziru Niu et.al.|[2512.23200](http://arxiv.org/abs/2512.23200)|null|
+|**2025-12-29**|**Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning**|Yu Jiang et.al.|[2512.23171](http://arxiv.org/abs/2512.23171)|null|
+|**2025-12-28**|**Osmotic Learning: A Self-Supervised Paradigm for Decentralized Contextual Data Representation**|Mario Colosi et.al.|[2512.23096](http://arxiv.org/abs/2512.23096)|null|
+|**2025-12-28**|**Federated Learning With L0 Constraint Via Probabilistic Gates For Sparsity**|Krishna Harsha Kovelakuntla Huthasana et.al.|[2512.23071](http://arxiv.org/abs/2512.23071)|null|
+|**2025-12-28**|**FLEX-MoE: Federated Mixture-of-Experts with Load-balanced Expert Assignment**|Boyang Zhang et.al.|[2512.23070](http://arxiv.org/abs/2512.23070)|null|
+|**2025-12-28**|**Mechanistic Analysis of Circuit Preservation in Federated Learning**|Muhammad Haseeb et.al.|[2512.23043](http://arxiv.org/abs/2512.23043)|null|
+|**2025-12-28**|**Federated Multi-Task Clustering**|S. Dai et.al.|[2512.22897](http://arxiv.org/abs/2512.22897)|**[link](https://github.com/felisat/clustered-federated-learning)**|
 |**2025-12-26**|**Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks**|Ryotai Ariyoshi et.al.|[2512.22089](http://arxiv.org/abs/2512.22089)|null|
 |**2025-12-26**|**Toward Secure and Compliant AI: Organizational Standards and Protocols for NLP Model Lifecycle Management**|Sunil Arora et.al.|[2512.22060](http://arxiv.org/abs/2512.22060)|null|
 |**2025-12-25**|**Dictionary-Transform Generative Adversarial Networks**|Angshul Majumdar et.al.|[2512.21677](http://arxiv.org/abs/2512.21677)|null|
