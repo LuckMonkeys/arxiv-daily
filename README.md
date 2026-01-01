@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Semi-overlapping Multi-bandit Best Arm Identification for Sequential Support Network Learning**|András Antos et.al.|[2512.24959](http://arxiv.org/abs/2512.24959)|null|
+|**2025-12-31**|**Mobility-Assisted Decentralized Federated Learning: Convergence Analysis and A Data-Driven Approach**|Reza Jahani et.al.|[2512.24694](http://arxiv.org/abs/2512.24694)|null|
+|**2025-12-31**|**AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt**|Zijian Zhao et.al.|[2512.24625](http://arxiv.org/abs/2512.24625)|**[link](https://github.com/RS2002/AutoFed)**|
+|**2025-12-30**|**Networked Markets, Fragmented Data: Adaptive Graph Learning for Customer Risk Analytics and Policy Design**|Lecheng Zheng et.al.|[2512.24487](http://arxiv.org/abs/2512.24487)|null|
+|**2025-12-30**|**Decentralized Optimization over Time-Varying Row-Stochastic Digraphs**|Liyuan Liang et.al.|[2512.24483](http://arxiv.org/abs/2512.24483)|null|
+|**2025-12-30**|**FedSecureFormer: A Fast, Federated and Secure Transformer Framework for Lightweight Intrusion Detection in Connected and Autonomous Vehicles**|Devika S et.al.|[2512.24345](http://arxiv.org/abs/2512.24345)|null|
+|**2025-12-30**|**OptiVote: Non-Coherent FSO Over-the-Air Majority Vote for Communication-Efficient Distributed Federated Learning in Space Data Centers**|Anbang Zhang et.al.|[2512.24334](http://arxiv.org/abs/2512.24334)|null|
+|**2025-12-30**|**Data Heterogeneity-Aware Client Selection for Federated Learning in Wireless Networks**|Yanbing Yang et.al.|[2512.24286](http://arxiv.org/abs/2512.24286)|null|
+|**2025-12-30**|**Time-varying Mixing Matrix Design for Energy-efficient Decentralized Federated Learning**|Xusheng Zhang et.al.|[2512.24069](http://arxiv.org/abs/2512.24069)|null|
+|**2025-12-29**|**Zero-Trust Agentic Federated Learning for Secure IIoT Defense Systems**|Samaresh Kumar Singh et.al.|[2512.23809](http://arxiv.org/abs/2512.23809)|null|
 |**2025-12-29**|**On Signal Peak Power Constraint of Over-the-Air Federated Learning**|Lorenz Bielefeld et.al.|[2512.23381](http://arxiv.org/abs/2512.23381)|null|
 |**2025-12-29**|**PFed-Signal: An ADR Prediction Model based on Federated Learning**|Tao Li et.al.|[2512.23262](http://arxiv.org/abs/2512.23262)|null|
 |**2025-12-29**|**FairGFL: Privacy-Preserving Fairness-Aware Federated Learning with Overlapping Subgraphs**|Zihao Zhou et.al.|[2512.23235](http://arxiv.org/abs/2512.23235)|null|
