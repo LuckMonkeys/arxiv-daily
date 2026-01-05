@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**FedHypeVAE: Federated Learning with Hypernetwork Generated Conditional VAEs for Differentially Private Embedding Sharing**|Sunny Gupta et.al.|[2601.00785](http://arxiv.org/abs/2601.00785)|null|
+|**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
+|**2026-01-02**|**CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge**|Zhiheng Guo et.al.|[2601.00549](http://arxiv.org/abs/2601.00549)|null|
+|**2026-01-02**|**Federated Customization of Large Models: Approaches, Experiments, and Insights**|Yuchuan Ye et.al.|[2601.00526](http://arxiv.org/abs/2601.00526)|null|
+|**2026-01-01**|**Secure, Verifiable, and Scalable Multi-Client Data Sharing via Consensus-Based Privacy-Preserving Data Distribution**|Prajwal Panth et.al.|[2601.00418](http://arxiv.org/abs/2601.00418)|null|
+|**2026-01-01**|**Can Optimal Transport Improve Federated Inverse Reinforcement Learning?**|David Millard et.al.|[2601.00309](http://arxiv.org/abs/2601.00309)|null|
+|**2025-12-31**|**Domain-aware priors enable vertical federated learning in data-scarce coral multi-omics**|Sam Victor et.al.|[2601.00050](http://arxiv.org/abs/2601.00050)|null|
 |**2025-12-31**|**Semi-overlapping Multi-bandit Best Arm Identification for Sequential Support Network Learning**|András Antos et.al.|[2512.24959](http://arxiv.org/abs/2512.24959)|null|
 |**2025-12-31**|**Mobility-Assisted Decentralized Federated Learning: Convergence Analysis and A Data-Driven Approach**|Reza Jahani et.al.|[2512.24694](http://arxiv.org/abs/2512.24694)|null|
 |**2025-12-31**|**AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt**|Zijian Zhao et.al.|[2512.24625](http://arxiv.org/abs/2512.24625)|**[link](https://github.com/RS2002/AutoFed)**|
