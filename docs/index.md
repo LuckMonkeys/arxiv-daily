@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks**|Abdullah Al Asif et.al.|[2601.02092](http://arxiv.org/abs/2601.02092)|null|
+|**2026-01-05**|**MindChat: A Privacy-preserving Large Language Model for Mental Health Support**|Dong Xue et.al.|[2601.01993](http://arxiv.org/abs/2601.01993)|null|
+|**2026-01-05**|**FedBiCross: A Bi-Level Optimization Framework to Tackle Non-IID Challenges in Data-Free One-Shot Federated Learning on Medical Data**|Yuexuan Xia et.al.|[2601.01901](http://arxiv.org/abs/2601.01901)|null|
+|**2026-01-05**|**Tackling Resource-Constrained and Data-Heterogeneity in Federated Learning with Double-Weight Sparse Pack**|Qiantao Yang et.al.|[2601.01840](http://arxiv.org/abs/2601.01840)|null|
+|**2026-01-05**|**FAROS: Robust Federated Learning with Adaptive Scaling against Backdoor Attacks**|Chenyu Hu et.al.|[2601.01833](http://arxiv.org/abs/2601.01833)|null|
+|**2026-01-05**|**Distributed Federated Learning by Alternating Periods of Training**|Shamik Bhattacharyya et.al.|[2601.01793](http://arxiv.org/abs/2601.01793)|null|
+|**2026-01-05**|**Point-SRA: Self-Representation Alignment for 3D Representation Learning**|Lintong Wei et.al.|[2601.01746](http://arxiv.org/abs/2601.01746)|null|
+|**2026-01-05**|**Local Layer-wise Differential Privacy in Federated Learning**|Yunbo Li et.al.|[2601.01737](http://arxiv.org/abs/2601.01737)|null|
+|**2026-01-05**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al.|[2601.01701](http://arxiv.org/abs/2601.01701)|null|
+|**2026-01-04**|**Communication-Efficient Federated AUC Maximization with Cyclic Client Participation**|Umesh Vangapally et.al.|[2601.01649](http://arxiv.org/abs/2601.01649)|null|
 |**2026-01-02**|**FedHypeVAE: Federated Learning with Hypernetwork Generated Conditional VAEs for Differentially Private Embedding Sharing**|Sunny Gupta et.al.|[2601.00785](http://arxiv.org/abs/2601.00785)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
 |**2026-01-02**|**CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge**|Zhiheng Guo et.al.|[2601.00549](http://arxiv.org/abs/2601.00549)|null|
