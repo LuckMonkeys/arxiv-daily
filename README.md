@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**First Provably Optimal Asynchronous SGD for Homogeneous and Heterogeneous Data**|Artavazd Maranjyan et.al.|[2601.02523](http://arxiv.org/abs/2601.02523)|null|
 |**2026-01-05**|**SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks**|Abdullah Al Asif et.al.|[2601.02092](http://arxiv.org/abs/2601.02092)|null|
 |**2026-01-05**|**MindChat: A Privacy-preserving Large Language Model for Mental Health Support**|Dong Xue et.al.|[2601.01993](http://arxiv.org/abs/2601.01993)|null|
 |**2026-01-05**|**FedBiCross: A Bi-Level Optimization Framework to Tackle Non-IID Challenges in Data-Free One-Shot Federated Learning on Medical Data**|Yuexuan Xia et.al.|[2601.01901](http://arxiv.org/abs/2601.01901)|null|
