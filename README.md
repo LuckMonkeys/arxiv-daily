@@ -1,4 +1,4 @@
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**MORPHFED: Federated Learning for Cross-institutional Blood Morphology Analysis**|Gabriel Ansah et.al.|[2601.04121](http://arxiv.org/abs/2601.04121)|null|
+|**2026-01-07**|**Feature-Aware One-Shot Federated Learning via Hierarchical Token Sequences**|Shudong Liu et.al.|[2601.03882](http://arxiv.org/abs/2601.03882)|**[link](https://github.com/LMIAPC/FALCON)**|
+|**2026-01-07**|**Local Gradient Regulation Stabilizes Federated Learning under Client Heterogeneity**|Ping Luo et.al.|[2601.03584](http://arxiv.org/abs/2601.03584)|null|
+|**2026-01-06**|**Provable Acceleration of Distributed Optimization with Local Updates**|Zuang Wang et.al.|[2601.03442](http://arxiv.org/abs/2601.03442)|null|
 |**2026-01-05**|**First Provably Optimal Asynchronous SGD for Homogeneous and Heterogeneous Data**|Artavazd Maranjyan et.al.|[2601.02523](http://arxiv.org/abs/2601.02523)|null|
 |**2026-01-05**|**SuperSFL: Resource-Heterogeneous Federated Split Learning with Weight-Sharing Super-Networks**|Abdullah Al Asif et.al.|[2601.02092](http://arxiv.org/abs/2601.02092)|null|
 |**2026-01-05**|**MindChat: A Privacy-preserving Large Language Model for Mental Health Support**|Dong Xue et.al.|[2601.01993](http://arxiv.org/abs/2601.01993)|null|
@@ -4130,7 +4134,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
 ## MMS
 
@@ -4169,7 +4173,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
