@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Asynchronous Secure Federated Learning with Byzantine aggregators**|Antonella Del Pozzo et.al.|[2601.04930](http://arxiv.org/abs/2601.04930)|null|
+|**2026-01-08**|**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**|Damian Harenčák et.al.|[2601.04912](http://arxiv.org/abs/2601.04912)|null|
+|**2026-01-08**|**Mechanism Design for Federated Learning with Non-Monotonic Network Effects**|Xiang Li et.al.|[2601.04648](http://arxiv.org/abs/2601.04648)|null|
+|**2026-01-08**|**FedKDX: Federated Learning with Negative Knowledge Distillation for Enhanced Healthcare AI Systems**|Quang-Tu Pham et.al.|[2601.04587](http://arxiv.org/abs/2601.04587)|null|
+|**2026-01-08**|**Hybrid Federated Learning for Noise-Robust Training**|Yongjun Kim et.al.|[2601.04483](http://arxiv.org/abs/2601.04483)|null|
 |**2026-01-07**|**MORPHFED: Federated Learning for Cross-institutional Blood Morphology Analysis**|Gabriel Ansah et.al.|[2601.04121](http://arxiv.org/abs/2601.04121)|null|
 |**2026-01-07**|**Feature-Aware One-Shot Federated Learning via Hierarchical Token Sequences**|Shudong Liu et.al.|[2601.03882](http://arxiv.org/abs/2601.03882)|**[link](https://github.com/LMIAPC/FALCON)**|
 |**2026-01-07**|**Local Gradient Regulation Stabilizes Federated Learning under Client Heterogeneity**|Ping Luo et.al.|[2601.03584](http://arxiv.org/abs/2601.03584)|null|
