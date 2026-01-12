@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2601.05789](http://arxiv.org/abs/2601.05789)|null|
+|**2026-01-09**|**PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes**|Yiming Zhou et.al.|[2601.05613](http://arxiv.org/abs/2601.05613)|null|
+|**2026-01-08**|**When the Server Steps In: Calibrated Updates for Fair Federated Learning**|Tianrun Yu et.al.|[2601.05352](http://arxiv.org/abs/2601.05352)|null|
 |**2026-01-08**|**Asynchronous Secure Federated Learning with Byzantine aggregators**|Antonella Del Pozzo et.al.|[2601.04930](http://arxiv.org/abs/2601.04930)|null|
 |**2026-01-08**|**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**|Damian Harenčák et.al.|[2601.04912](http://arxiv.org/abs/2601.04912)|null|
 |**2026-01-08**|**Mechanism Design for Federated Learning with Non-Monotonic Network Effects**|Xiang Li et.al.|[2601.04648](http://arxiv.org/abs/2601.04648)|null|
@@ -4160,7 +4163,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
