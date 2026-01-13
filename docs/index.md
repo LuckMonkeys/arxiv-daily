@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**TFEC: Multivariate Time-Series Clustering via Temporal-Frequency Enhanced Contrastive Learning**|Zexi Tan et.al.|[2601.07550](http://arxiv.org/abs/2601.07550)|null|
+|**2026-01-12**|**BlindU: Blind Machine Unlearning without Revealing Erasing Data**|Weiqi Wang et.al.|[2601.07214](http://arxiv.org/abs/2601.07214)|null|
+|**2026-01-12**|**Safe-FedLLM: Delving into the Safety of Federated Large Language Models**|Mingxiang Tao et.al.|[2601.07177](http://arxiv.org/abs/2601.07177)|null|
+|**2026-01-12**|**Proof of Reasoning for Privacy Enhanced Federated Blockchain Learning at the Edge**|James Calo et.al.|[2601.07134](http://arxiv.org/abs/2601.07134)|null|
+|**2026-01-11**|**Alternating Direction Method of Multipliers for nonlinear constrained convex problems and applications to distributed resource allocation and constrained machine learning**|Zhengjie Xiong et.al.|[2601.06977](http://arxiv.org/abs/2601.06977)|null|
+|**2026-01-11**|**Divergence-Based Adaptive Aggregation for Byzantine Robust Federated Learning**|Bingnan Xiao et.al.|[2601.06903](http://arxiv.org/abs/2601.06903)|null|
+|**2026-01-11**|**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**|Li Bai et.al.|[2601.06866](http://arxiv.org/abs/2601.06866)|null|
+|**2026-01-11**|**Optimal Rate Region for Multi-server Secure Aggregation with User Collusion**|Zhou Li et.al.|[2601.06836](http://arxiv.org/abs/2601.06836)|null|
+|**2026-01-11**|**Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification**|Anay Sinhal et.al.|[2601.06742](http://arxiv.org/abs/2601.06742)|null|
+|**2026-01-10**|**Privacy-Preserving Data Processing in Cloud : From Homomorphic Encryption to Federated Analytics**|Gaurav Sarraf et.al.|[2601.06710](http://arxiv.org/abs/2601.06710)|null|
 |**2026-01-09**|**SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2601.05789](http://arxiv.org/abs/2601.05789)|null|
 |**2026-01-09**|**PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes**|Yiming Zhou et.al.|[2601.05613](http://arxiv.org/abs/2601.05613)|null|
 |**2026-01-08**|**When the Server Steps In: Calibrated Updates for Fair Federated Learning**|Tianrun Yu et.al.|[2601.05352](http://arxiv.org/abs/2601.05352)|null|
@@ -5371,7 +5381,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
