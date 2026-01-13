@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1232,7 +1232,7 @@ layout: default
 |**2026-01-08**|**FedKDX: Federated Learning with Negative Knowledge Distillation for Enhanced Healthcare AI Systems**|Quang-Tu Pham et.al.|[2601.04587](http://arxiv.org/abs/2601.04587)|null|
 |**2026-01-08**|**Hybrid Federated Learning for Noise-Robust Training**|Yongjun Kim et.al.|[2601.04483](http://arxiv.org/abs/2601.04483)|null|
 |**2026-01-07**|**MORPHFED: Federated Learning for Cross-institutional Blood Morphology Analysis**|Gabriel Ansah et.al.|[2601.04121](http://arxiv.org/abs/2601.04121)|null|
-|**2026-01-07**|**Feature-Aware One-Shot Federated Learning via Hierarchical Token Sequences**|Shudong Liu et.al.|[2601.03882](http://arxiv.org/abs/2601.03882)|**[link](https://github.com/LMIAPC/FALCON)**|
+|**2026-01-07**|**Feature-Aware One-Shot Federated Learning via Hierarchical Token Sequences**|Shudong Liu et.al.|[2601.03882](http://arxiv.org/abs/2601.03882)|null|
 |**2026-01-07**|**Local Gradient Regulation Stabilizes Federated Learning under Client Heterogeneity**|Ping Luo et.al.|[2601.03584](http://arxiv.org/abs/2601.03584)|null|
 |**2026-01-06**|**Provable Acceleration of Distributed Optimization with Local Updates**|Zuang Wang et.al.|[2601.03442](http://arxiv.org/abs/2601.03442)|null|
 |**2026-01-05**|**First Provably Optimal Asynchronous SGD for Homogeneous and Heterogeneous Data**|Artavazd Maranjyan et.al.|[2601.02523](http://arxiv.org/abs/2601.02523)|null|
@@ -5371,7 +5371,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
