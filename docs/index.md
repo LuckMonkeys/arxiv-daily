@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Accelerated Methods with Complexity Separation Under Data Similarity for Federated Learning Problems**|Dmitry Bylinkin et.al.|[2601.08614](http://arxiv.org/abs/2601.08614)|null|
+|**2026-01-13**|**One-Shot Federated Ridge Regression: Exact Recovery via Sufficient Statistic Aggregation**|Zahir Alsulaimawi et.al.|[2601.08216](http://arxiv.org/abs/2601.08216)|null|
+|**2026-01-12**|**Decentralized Online Convex Optimization with Unknown Feedback Delays**|Hao Qiu et.al.|[2601.07901](http://arxiv.org/abs/2601.07901)|null|
+|**2026-01-11**|**Tackling Heterogeneity in Quantum Federated Learning: An Integrated Sporadic-Personalized Approach**|Ratun Rahman et.al.|[2601.07882](http://arxiv.org/abs/2601.07882)|null|
 |**2026-01-12**|**TFEC: Multivariate Time-Series Clustering via Temporal-Frequency Enhanced Contrastive Learning**|Zexi Tan et.al.|[2601.07550](http://arxiv.org/abs/2601.07550)|null|
 |**2026-01-12**|**BlindU: Blind Machine Unlearning without Revealing Erasing Data**|Weiqi Wang et.al.|[2601.07214](http://arxiv.org/abs/2601.07214)|null|
 |**2026-01-12**|**Safe-FedLLM: Delving into the Safety of Federated Large Language Models**|Mingxiang Tao et.al.|[2601.07177](http://arxiv.org/abs/2601.07177)|null|
