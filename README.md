@@ -1,4 +1,4 @@
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |**2026-01-12**|**Proof of Reasoning for Privacy Enhanced Federated Blockchain Learning at the Edge**|James Calo et.al.|[2601.07134](http://arxiv.org/abs/2601.07134)|null|
 |**2026-01-11**|**Alternating Direction Method of Multipliers for nonlinear constrained convex problems and applications to distributed resource allocation and constrained machine learning**|Zhengjie Xiong et.al.|[2601.06977](http://arxiv.org/abs/2601.06977)|null|
 |**2026-01-11**|**Divergence-Based Adaptive Aggregation for Byzantine Robust Federated Learning**|Bingnan Xiao et.al.|[2601.06903](http://arxiv.org/abs/2601.06903)|null|
-|**2026-01-11**|**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**|Li Bai et.al.|[2601.06866](http://arxiv.org/abs/2601.06866)|null|
+|**2026-01-11**|**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**|Li Bai et.al.|[2601.06866](http://arxiv.org/abs/2601.06866)|**[link](https://github.com/BaiLibl/CoFedMID)**|
 |**2026-01-11**|**Optimal Rate Region for Multi-server Secure Aggregation with User Collusion**|Zhou Li et.al.|[2601.06836](http://arxiv.org/abs/2601.06836)|null|
 |**2026-01-11**|**Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification**|Anay Sinhal et.al.|[2601.06742](http://arxiv.org/abs/2601.06742)|null|
 |**2026-01-10**|**Privacy-Preserving Data Processing in Cloud : From Homomorphic Encryption to Federated Analytics**|Gaurav Sarraf et.al.|[2601.06710](http://arxiv.org/abs/2601.06710)|null|
@@ -4152,7 +4152,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## MMS
 
@@ -4191,7 +4191,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

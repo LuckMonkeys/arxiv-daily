@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1229,7 +1229,7 @@ layout: default
 |**2026-01-12**|**Proof of Reasoning for Privacy Enhanced Federated Blockchain Learning at the Edge**|James Calo et.al.|[2601.07134](http://arxiv.org/abs/2601.07134)|null|
 |**2026-01-11**|**Alternating Direction Method of Multipliers for nonlinear constrained convex problems and applications to distributed resource allocation and constrained machine learning**|Zhengjie Xiong et.al.|[2601.06977](http://arxiv.org/abs/2601.06977)|null|
 |**2026-01-11**|**Divergence-Based Adaptive Aggregation for Byzantine Robust Federated Learning**|Bingnan Xiao et.al.|[2601.06903](http://arxiv.org/abs/2601.06903)|null|
-|**2026-01-11**|**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**|Li Bai et.al.|[2601.06866](http://arxiv.org/abs/2601.06866)|null|
+|**2026-01-11**|**United We Defend: Collaborative Membership Inference Defenses in Federated Learning**|Li Bai et.al.|[2601.06866](http://arxiv.org/abs/2601.06866)|**[link](https://github.com/BaiLibl/CoFedMID)**|
 |**2026-01-11**|**Optimal Rate Region for Multi-server Secure Aggregation with User Collusion**|Zhou Li et.al.|[2601.06836](http://arxiv.org/abs/2601.06836)|null|
 |**2026-01-11**|**Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification**|Anay Sinhal et.al.|[2601.06742](http://arxiv.org/abs/2601.06742)|null|
 |**2026-01-10**|**Privacy-Preserving Data Processing in Cloud : From Homomorphic Encryption to Federated Analytics**|Gaurav Sarraf et.al.|[2601.06710](http://arxiv.org/abs/2601.06710)|null|
