@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**Single-Round Clustered Federated Learning via Data Collaboration Analysis for Non-IID Data**|Sota Sugawara et.al.|[2601.09304](http://arxiv.org/abs/2601.09304)|null|
+|**2026-01-14**|**DP-FEDSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information Matrix**|Sidhant R. Nair et.al.|[2601.09166](http://arxiv.org/abs/2601.09166)|null|
+|**2026-01-14**|**Lean Clients, Full Accuracy: Hybrid Zeroth- and First-Order Split Federated Learning**|Zhoubin Kou et.al.|[2601.09076](http://arxiv.org/abs/2601.09076)|null|
 |**2026-01-13**|**Accelerated Methods with Complexity Separation Under Data Similarity for Federated Learning Problems**|Dmitry Bylinkin et.al.|[2601.08614](http://arxiv.org/abs/2601.08614)|null|
 |**2026-01-13**|**One-Shot Federated Ridge Regression: Exact Recovery via Sufficient Statistic Aggregation**|Zahir Alsulaimawi et.al.|[2601.08216](http://arxiv.org/abs/2601.08216)|null|
 |**2026-01-12**|**Decentralized Online Convex Optimization with Unknown Feedback Delays**|Hao Qiu et.al.|[2601.07901](http://arxiv.org/abs/2601.07901)|null|
