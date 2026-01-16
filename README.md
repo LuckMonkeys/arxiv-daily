@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis**|Chun Hei Michael Shiu et.al.|[2601.10701](http://arxiv.org/abs/2601.10701)|null|
+|**2026-01-15**|**Communication-Efficient Federated Learning by Exploiting Spatio-Temporal Correlations of Gradients**|Shenlong Zheng et.al.|[2601.10491](http://arxiv.org/abs/2601.10491)|null|
+|**2026-01-15**|**CAFEDistill: Learning Personalized and Dynamic Models through Federated Early-Exit Network Distillation**|Boyi Liu et.al.|[2601.10015](http://arxiv.org/abs/2601.10015)|null|
+|**2026-01-15**|**Clustering-Based User Selection in Federated Learning: Metadata Exploitation for 3GPP Networks**|Ce Zheng et.al.|[2601.10013](http://arxiv.org/abs/2601.10013)|null|
+|**2026-01-15**|**PID-Guided Partial Alignment for Multimodal Decentralized Federated Learning**|Yanhang Shi et.al.|[2601.10012](http://arxiv.org/abs/2601.10012)|null|
+|**2026-01-15**|**Federated Unlearning in Edge Networks: A Survey of Fundamentals, Challenges, Practical Applications and Future Directions**|Jer Shyuan Ng et.al.|[2601.09978](http://arxiv.org/abs/2601.09978)|null|
+|**2026-01-14**|**QFed: Parameter-Compact Quantum-Classical Federated Learning**|Samar Abdelghani et.al.|[2601.09809](http://arxiv.org/abs/2601.09809)|null|
 |**2026-01-14**|**Single-Round Clustered Federated Learning via Data Collaboration Analysis for Non-IID Data**|Sota Sugawara et.al.|[2601.09304](http://arxiv.org/abs/2601.09304)|null|
 |**2026-01-14**|**DP-FEDSOFIM: Differentially Private Federated Stochastic Optimization using Regularized Fisher Information Matrix**|Sidhant R. Nair et.al.|[2601.09166](http://arxiv.org/abs/2601.09166)|null|
 |**2026-01-14**|**Lean Clients, Full Accuracy: Hybrid Zeroth- and First-Order Split Federated Learning**|Zhoubin Kou et.al.|[2601.09076](http://arxiv.org/abs/2601.09076)|null|
