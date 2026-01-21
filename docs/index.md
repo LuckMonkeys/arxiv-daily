@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Federated Balanced Learning**|Jiaze Li et.al.|[2601.14042](http://arxiv.org/abs/2601.14042)|**[link](https://github.com/kt4ngw/CBCSBA)**|
+|**2026-01-20**|**ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**|Xiaohong Yang et.al.|[2601.13824](http://arxiv.org/abs/2601.13824)|null|
+|**2026-01-20**|**Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network**|Haitao Zhao et.al.|[2601.13817](http://arxiv.org/abs/2601.13817)|null|
+|**2026-01-20**|**Fisher-Informed Parameterwise Aggregation for Federated Learning with Heterogeneous Data**|Zhipeng Chang et.al.|[2601.13608](http://arxiv.org/abs/2601.13608)|null|
+|**2026-01-20**|**Group Relative Policy Optimization for Robust Blind Interference Alignment with Fluid Antennas**|Jianqiu Peng et.al.|[2601.13506](http://arxiv.org/abs/2601.13506)|null|
+|**2026-01-19**|**Federated Learning Under Temporal Drift -- Mitigating Catastrophic Forgetting via Experience Replay**|Sahasra Kokkula et.al.|[2601.13456](http://arxiv.org/abs/2601.13456)|null|
+|**2026-01-19**|**Semantic Communication in Underwater IoT Networks for Meaning-Driven Connectivity**|Ruhul Amin Khalil et.al.|[2601.13289](http://arxiv.org/abs/2601.13289)|null|
+|**2026-01-19**|**CooperLLM: Cloud-Edge-End Cooperative Federated Fine-tuning for LLMs via ZOO-based Gradient Correction**|He Sun et.al.|[2601.12917](http://arxiv.org/abs/2601.12917)|null|
+|**2026-01-19**|**On Resilient and Efficient Linear Secure Aggregation in Hierarchical Federated Learning**|Shudi Weng et.al.|[2601.12853](http://arxiv.org/abs/2601.12853)|null|
+|**2026-01-19**|**Exploiting Test-Time Augmentation in Federated Learning for Brain Tumor MRI Classification**|Thamara Leandra de Deus Melo et.al.|[2601.12671](http://arxiv.org/abs/2601.12671)|null|
 |**2026-01-16**|**Stochastic Recursive Inclusions under Biased Perturbations: An Input-to-State Stability Perspective**|Anik Kumar Paul et.al.|[2601.11462](http://arxiv.org/abs/2601.11462)|null|
 |**2026-01-16**|**SDFLoRA: Selective Dual-Module LoRA for Federated Fine-tuning with Heterogeneous Clients**|Zhikang Shen et.al.|[2601.11219](http://arxiv.org/abs/2601.11219)|null|
 |**2026-01-16**|**Backdoor Attacks on Multi-modal Contrastive Learning**|Simi D Kuniyilh et.al.|[2601.11006](http://arxiv.org/abs/2601.11006)|null|
