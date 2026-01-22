@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**DeepFedNAS: A Unified Framework for Principled, Hardware-Aware, and Predictor-Free Federated Neural Architecture Search**|Bostan Khan et.al.|[2601.15127](http://arxiv.org/abs/2601.15127)|null|
+|**2026-01-21**|**Federated Incremental Subgradient Method for Convex Bilevel Optimization Problems**|Sudkobfa Boontawee et.al.|[2601.15092](http://arxiv.org/abs/2601.15092)|null|
+|**2026-01-21**|**SpooFL: Spoofing Federated Learning**|Isaac Baglin et.al.|[2601.15055](http://arxiv.org/abs/2601.15055)|null|
+|**2026-01-21**|**Deep Leakage with Generative Flow Matching Denoiser**|Isaac Baglin et.al.|[2601.15049](http://arxiv.org/abs/2601.15049)|null|
+|**2026-01-21**|**Federated Transformer-GNN for Privacy-Preserving Brain Tumor Localization with Modality-Level Explainability**|Andrea Protani et.al.|[2601.15042](http://arxiv.org/abs/2601.15042)|null|
+|**2026-01-21**|**Communication-Efficient Multi-Modal Edge Inference via Uncertainty-Aware Distributed Learning**|Hang Zhao et.al.|[2601.14942](http://arxiv.org/abs/2601.14942)|null|
+|**2026-01-21**|**Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**|Keita Takeda et.al.|[2601.14774](http://arxiv.org/abs/2601.14774)|null|
+|**2026-01-21**|**RefProtoFL: Communication-Efficient Federated Learning via External-Referenced Prototype Alignment**|Hongyue Wu et.al.|[2601.14746](http://arxiv.org/abs/2601.14746)|null|
+|**2026-01-21**|**Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning**|Zhihao Chen et.al.|[2601.14687](http://arxiv.org/abs/2601.14687)|null|
+|**2026-01-21**|**Communication-Efficient Federated Risk Difference Estimation for Time-to-Event Clinical Outcomes**|Ziwen Wang et.al.|[2601.14609](http://arxiv.org/abs/2601.14609)|**[link](https://github.com/siqili0325/FedRD)**|
 |**2026-01-20**|**Federated Balanced Learning**|Jiaze Li et.al.|[2601.14042](http://arxiv.org/abs/2601.14042)|**[link](https://github.com/kt4ngw/CBCSBA)**|
 |**2026-01-20**|**ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**|Xiaohong Yang et.al.|[2601.13824](http://arxiv.org/abs/2601.13824)|null|
 |**2026-01-20**|**Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network**|Haitao Zhao et.al.|[2601.13817](http://arxiv.org/abs/2601.13817)|null|
