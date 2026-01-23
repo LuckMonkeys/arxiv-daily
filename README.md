@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**A Hierarchical Bayesian Framework for Model-based Prognostics**|Xinyu Jia et.al.|[2601.15942](http://arxiv.org/abs/2601.15942)|null|
+|**2026-01-22**|**SoK: Challenges in Tabular Membership Inference Attacks**|Cristina Pêra et.al.|[2601.15874](http://arxiv.org/abs/2601.15874)|null|
+|**2026-01-22**|**Communication-efficient Federated Graph Classification via Generative Diffusion Modeling**|Xiuling Wang et.al.|[2601.15722](http://arxiv.org/abs/2601.15722)|null|
+|**2026-01-21**|**FedUMM: A General Framework for Federated Learning with Unified Multimodal Models**|Zhaolong Su et.al.|[2601.15390](http://arxiv.org/abs/2601.15390)|null|
 |**2026-01-21**|**DeepFedNAS: A Unified Framework for Principled, Hardware-Aware, and Predictor-Free Federated Neural Architecture Search**|Bostan Khan et.al.|[2601.15127](http://arxiv.org/abs/2601.15127)|null|
 |**2026-01-21**|**Federated Incremental Subgradient Method for Convex Bilevel Optimization Problems**|Sudkobfa Boontawee et.al.|[2601.15092](http://arxiv.org/abs/2601.15092)|null|
 |**2026-01-21**|**SpooFL: Spoofing Federated Learning**|Isaac Baglin et.al.|[2601.15055](http://arxiv.org/abs/2601.15055)|null|
