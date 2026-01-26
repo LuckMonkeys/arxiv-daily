@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**FedSGM: A Unified Framework for Constraint Aware, Bidirectionally Compressed, Multi-Step Federated Optimization**|Antesh Upadhyay et.al.|[2601.16897](http://arxiv.org/abs/2601.16897)|null|
+|**2026-01-23**|**DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs**|Zekai Chen et.al.|[2601.16519](http://arxiv.org/abs/2601.16519)|null|
+|**2026-01-22**|**FeTTL: Federated Template and Task Learning for Multi-Institutional Medical Imaging**|Abhijeet Parida et.al.|[2601.16302](http://arxiv.org/abs/2601.16302)|null|
 |**2026-01-22**|**A Hierarchical Bayesian Framework for Model-based Prognostics**|Xinyu Jia et.al.|[2601.15942](http://arxiv.org/abs/2601.15942)|null|
 |**2026-01-22**|**SoK: Challenges in Tabular Membership Inference Attacks**|Cristina Pêra et.al.|[2601.15874](http://arxiv.org/abs/2601.15874)|null|
 |**2026-01-22**|**Communication-efficient Federated Graph Classification via Generative Diffusion Modeling**|Xiuling Wang et.al.|[2601.15722](http://arxiv.org/abs/2601.15722)|null|
