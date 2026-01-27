@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Tail-Latency-Aware Federated Learning with Pinching Antenna: Latency, Participation, and Placement**|Yushen Lin et.al.|[2601.18097](http://arxiv.org/abs/2601.18097)|null|
+|**2026-01-25**|**Coding-Enforced Resilient and Secure Aggregation for Hierarchical Federated Learning**|Shudi Weng et.al.|[2601.17995](http://arxiv.org/abs/2601.17995)|null|
+|**2026-01-25**|**Federated learning for unpaired multimodal data through a homogeneous transformer model**|Anders Eklund et.al.|[2601.17986](http://arxiv.org/abs/2601.17986)|null|
+|**2026-01-25**|**Information-Theoretic Secure Aggregation in Decentralized Networks**|Xiang Zhang et.al.|[2601.17970](http://arxiv.org/abs/2601.17970)|null|
+|**2026-01-25**|**FedCCA: Client-Centric Adaptation against Data Heterogeneity in Federated Learning on IoT Devices**|Kaile Wang et.al.|[2601.17713](http://arxiv.org/abs/2601.17713)|null|
+|**2026-01-24**|**One-Shot Federated Clustering of Non-Independent Completely Distributed Data**|Yiqun Zhang et.al.|[2601.17512](http://arxiv.org/abs/2601.17512)|null|
+|**2026-01-24**|**Semantic-Aware Task Clustering for Federated Cooperative Multi-Task Semantic Communication**|Ahmad Halimi Razlighi et.al.|[2601.17419](http://arxiv.org/abs/2601.17419)|null|
+|**2026-01-24**|**Res-MIA: A Training-Free Resolution-Based Membership Inference Attack on Federated Learning Models**|Mohammad Zare et.al.|[2601.17378](http://arxiv.org/abs/2601.17378)|null|
+|**2026-01-23**|**Federated Proximal Optimization for Privacy-Preserving Heart Disease Prediction: A Controlled Simulation Study on Non-IID Clinical Data**|Farzam Asad et.al.|[2601.17183](http://arxiv.org/abs/2601.17183)|null|
+|**2026-01-23**|**Learning to Collaborate: An Orchestrated-Decentralized Framework for Peer-to-Peer LLM Federation**|Inderjeet Singh et.al.|[2601.17133](http://arxiv.org/abs/2601.17133)|null|
 |**2026-01-23**|**FedSGM: A Unified Framework for Constraint Aware, Bidirectionally Compressed, Multi-Step Federated Optimization**|Antesh Upadhyay et.al.|[2601.16897](http://arxiv.org/abs/2601.16897)|null|
 |**2026-01-23**|**DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs**|Zekai Chen et.al.|[2601.16519](http://arxiv.org/abs/2601.16519)|null|
 |**2026-01-22**|**FeTTL: Federated Template and Task Learning for Multi-Institutional Medical Imaging**|Abhijeet Parida et.al.|[2601.16302](http://arxiv.org/abs/2601.16302)|null|
