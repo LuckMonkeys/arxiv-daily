@@ -1223,6 +1223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers**|Sixing Tan et.al.|[2601.19788](http://arxiv.org/abs/2601.19788)|null|
+|**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[2601.19745](http://arxiv.org/abs/2601.19745)|null|
+|**2026-01-27**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
+|**2026-01-27**|**AI-driven Intrusion Detection for UAV in Smart Urban Ecosystems: A Comprehensive Survey**|Abdullah Khanfor et.al.|[2601.19345](http://arxiv.org/abs/2601.19345)|null|
+|**2026-01-27**|**Information-Theoretic Secure Aggregation over Regular Graphs**|Xiang Zhang et.al.|[2601.19183](http://arxiv.org/abs/2601.19183)|null|
+|**2026-01-26**|**Smart Split-Federated Learning over Noisy Channels for Embryo Image Segmentation**|Zahra Hafezi Kafshgari et.al.|[2601.18948](http://arxiv.org/abs/2601.18948)|null|
 |**2026-01-26**|**Tail-Latency-Aware Federated Learning with Pinching Antenna: Latency, Participation, and Placement**|Yushen Lin et.al.|[2601.18097](http://arxiv.org/abs/2601.18097)|null|
 |**2026-01-25**|**Coding-Enforced Resilient and Secure Aggregation for Hierarchical Federated Learning**|Shudi Weng et.al.|[2601.17995](http://arxiv.org/abs/2601.17995)|null|
 |**2026-01-25**|**Federated learning for unpaired multimodal data through a homogeneous transformer model**|Anders Eklund et.al.|[2601.17986](http://arxiv.org/abs/2601.17986)|null|
