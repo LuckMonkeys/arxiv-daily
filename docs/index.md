@@ -1223,9 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning**|Dawit Kiros Redie et.al.|[2601.20738](http://arxiv.org/abs/2601.20738)|null|
+|**2026-01-28**|**Distributed Learning over Noisy Communication Networks**|Emrah Akyol et.al.|[2601.20723](http://arxiv.org/abs/2601.20723)|null|
+|**2026-01-28**|**Robust Distributed Learning under Resource Constraints: Decentralized Quantile Estimation via (Asynchronous) ADMM**|Anna van Elst et.al.|[2601.20571](http://arxiv.org/abs/2601.20571)|null|
+|**2026-01-28**|**FedRD: Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance**|Kaile Wang et.al.|[2601.20397](http://arxiv.org/abs/2601.20397)|null|
+|**2026-01-28**|**LIFT: Byzantine Resilient Hub-Sampling**|Mohamed Amine Legheraba et.al.|[2601.20368](http://arxiv.org/abs/2601.20368)|null|
 |**2026-01-27**|**Knowledge-Aware Evolution for Streaming Federated Continual Learning with Category Overlap and without Task Identifiers**|Sixing Tan et.al.|[2601.19788](http://arxiv.org/abs/2601.19788)|null|
 |**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[2601.19745](http://arxiv.org/abs/2601.19745)|null|
-|**2026-01-27**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
+|**2026-01-28**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
 |**2026-01-27**|**AI-driven Intrusion Detection for UAV in Smart Urban Ecosystems: A Comprehensive Survey**|Abdullah Khanfor et.al.|[2601.19345](http://arxiv.org/abs/2601.19345)|null|
 |**2026-01-27**|**Information-Theoretic Secure Aggregation over Regular Graphs**|Xiang Zhang et.al.|[2601.19183](http://arxiv.org/abs/2601.19183)|null|
 |**2026-01-26**|**Smart Split-Federated Learning over Noisy Channels for Embryo Image Segmentation**|Zahra Hafezi Kafshgari et.al.|[2601.18948](http://arxiv.org/abs/2601.18948)|null|
