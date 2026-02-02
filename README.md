@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Beyond Fixed Rounds: Data-Free Early Stopping for Practical Federated Learning**|Youngjoon Lee et.al.|[2601.22669](http://arxiv.org/abs/2601.22669)|null|
+|**2026-01-30**|**FedCARE: Federated Unlearning with Conflict-Aware Projection and Relearning-Resistant Recovery**|Yue Li et.al.|[2601.22589](http://arxiv.org/abs/2601.22589)|null|
+|**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|**[link](https://github.com/Jlu-zcy/www2026_FedDis)**|
+|**2026-01-29**|**ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning**|Amirhossein Taherpour et.al.|[2601.22302](http://arxiv.org/abs/2601.22302)|null|
+|**2026-01-29**|**FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation**|S M Ruhul Kabir Howlader et.al.|[2601.22204](http://arxiv.org/abs/2601.22204)|null|
 |**2026-01-29**|**A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine**|Anran Li et.al.|[2601.22124](http://arxiv.org/abs/2601.22124)|null|
 |**2026-01-29**|**Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning**|Wentao Yu et.al.|[2601.21589](http://arxiv.org/abs/2601.21589)|null|
 |**2026-01-28**|**Infusion of Blockchain to Establish Trustworthiness in AI Supported Software Evolution: A Systematic Literature Review**|Mohammad Naserameri et.al.|[2601.20918](http://arxiv.org/abs/2601.20918)|null|
@@ -4242,7 +4247,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
