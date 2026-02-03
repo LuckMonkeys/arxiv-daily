@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Age-Aware Edge-Blind Federated Learning via Over-the-Air Aggregation**|Ahmed M. Elshazly et.al.|[2602.02469](http://arxiv.org/abs/2602.02469)|null|
+|**2026-02-02**|**Conflict-Aware Client Selection for Multi-Server Federated Learning**|Mingwei Hong et.al.|[2602.02458](http://arxiv.org/abs/2602.02458)|null|
+|**2026-02-02**|**Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach**|Amirreza Kazemi et.al.|[2602.02355](http://arxiv.org/abs/2602.02355)|null|
+|**2026-02-02**|**TriCloudEdge: A multi-layer Cloud Continuum**|George Violettas et.al.|[2602.02121](http://arxiv.org/abs/2602.02121)|null|
+|**2026-02-02**|**Handling Covariate Mismatch in Federated Linear Prediction**|Alexis Ayme et.al.|[2602.02083](http://arxiv.org/abs/2602.02083)|null|
+|**2026-02-02**|**FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification**|Nan Qiao et.al.|[2602.02055](http://arxiv.org/abs/2602.02055)|null|
+|**2026-02-02**|**Federated Learning Meets Random Access: Energy-Efficient Uplink Resource Allocation**|Giovanni Perin et.al.|[2602.01913](http://arxiv.org/abs/2602.01913)|null|
+|**2026-02-02**|**Rethinking LoRA for Data Heterogeneous Federated Learning: Subspace and State Alignment**|Hongyi Peng et.al.|[2602.01746](http://arxiv.org/abs/2602.01746)|null|
+|**2026-02-02**|**Federated Vision Transformer with Adaptive Focal Loss for Medical Image Classification**|Xinyuan Zhao et.al.|[2602.01633](http://arxiv.org/abs/2602.01633)|null|
+|**2026-02-01**|**The Gaussian-Head OFL Family: One-Shot Federated Learning from Client Global Statistics**|Fabio Turazza et.al.|[2602.01186](http://arxiv.org/abs/2602.01186)|null|
 |**2026-01-30**|**Beyond Fixed Rounds: Data-Free Early Stopping for Practical Federated Learning**|Youngjoon Lee et.al.|[2601.22669](http://arxiv.org/abs/2601.22669)|null|
 |**2026-01-30**|**FedCARE: Federated Unlearning with Conflict-Aware Projection and Relearning-Resistant Recovery**|Yue Li et.al.|[2601.22589](http://arxiv.org/abs/2601.22589)|null|
 |**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|**[link](https://github.com/Jlu-zcy/www2026_FedDis)**|
@@ -5455,7 +5465,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
@@ -5465,7 +5475,7 @@ layout: default
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
