@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5465,7 +5465,7 @@ layout: default
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
