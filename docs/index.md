@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**VR-VFL: Joint Rate and Client Selection for Vehicular Federated Learning Under Imperfect CSI**|Metehan Karatas et.al.|[2602.03711](http://arxiv.org/abs/2602.03711)|**[link](https://github.com/Eshinos/ICC2026_VRVFL_Simulation)**|
+|**2026-02-03**|**Score-based diffusion models for diffuse optical tomography with uncertainty quantification**|Fabian Schneider et.al.|[2602.03449](http://arxiv.org/abs/2602.03449)|null|
+|**2026-02-03**|**Toward a Sustainable Federated Learning Ecosystem: A Practical Least Core Mechanism for Payoff Allocation**|Zhengwei Ni et.al.|[2602.03387](http://arxiv.org/abs/2602.03387)|null|
+|**2026-02-03**|**Achieving Linear Speedup for Composite Federated Learning**|Kun Huang et.al.|[2602.03357](http://arxiv.org/abs/2602.03357)|null|
+|**2026-02-03**|**From Inexact Gradients to Byzantine Robustness: Acceleration and Optimization under Similarity**|Renaud Gaucher et.al.|[2602.03329](http://arxiv.org/abs/2602.03329)|**[link](https://github.com/renaudgaucher/Inexact-gradient-acceleration-and-similarity)**|
+|**2026-02-03**|**Principled Federated Random Forests for Heterogeneous Data**|Rémi Khellaf et.al.|[2602.03258](http://arxiv.org/abs/2602.03258)|null|
+|**2026-02-03**|**Fedcompass: Federated Clustered and Periodic Aggregation Framework for Hybrid Classical-Quantum Models**|Yueheng Wang et.al.|[2602.03052](http://arxiv.org/abs/2602.03052)|null|
+|**2026-02-03**|**FedKRSO: Communication and Memory Efficient Federated Fine-Tuning of Large Language Models**|Guohao Yang et.al.|[2602.03019](http://arxiv.org/abs/2602.03019)|null|
+|**2026-02-03**|**Methods and Open Problems in Differentiable Social Choice: Learning Mechanisms, Decisions, and Alignment**|Zhiyu An et.al.|[2602.03003](http://arxiv.org/abs/2602.03003)|null|
+|**2026-02-02**|**Neural Probabilistic Amplitude Shaping for Nonlinear Fiber Channels**|Mohammad Taha Askari et.al.|[2602.02716](http://arxiv.org/abs/2602.02716)|null|
 |**2026-02-02**|**Age-Aware Edge-Blind Federated Learning via Over-the-Air Aggregation**|Ahmed M. Elshazly et.al.|[2602.02469](http://arxiv.org/abs/2602.02469)|null|
 |**2026-02-02**|**Conflict-Aware Client Selection for Multi-Server Federated Learning**|Mingwei Hong et.al.|[2602.02458](http://arxiv.org/abs/2602.02458)|null|
 |**2026-02-02**|**Hierarchical Federated Learning with SignSGD: A Highly Communication-Efficient Approach**|Amirreza Kazemi et.al.|[2602.02355](http://arxiv.org/abs/2602.02355)|null|
