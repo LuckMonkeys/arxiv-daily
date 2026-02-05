@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Let Experts Feel Uncertainty: A Multi-Expert Label Distribution Approach to Probabilistic Time Series Forecasting**|Zhen Zhou et.al.|[2602.04678](http://arxiv.org/abs/2602.04678)|null|
+|**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
+|**2026-02-04**|**Forget to Generalize: Iterative Adaptation for Generalization in Federated Learning**|Abdulrahman Alotaibi et.al.|[2602.04536](http://arxiv.org/abs/2602.04536)|null|
+|**2026-02-04**|**Decentralized Optimization with Mixed Affine Constraints**|Demyan Yarmoshik et.al.|[2602.04479](http://arxiv.org/abs/2602.04479)|null|
+|**2026-02-04**|**Med-MMFL: A Multimodal Federated Learning Benchmark in Healthcare**|Aavash Chhetri et.al.|[2602.04416](http://arxiv.org/abs/2602.04416)|null|
+|**2026-02-04**|**Blockchain Federated Learning for Sustainable Retail: Reducing Waste through Collaborative Demand Forecasting**|Fabio Turazza et.al.|[2602.04384](http://arxiv.org/abs/2602.04384)|null|
+|**2026-02-04**|**Federated Concept-Based Models: Interpretable models with distributed supervision**|Dario Fenoglio et.al.|[2602.04093](http://arxiv.org/abs/2602.04093)|null|
 |**2026-02-03**|**VR-VFL: Joint Rate and Client Selection for Vehicular Federated Learning Under Imperfect CSI**|Metehan Karatas et.al.|[2602.03711](http://arxiv.org/abs/2602.03711)|**[link](https://github.com/Eshinos/ICC2026_VRVFL_Simulation)**|
 |**2026-02-03**|**Score-based diffusion models for diffuse optical tomography with uncertainty quantification**|Fabian Schneider et.al.|[2602.03449](http://arxiv.org/abs/2602.03449)|null|
 |**2026-02-03**|**Toward a Sustainable Federated Learning Ecosystem: A Practical Least Core Mechanism for Payoff Allocation**|Zhengwei Ni et.al.|[2602.03387](http://arxiv.org/abs/2602.03387)|null|
