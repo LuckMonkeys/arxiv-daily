@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning**|Arno Geimer et.al.|[2602.05693](http://arxiv.org/abs/2602.05693)|null|
+|**2026-02-05**|**Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms**|Kevin Kurian Thomas Vaidyan et.al.|[2602.05489](http://arxiv.org/abs/2602.05489)|null|
+|**2026-02-05**|**Robust Federated Learning via Byzantine Filtering over Encrypted Updates**|Adda Akram Bendoukha et.al.|[2602.05410](http://arxiv.org/abs/2602.05410)|null|
+|**2026-02-05**|**Joint Optimization of Latency and Accuracy for Split Federated Learning in User-Centric Cell-Free MIMO Networks**|Zitong Wang et.al.|[2602.05342](http://arxiv.org/abs/2602.05342)|null|
 |**2026-02-04**|**Let Experts Feel Uncertainty: A Multi-Expert Label Distribution Approach to Probabilistic Time Series Forecasting**|Zhen Zhou et.al.|[2602.04678](http://arxiv.org/abs/2602.04678)|null|
 |**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
 |**2026-02-04**|**Forget to Generalize: Iterative Adaptation for Generalization in Federated Learning**|Abdulrahman Alotaibi et.al.|[2602.04536](http://arxiv.org/abs/2602.04536)|null|
