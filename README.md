@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning**|Dario Fenoglio et.al.|[2602.08617](http://arxiv.org/abs/2602.08617)|null|
+|**2026-02-09**|**RIFLE: Robust Distillation-based FL for Deep Model Deployment on Resource-Constrained IoT Networks**|Pouria Arefijamal et.al.|[2602.08446](http://arxiv.org/abs/2602.08446)|null|
+|**2026-02-09**|**Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems**|Ajay Kumar Shrestha et.al.|[2602.08290](http://arxiv.org/abs/2602.08290)|null|
+|**2026-02-08**|**Efficient Distribution Learning with Error Bounds in Wasserstein Distance**|Eduardo Figueiredo et.al.|[2602.08063](http://arxiv.org/abs/2602.08063)|null|
+|**2026-02-08**|**ICBAC: an Intelligent Contract-Based Access Control framework for supply chain management by integrating blockchain and federated learning**|Sadegh Sohani et.al.|[2602.08014](http://arxiv.org/abs/2602.08014)|null|
+|**2026-02-07**|**Federated Learning with Profile Mapping under Distribution Shifts and Drifts**|Mohan Li et.al.|[2602.07671](http://arxiv.org/abs/2602.07671)|null|
+|**2026-02-07**|**VertCoHiRF: Decentralized Vertical Clustering Beyond k-means**|Bruno Belucci et.al.|[2602.07279](http://arxiv.org/abs/2602.07279)|null|
+|**2026-02-06**|**Consensus Protocols for Entanglement-Aware Scheduling in Distributed Quantum Neural Networks**|Kuan-Cheng Chen et.al.|[2602.06847](http://arxiv.org/abs/2602.06847)|null|
+|**2026-02-06**|**An Adaptive Differentially Private Federated Learning Framework with Bi-level Optimization**|Jin Wang et.al.|[2602.06838](http://arxiv.org/abs/2602.06838)|null|
+|**2026-02-06**|**Revisiting Emotions Representation for Recognition in the Wild**|Joao Baptista Cardia Neto et.al.|[2602.06778](http://arxiv.org/abs/2602.06778)|null|
 |**2026-02-05**|**FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning**|Arno Geimer et.al.|[2602.05693](http://arxiv.org/abs/2602.05693)|null|
 |**2026-02-05**|**Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms**|Kevin Kurian Thomas Vaidyan et.al.|[2602.05489](http://arxiv.org/abs/2602.05489)|null|
 |**2026-02-05**|**Robust Federated Learning via Byzantine Filtering over Encrypted Updates**|Adda Akram Bendoukha et.al.|[2602.05410](http://arxiv.org/abs/2602.05410)|null|
@@ -4257,7 +4267,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## MMS
 
@@ -4296,7 +4306,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
