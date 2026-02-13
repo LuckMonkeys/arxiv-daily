@@ -1223,10 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**BlackCATT: Black-box Collusion Aware Traitor Tracing in Federated Learning**|Elena Rodríguez-Lois et.al.|[2602.12138](http://arxiv.org/abs/2602.12138)|null|
+|**2026-02-12**|**Towards Performance-Enhanced Model-Contrastive Federated Learning using Historical Information in Heterogeneous Scenarios**|Hongliang Zhang et.al.|[2602.11945](http://arxiv.org/abs/2602.11945)|null|
+|**2026-02-12**|**TIP: Resisting Gradient Inversion via Targeted Interpretable Perturbation in Federated Learning**|Jianhua Wang et.al.|[2602.11633](http://arxiv.org/abs/2602.11633)|null|
+|**2026-02-12**|**Gradient Compression May Hurt Generalization: A Remedy by Synthetic Data Guided Sharpness Aware Minimization**|Yujie Gu et.al.|[2602.11584](http://arxiv.org/abs/2602.11584)|null|
+|**2026-02-12**|**Future Mining: Learning for Safety and Security**|Md Sazedur Rahman et.al.|[2602.11472](http://arxiv.org/abs/2602.11472)|null|
 |**2026-02-11**|**FedPS: Federated data Preprocessing via aggregated Statistics**|Xuefeng Xu et.al.|[2602.10870](http://arxiv.org/abs/2602.10870)|null|
 |**2026-02-11**|**Collaborative Threshold Watermarking**|Tameem Bakr et.al.|[2602.10765](http://arxiv.org/abs/2602.10765)|null|
 |**2026-02-11**|**Roughness-Informed Federated Learning**|Mohammad Partohaghighi et.al.|[2602.10595](http://arxiv.org/abs/2602.10595)|null|
-|**2026-02-11**|**SplitCom: Communication-efficient Split Federated Fine-tuning of LLMs via Temporal Compression**|Tao Li et.al.|[2602.10564](http://arxiv.org/abs/2602.10564)|null|
+|**2026-02-12**|**SplitCom: Communication-efficient Split Federated Fine-tuning of LLMs via Temporal Compression**|Tao Li et.al.|[2602.10564](http://arxiv.org/abs/2602.10564)|null|
 |**2026-02-10**|**Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy**|Júlio Oliveira et.al.|[2602.10100](http://arxiv.org/abs/2602.10100)|null|
 |**2026-02-10**|**Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education**|Anna Bodonhelyi et.al.|[2602.09904](http://arxiv.org/abs/2602.09904)|null|
 |**2026-02-10**|**Robust Processing and Learning: Principles, Methods, and Wireless Applications**|Shixiong Wang et.al.|[2602.09848](http://arxiv.org/abs/2602.09848)|null|
