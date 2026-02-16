@@ -1223,7 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-12**|**BlackCATT: Black-box Collusion Aware Traitor Tracing in Federated Learning**|Elena Rodríguez-Lois et.al.|[2602.12138](http://arxiv.org/abs/2602.12138)|null|
+|**2026-02-13**|**FedHENet: A Frugal Federated Learning Framework for Heterogeneous Environments**|Alejandro Dopico-Castro et.al.|[2602.13024](http://arxiv.org/abs/2602.13024)|**[link](https://github.com/AlejandroDopico2/FedHENet)**|
+|**2026-02-13**|**Mixture of Predefined Experts: Maximizing Data Usage on Vertical Federated Learning**|Jon Irureta et.al.|[2602.12708](http://arxiv.org/abs/2602.12708)|null|
+|**2026-02-13**|**Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection**|Xianchao Xiu et.al.|[2602.12622](http://arxiv.org/abs/2602.12622)|null|
+|**2026-02-13**|**Fractional Order Federated Learning for Battery Electric Vehicle Energy Consumption Modeling**|Mohammad Partohaghighi et.al.|[2602.12567](http://arxiv.org/abs/2602.12567)|null|
+|**2026-02-13**|**CF-HFC:Calibrated Federated based Hardware-aware Fuzzy Clustering for Intrusion Detection in Heterogeneous IoTs**|Saadat Izadi et.al.|[2602.12557](http://arxiv.org/abs/2602.12557)|null|
+|**2026-02-13**|**Lightweight Cluster-Based Federated Learning for Intrusion Detection in Heterogeneous IoT Networks**|Saadat Izadi et.al.|[2602.12543](http://arxiv.org/abs/2602.12543)|null|
+|**2026-02-13**|**Adaptive Meta-Aggregation Federated Learning for Intrusion Detection in Heterogeneous Internet of Things**|Saadat Izadi et.al.|[2602.12541](http://arxiv.org/abs/2602.12541)|null|
+|**2026-02-13**|**BlackCATT: Black-box Collusion Aware Traitor Tracing in Federated Learning**|Elena Rodríguez-Lois et.al.|[2602.12138](http://arxiv.org/abs/2602.12138)|null|
 |**2026-02-12**|**Towards Performance-Enhanced Model-Contrastive Federated Learning using Historical Information in Heterogeneous Scenarios**|Hongliang Zhang et.al.|[2602.11945](http://arxiv.org/abs/2602.11945)|null|
 |**2026-02-12**|**TIP: Resisting Gradient Inversion via Targeted Interpretable Perturbation in Federated Learning**|Jianhua Wang et.al.|[2602.11633](http://arxiv.org/abs/2602.11633)|null|
 |**2026-02-12**|**Gradient Compression May Hurt Generalization: A Remedy by Synthetic Data Guided Sharpness Aware Minimization**|Yujie Gu et.al.|[2602.11584](http://arxiv.org/abs/2602.11584)|null|
@@ -5512,7 +5519,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
