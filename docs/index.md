@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models**|T. Shaska et.al.|[2602.14708](http://arxiv.org/abs/2602.14708)|null|
+|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|**[link](https://github.com/smileix/fal-ad)**|
+|**2026-02-16**|**pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI**|Qingqian Yang et.al.|[2602.14401](http://arxiv.org/abs/2602.14401)|null|
+|**2026-02-16**|**ASA: Adaptive Smart Agent Federated Learning via Device-Aware Clustering for Heterogeneous IoT**|Ali Salimi et.al.|[2602.14391](http://arxiv.org/abs/2602.14391)|null|
+|**2026-02-15**|**Floe: Federated Specialization for Real-Time LLM-SLM Inference**|Chunlin Tian et.al.|[2602.14302](http://arxiv.org/abs/2602.14302)|null|
+|**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
+|**2026-02-15**|**Energy-Efficient Over-the-Air Federated Learning via Pinching Antenna Systems**|Saba Asaad et.al.|[2602.14250](http://arxiv.org/abs/2602.14250)|null|
+|**2026-02-15**|**Federated Ensemble Learning with Progressive Model Personalization**|Ala Emrani et.al.|[2602.14244](http://arxiv.org/abs/2602.14244)|null|
+|**2026-02-15**|**Decentralized Federated Learning With Energy Harvesting Devices**|Kai Zhang et.al.|[2602.14051](http://arxiv.org/abs/2602.14051)|null|
+|**2026-02-14**|**Cumulative Utility Parity for Fair Federated Learning under Intermittent Client Participation**|Stefan Behfar et.al.|[2602.13651](http://arxiv.org/abs/2602.13651)|null|
 |**2026-02-13**|**FedHENet: A Frugal Federated Learning Framework for Heterogeneous Environments**|Alejandro Dopico-Castro et.al.|[2602.13024](http://arxiv.org/abs/2602.13024)|**[link](https://github.com/AlejandroDopico2/FedHENet)**|
 |**2026-02-13**|**Mixture of Predefined Experts: Maximizing Data Usage on Vertical Federated Learning**|Jon Irureta et.al.|[2602.12708](http://arxiv.org/abs/2602.12708)|null|
 |**2026-02-13**|**Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection**|Xianchao Xiu et.al.|[2602.12622](http://arxiv.org/abs/2602.12622)|null|
