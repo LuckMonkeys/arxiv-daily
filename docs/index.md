@@ -1223,6 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Revisiting Backdoor Threat in Federated Instruction Tuning from a Signal Aggregation Perspective**|Haodong Zhao et.al.|[2602.15671](http://arxiv.org/abs/2602.15671)|null|
+|**2026-02-17**|**On the Geometric Coherence of Global Aggregation in Federated GNN**|Chethana Prasad Kabgere et.al.|[2602.15510](http://arxiv.org/abs/2602.15510)|null|
+|**2026-02-17**|**Evaluating Federated Learning for Cross-Country Mood Inference from Smartphone Sensing Data**|Sharmad Kalpande et.al.|[2602.15478](http://arxiv.org/abs/2602.15478)|null|
+|**2026-02-17**|**Fractional-Order Federated Learning**|Mohammad Partohaghighi et.al.|[2602.15380](http://arxiv.org/abs/2602.15380)|null|
+|**2026-02-17**|**FedPSA: Modeling Behavioral Staleness in Asynchronous Federated Learning**|Chaoyi Lu et.al.|[2602.15337](http://arxiv.org/abs/2602.15337)|null|
+|**2026-02-17**|**Hybrid Federated and Split Learning for Privacy Preserving Clinical Prediction and Treatment Optimization**|Farzana Akter et.al.|[2602.15304](http://arxiv.org/abs/2602.15304)|null|
+|**2026-02-16**|**Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift**|Xiaoyi Wen et.al.|[2602.15167](http://arxiv.org/abs/2602.15167)|**[link](https://github.com/wenxy123/DSR)**|
+|**2026-02-16**|**Exploiting Layer-Specific Vulnerabilities to Backdoor Attack in Federated Learning**|Mohammad Hadi Foroughi et.al.|[2602.15161](http://arxiv.org/abs/2602.15161)|null|
 |**2026-02-16**|**A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models**|T. Shaska et.al.|[2602.14708](http://arxiv.org/abs/2602.14708)|null|
 |**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|**[link](https://github.com/smileix/fal-ad)**|
 |**2026-02-16**|**pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI**|Qingqian Yang et.al.|[2602.14401](http://arxiv.org/abs/2602.14401)|null|
