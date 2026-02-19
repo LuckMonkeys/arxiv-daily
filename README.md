@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data**|Yiwen Lu et.al.|[2602.16480](http://arxiv.org/abs/2602.16480)|null|
+|**2026-02-18**|**Towards Secure and Scalable Energy Theft Detection: A Federated Learning Approach for Resource-Constrained Smart Meters**|Diego Labate et.al.|[2602.16181](http://arxiv.org/abs/2602.16181)|null|
+|**2026-02-18**|**Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation**|Fatih Temiz et.al.|[2602.16174](http://arxiv.org/abs/2602.16174)|null|
+|**2026-02-18**|**Federated Graph AGI for Cross-Border Insider Threat Intelligence in Government Financial Schemes**|Srikumar Nayak et.al.|[2602.16109](http://arxiv.org/abs/2602.16109)|null|
+|**2026-02-17**|**Exploring New Frontiers in Vertical Federated Learning: the Role of Saddle Point Reformulation**|Aleksandr Beznosikov et.al.|[2602.15996](http://arxiv.org/abs/2602.15996)|null|
 |**2026-02-17**|**Revisiting Backdoor Threat in Federated Instruction Tuning from a Signal Aggregation Perspective**|Haodong Zhao et.al.|[2602.15671](http://arxiv.org/abs/2602.15671)|null|
 |**2026-02-17**|**On the Geometric Coherence of Global Aggregation in Federated GNN**|Chethana Prasad Kabgere et.al.|[2602.15510](http://arxiv.org/abs/2602.15510)|null|
 |**2026-02-17**|**Evaluating Federated Learning for Cross-Country Mood Inference from Smartphone Sensing Data**|Sharmad Kalpande et.al.|[2602.15478](http://arxiv.org/abs/2602.15478)|null|
