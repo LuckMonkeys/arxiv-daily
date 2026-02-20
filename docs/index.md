@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning**|Obaidullah Zaland et.al.|[2602.17614](http://arxiv.org/abs/2602.17614)|null|
+|**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[2602.17566](http://arxiv.org/abs/2602.17566)|null|
+|**2026-02-19**|**Convergence Analysis of Two-Layer Neural Networks under Gaussian Input Masking**|Afroditi Kolomvaki et.al.|[2602.17423](http://arxiv.org/abs/2602.17423)|null|
+|**2026-02-19**|**FLoRG: Federated Fine-tuning with Low-rank Gram Matrices and Procrustes Alignment**|Chuiyang Meng et.al.|[2602.17095](http://arxiv.org/abs/2602.17095)|null|
+|**2026-02-18**|**Heterogeneous Federated Fine-Tuning with Parallel One-Rank Adaptation**|Zikai Zhang et.al.|[2602.16936](http://arxiv.org/abs/2602.16936)|**[link](https://github.com/TNI-playground/Fed-PLoRA)**|
+|**2026-02-18**|**U-FedTomAtt: Ultra-lightweight Federated Learning with Attention for Tomato Disease Recognition**|Romiyal George et.al.|[2602.16749](http://arxiv.org/abs/2602.16749)|null|
 |**2026-02-18**|**SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data**|Yiwen Lu et.al.|[2602.16480](http://arxiv.org/abs/2602.16480)|null|
 |**2026-02-18**|**Towards Secure and Scalable Energy Theft Detection: A Federated Learning Approach for Resource-Constrained Smart Meters**|Diego Labate et.al.|[2602.16181](http://arxiv.org/abs/2602.16181)|null|
 |**2026-02-18**|**Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation**|Fatih Temiz et.al.|[2602.16174](http://arxiv.org/abs/2602.16174)|null|
