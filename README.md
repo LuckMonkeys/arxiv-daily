@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[2602.20003](http://arxiv.org/abs/2602.20003)|null|
+|**2026-02-23**|**DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models**|Jin Liu et.al.|[2602.19945](http://arxiv.org/abs/2602.19945)|null|
+|**2026-02-23**|**Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models**|Jin Liu et.al.|[2602.19926](http://arxiv.org/abs/2602.19926)|null|
+|**2026-02-23**|**Personalized Longitudinal Medical Report Generation via Temporally-Aware Federated Adaptation**|He Zhu et.al.|[2602.19668](http://arxiv.org/abs/2602.19668)|null|
+|**2026-02-23**|**Federated Learning Playground**|Bryan Guanrong Shan et.al.|[2602.19489](http://arxiv.org/abs/2602.19489)|**[link](https://github.com/owkin/FLamby)**|
+|**2026-02-23**|**EMS-FL: Federated Tuning of Mixture-of-Experts in Satellite-Terrestrial Networks via Expert-Driven Model Splitting**|Angzi Xu et.al.|[2602.19485](http://arxiv.org/abs/2602.19485)|null|
+|**2026-02-22**|**Taming Preconditioner Drift: Unlocking the Potential of Second-Order Optimizers for Federated Learning on Non-IID Data**|Junkang Liu et.al.|[2602.19271](http://arxiv.org/abs/2602.19271)|null|
+|**2026-02-22**|**HybridFL: A Federated Learning Approach for Financial Crime Detection**|Afsana Khan et.al.|[2602.19207](http://arxiv.org/abs/2602.19207)|null|
+|**2026-02-22**|**Event-Triggered Gossip for Distributed Learning**|Zhiyuan Zhai et.al.|[2602.19116](http://arxiv.org/abs/2602.19116)|null|
+|**2026-02-21**|**Federated Measurement of Demographic Disparities from Quantile Sketches**|Arthur Charpentier et.al.|[2602.18870](http://arxiv.org/abs/2602.18870)|null|
 |**2026-02-20**|**FedZMG: Efficient Client-Side Optimization in Federated Learning**|Fotios Zantalis et.al.|[2602.18384](http://arxiv.org/abs/2602.18384)|null|
 |**2026-02-20**|**PenTiDef: Enhancing Privacy and Robustness in Decentralized Federated Intrusion Detection Systems against Poisoning Attacks**|Phan The Duy et.al.|[2602.17973](http://arxiv.org/abs/2602.17973)|null|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
