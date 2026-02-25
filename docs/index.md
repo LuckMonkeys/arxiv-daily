@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|Rui Zhao et.al.|[2602.21119](http://arxiv.org/abs/2602.21119)|null|
+|**2026-02-24**|**Is Multi-Distribution Learning as Easy as PAC Learning: Sharp Rates with Bounded Label Noise**|Rafael Hanashiro et.al.|[2602.21039](http://arxiv.org/abs/2602.21039)|null|
+|**2026-02-24**|**On Electric Vehicle Energy Demand Forecasting and the Effect of Federated Learning**|Andreas Tritsarolis et.al.|[2602.20782](http://arxiv.org/abs/2602.20782)|null|
+|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|**[link](https://github.com/sachugowda/FedGINwithExtension)**|
+|**2026-02-24**|**Bikelution: Federated Gradient-Boosting for Scalable Shared Micro-Mobility Demand Forecasting**|Antonios Tziorvas et.al.|[2602.20671](http://arxiv.org/abs/2602.20671)|null|
+|**2026-02-24**|**Is the Trigger Essential? A Feature-Based Triggerless Backdoor Attack in Vertical Federated Learning**|Yige Liu et.al.|[2602.20593](http://arxiv.org/abs/2602.20593)|**[link](https://github.com/WWlnZSBMaXU/Triggerless)**|
+|**2026-02-24**|**Memory-guided Prototypical Co-occurrence Learning for Mixed Emotion Recognition**|Ming Li et.al.|[2602.20530](http://arxiv.org/abs/2602.20530)|null|
+|**2026-02-24**|**Wireless Federated Multi-Task LLM Fine-Tuning via Sparse-and-Orthogonal LoRA**|Nuocheng Yang et.al.|[2602.20492](http://arxiv.org/abs/2602.20492)|null|
+|**2026-02-24**|**Heterogeneity-Aware Client Selection Methodology For Efficient Federated Learning**|Nihal Balivada et.al.|[2602.20450](http://arxiv.org/abs/2602.20450)|null|
 |**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[2602.20003](http://arxiv.org/abs/2602.20003)|null|
 |**2026-02-23**|**DP-FedAdamW: An Efficient Optimizer for Differentially Private Federated Large Models**|Jin Liu et.al.|[2602.19945](http://arxiv.org/abs/2602.19945)|null|
 |**2026-02-23**|**Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models**|Jin Liu et.al.|[2602.19926](http://arxiv.org/abs/2602.19926)|null|
