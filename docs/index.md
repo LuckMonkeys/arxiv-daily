@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**A Critical Look into Threshold Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2602.22037](http://arxiv.org/abs/2602.22037)|null|
+|**2026-02-25**|**Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks**|Yahao Ding et.al.|[2602.21949](http://arxiv.org/abs/2602.21949)|null|
+|**2026-02-25**|**Learning Unknown Interdependencies for Decentralized Root Cause Analysis in Nonlinear Dynamical Systems**|Ayush Mohanty et.al.|[2602.21928](http://arxiv.org/abs/2602.21928)|null|
+|**2026-02-25**|**GFPL: Generative Federated Prototype Learning for Resource-Constrained and Data-Imbalanced Vision Task**|Shiwei Lu et.al.|[2602.21873](http://arxiv.org/abs/2602.21873)|null|
+|**2026-02-25**|**JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning**|Ruichen Xu et.al.|[2602.21844](http://arxiv.org/abs/2602.21844)|null|
+|**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
+|**2026-02-25**|**Private and Robust Contribution Evaluation in Federated Learning**|Delio Jaramillo Velez et.al.|[2602.21721](http://arxiv.org/abs/2602.21721)|null|
+|**2026-02-24**|**FedVG: Gradient-Guided Aggregation for Enhanced Federated Learning**|Alina Devkota et.al.|[2602.21399](http://arxiv.org/abs/2602.21399)|null|
+|**2026-02-24**|**UnlinkableDFL: a Practical Mixnet Protocol for Churn-Tolerant Decentralized FL Model Sharing**|Chao Feng et.al.|[2602.21343](http://arxiv.org/abs/2602.21343)|null|
 |**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|Rui Zhao et.al.|[2602.21119](http://arxiv.org/abs/2602.21119)|null|
 |**2026-02-24**|**Is Multi-Distribution Learning as Easy as PAC Learning: Sharp Rates with Bounded Label Noise**|Rafael Hanashiro et.al.|[2602.21039](http://arxiv.org/abs/2602.21039)|null|
 |**2026-02-24**|**On Electric Vehicle Energy Demand Forecasting and the Effect of Federated Learning**|Andreas Tritsarolis et.al.|[2602.20782](http://arxiv.org/abs/2602.20782)|null|
