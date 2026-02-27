@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Conformalized Neural Networks for Federated Uncertainty Quantification under Dual Heterogeneity**|Quang-Huy Nguyen et.al.|[2602.23296](http://arxiv.org/abs/2602.23296)|null|
+|**2026-02-26**|**SettleFL: Trustless and Scalable Reward Settlement Protocol for Federated Learning on Permissionless Blockchains (Extended version)**|Shuang Liang et.al.|[2602.23167](http://arxiv.org/abs/2602.23167)|null|
+|**2026-02-26**|**Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study**|Philipp Wiesner et.al.|[2602.22760](http://arxiv.org/abs/2602.22760)|null|
+|**2026-02-26**|**Tackling Privacy Heterogeneity in Differentially Private Federated Learning**|Ruichen Xu et.al.|[2602.22633](http://arxiv.org/abs/2602.22633)|null|
+|**2026-02-25**|**Beyond performance-wise Contribution Evaluation in Federated Learning**|Balazs Pejo et.al.|[2602.22470](http://arxiv.org/abs/2602.22470)|null|
+|**2026-02-25**|**Energy Efficient Federated Learning with Hyperdimensional Computing (HDC)**|Yahao Ding et.al.|[2602.22290](http://arxiv.org/abs/2602.22290)|null|
 |**2026-02-25**|**A Critical Look into Threshold Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2602.22037](http://arxiv.org/abs/2602.22037)|null|
 |**2026-02-25**|**Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks**|Yahao Ding et.al.|[2602.21949](http://arxiv.org/abs/2602.21949)|null|
 |**2026-02-25**|**Learning Unknown Interdependencies for Decentralized Root Cause Analysis in Nonlinear Dynamical Systems**|Ayush Mohanty et.al.|[2602.21928](http://arxiv.org/abs/2602.21928)|null|
