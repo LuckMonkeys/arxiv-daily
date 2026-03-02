@@ -13,7 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-26**|**Conformalized Neural Networks for Federated Uncertainty Quantification under Dual Heterogeneity**|Quang-Huy Nguyen et.al.|[2602.23296](http://arxiv.org/abs/2602.23296)|null|
+|**2026-02-27**|**An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks**|Mohsen Tajgardan et.al.|[2602.24209](http://arxiv.org/abs/2602.24209)|null|
+|**2026-02-27**|**FedNSAM:Consistency of Local and Global Flatness for Federated Learning**|Junkang Liu et.al.|[2602.23827](http://arxiv.org/abs/2602.23827)|null|
+|**2026-02-26**|**FedDAG: Clustered Federated Learning via Global Data and Gradient Integration for Heterogeneous Environments**|Anik Pramanik et.al.|[2602.23504](http://arxiv.org/abs/2602.23504)|null|
+|**2026-02-27**|**Conformalized Neural Networks for Federated Uncertainty Quantification under Dual Heterogeneity**|Quang-Huy Nguyen et.al.|[2602.23296](http://arxiv.org/abs/2602.23296)|null|
 |**2026-02-26**|**SettleFL: Trustless and Scalable Reward Settlement Protocol for Federated Learning on Permissionless Blockchains (Extended version)**|Shuang Liang et.al.|[2602.23167](http://arxiv.org/abs/2602.23167)|null|
 |**2026-02-26**|**Distributed LLM Pretraining During Renewable Curtailment Windows: A Feasibility Study**|Philipp Wiesner et.al.|[2602.22760](http://arxiv.org/abs/2602.22760)|null|
 |**2026-02-26**|**Tackling Privacy Heterogeneity in Differentially Private Federated Learning**|Ruichen Xu et.al.|[2602.22633](http://arxiv.org/abs/2602.22633)|null|
@@ -4377,7 +4380,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
