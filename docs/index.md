@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Protection against Source Inference Attacks in Federated Learning**|Andreas Athanasiou et.al.|[2603.02017](http://arxiv.org/abs/2603.02017)|null|
+|**2026-03-02**|**Accurate, private, secure, federated U-statistics with higher degree**|Quentin Sinh et.al.|[2603.01986](http://arxiv.org/abs/2603.01986)|null|
+|**2026-03-02**|**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**|Ilenia Carboni et.al.|[2603.01850](http://arxiv.org/abs/2603.01850)|null|
+|**2026-03-02**|**Federated Agentic AI for Wireless Networks: Fundamentals, Approaches, and Applications**|Lingyi Cai et.al.|[2603.01755](http://arxiv.org/abs/2603.01755)|null|
+|**2026-03-02**|**CA-AFP: Cluster-Aware Adaptive Federated Pruning**|Om Govind Jha et.al.|[2603.01739](http://arxiv.org/abs/2603.01739)|null|
+|**2026-03-02**|**Decentralized Federated Learning by Partial Message Exchange**|Shan Sha et.al.|[2603.01730](http://arxiv.org/abs/2603.01730)|null|
+|**2026-03-02**|**Align and Filter: Improving Performance in Asynchronous On-Policy RL**|Homayoun Honari et.al.|[2603.01365](http://arxiv.org/abs/2603.01365)|null|
+|**2026-03-02**|**Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting**|Yi Li et.al.|[2603.01363](http://arxiv.org/abs/2603.01363)|null|
+|**2026-03-01**|**Communication-Efficient Quantum Federated Learning over Large-Scale Wireless Networks**|Shaba Shaon et.al.|[2603.01222](http://arxiv.org/abs/2603.01222)|null|
+|**2026-03-01**|**Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift**|Heewon Park et.al.|[2603.01040](http://arxiv.org/abs/2603.01040)|null|
 |**2026-02-27**|**An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks**|Mohsen Tajgardan et.al.|[2602.24209](http://arxiv.org/abs/2602.24209)|null|
 |**2026-02-27**|**FedNSAM:Consistency of Local and Global Flatness for Federated Learning**|Junkang Liu et.al.|[2602.23827](http://arxiv.org/abs/2602.23827)|null|
 |**2026-02-26**|**FedDAG: Clustered Federated Learning via Global Data and Gradient Integration for Heterogeneous Environments**|Anik Pramanik et.al.|[2602.23504](http://arxiv.org/abs/2602.23504)|null|
