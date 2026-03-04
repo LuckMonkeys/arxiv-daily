@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Integrating Homomorphic Encryption and Synthetic Data in FL for Privacy and Learning Quality**|Yenan Wang et.al.|[2603.02969](http://arxiv.org/abs/2603.02969)|null|
+|**2026-03-03**|**Understanding the Resource Cost of Fully Homomorphic Encryption in Quantum Federated Learning**|Lukas Böhm et.al.|[2603.02799](http://arxiv.org/abs/2603.02799)|null|
+|**2026-03-03**|**HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning**|Zihao Peng et.al.|[2603.02785](http://arxiv.org/abs/2603.02785)|null|
+|**2026-03-03**|**Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need**|Xinran Zheng et.al.|[2603.02639](http://arxiv.org/abs/2603.02639)|null|
+|**2026-03-03**|**EdgeFLow: Serverless Federated Learning via Sequential Model Migration in Edge Networks**|Yuchen Shi et.al.|[2603.02562](http://arxiv.org/abs/2603.02562)|**[link](https://github.com/hqj-les30/HA-EdgeFLow)**|
+|**2026-03-02**|**Composable Attestation: A Generalized Framework for Continuous and Incremental Trust in AI-Driven Distributed Systems**|Sheng Sun et.al.|[2603.02451](http://arxiv.org/abs/2603.02451)|null|
+|**2026-03-02**|**Personalized Multi-Agent Average Reward TD-Learning via Joint Linear Approximation**|Leo et.al.|[2603.02426](http://arxiv.org/abs/2603.02426)|null|
 |**2026-03-02**|**Protection against Source Inference Attacks in Federated Learning**|Andreas Athanasiou et.al.|[2603.02017](http://arxiv.org/abs/2603.02017)|null|
 |**2026-03-02**|**Accurate, private, secure, federated U-statistics with higher degree**|Quentin Sinh et.al.|[2603.01986](http://arxiv.org/abs/2603.01986)|null|
 |**2026-03-02**|**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**|Ilenia Carboni et.al.|[2603.01850](http://arxiv.org/abs/2603.01850)|null|
