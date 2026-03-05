@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology**|Kelly L Vomo-Donfack et.al.|[2603.04323](http://arxiv.org/abs/2603.04323)|null|
+|**2026-03-04**|**Noise-aware Client Selection for carbon-efficient Federated Learning via Gradient Norm Thresholding**|Patrick Wilhelm et.al.|[2603.04194](http://arxiv.org/abs/2603.04194)|null|
+|**2026-03-04**|**FedCova: Robust Federated Covariance Learning Against Noisy Labels**|Xiangyu Zhong et.al.|[2603.04062](http://arxiv.org/abs/2603.04062)|null|
+|**2026-03-04**|**Structure-Aware Distributed Backdoor Attacks in Federated Learning**|Wang Jian et.al.|[2603.03865](http://arxiv.org/abs/2603.03865)|null|
+|**2026-03-04**|**Towards Practical Quantum Federated Learning: Enhancing Efficiency and Noise Tolerance**|Suzukaze Kamei et.al.|[2603.03853](http://arxiv.org/abs/2603.03853)|null|
+|**2026-03-04**|**LEA: Label Enumeration Attack in Vertical Federated Learning**|Wenhao Jiang et.al.|[2603.03777](http://arxiv.org/abs/2603.03777)|null|
+|**2026-03-03**|**Zero-Knowledge Federated Learning with Lattice-Based Hybrid Encryption for Quantum-Resilient Medical AI**|Edouard Lansiaux et.al.|[2603.03398](http://arxiv.org/abs/2603.03398)|null|
 |**2026-03-03**|**Integrating Homomorphic Encryption and Synthetic Data in FL for Privacy and Learning Quality**|Yenan Wang et.al.|[2603.02969](http://arxiv.org/abs/2603.02969)|null|
 |**2026-03-03**|**Understanding the Resource Cost of Fully Homomorphic Encryption in Quantum Federated Learning**|Lukas Böhm et.al.|[2603.02799](http://arxiv.org/abs/2603.02799)|null|
 |**2026-03-03**|**HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning**|Zihao Peng et.al.|[2603.02785](http://arxiv.org/abs/2603.02785)|null|
