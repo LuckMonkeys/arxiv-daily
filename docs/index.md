@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**A Behaviour-Aware Federated Forecasting Framework for Distributed Stand-Alone Wind Turbines**|Bowen Li et.al.|[2603.05263](http://arxiv.org/abs/2603.05263)|null|
+|**2026-03-05**|**Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks**|Akash Sharma et.al.|[2603.05217](http://arxiv.org/abs/2603.05217)|null|
+|**2026-03-05**|**Semantic Class Distribution Learning for Debiasing Semi-Supervised Medical Image Segmentation**|Yingxue Su et.al.|[2603.05202](http://arxiv.org/abs/2603.05202)|**[link](https://github.com/Zyh55555/SCDL)**|
+|**2026-03-05**|**Balancing Privacy-Quality-Efficiency in Federated Learning through Round-Based Interleaving of Protection Techniques**|Yenan Wang et.al.|[2603.05158](http://arxiv.org/abs/2603.05158)|null|
+|**2026-03-05**|**FedBCD:Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning**|Junkang Liu et.al.|[2603.05116](http://arxiv.org/abs/2603.05116)|null|
+|**2026-03-05**|**Federated Heterogeneous Language Model Optimization for Hybrid Automatic Speech Recognition**|Mengze Hong et.al.|[2603.04945](http://arxiv.org/abs/2603.04945)|null|
+|**2026-03-05**|**Semantic Communication-Enhanced Split Federated Learning for Vehicular Networks: Architecture, Challenges, and Case Study**|Lu Yu et.al.|[2603.04936](http://arxiv.org/abs/2603.04936)|null|
+|**2026-03-05**|**FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation**|Min Tan et.al.|[2603.04890](http://arxiv.org/abs/2603.04890)|null|
+|**2026-03-05**|**Federated Modality-specific Encoders and Partially Personalized Fusion Decoder for Multimodal Brain Tumor Segmentation**|Hong Liu et.al.|[2603.04887](http://arxiv.org/abs/2603.04887)|**[link](https://github.com/ccarliu/FedMEPD)**|
+|**2026-03-05**|**Efficient Privacy-Preserving Sparse Matrix-Vector Multiplication Using Homomorphic Encryption**|Yang Gao et.al.|[2603.04742](http://arxiv.org/abs/2603.04742)|**[link](https://github.com/EchizenG/CSSC)**|
 |**2026-03-04**|**PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology**|Kelly L Vomo-Donfack et.al.|[2603.04323](http://arxiv.org/abs/2603.04323)|null|
 |**2026-03-04**|**Noise-aware Client Selection for carbon-efficient Federated Learning via Gradient Norm Thresholding**|Patrick Wilhelm et.al.|[2603.04194](http://arxiv.org/abs/2603.04194)|null|
 |**2026-03-04**|**FedCova: Robust Federated Covariance Learning Against Noisy Labels**|Xiangyu Zhong et.al.|[2603.04062](http://arxiv.org/abs/2603.04062)|null|
