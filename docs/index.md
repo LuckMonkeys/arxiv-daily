@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**FedARKS: Federated Aggregation via Robust and Discriminative Knowledge Selection and Integration for Person Re-identification**|Xin Xu et.al.|[2603.06122](http://arxiv.org/abs/2603.06122)|null|
+|**2026-03-06**|**Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach**|Rahim Rahmani et.al.|[2603.06041](http://arxiv.org/abs/2603.06041)|null|
+|**2026-03-06**|**Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation**|Bowen Chen et.al.|[2603.05873](http://arxiv.org/abs/2603.05873)|null|
+|**2026-03-06**|**First-Order Softmax Weighted Switching Gradient Method for Distributed Stochastic Minimax Optimization with Stochastic Constraints**|Zhankun Luo et.al.|[2603.05774](http://arxiv.org/abs/2603.05774)|null|
 |**2026-03-05**|**A Behaviour-Aware Federated Forecasting Framework for Distributed Stand-Alone Wind Turbines**|Bowen Li et.al.|[2603.05263](http://arxiv.org/abs/2603.05263)|null|
 |**2026-03-05**|**Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks**|Akash Sharma et.al.|[2603.05217](http://arxiv.org/abs/2603.05217)|null|
 |**2026-03-05**|**Semantic Class Distribution Learning for Debiasing Semi-Supervised Medical Image Segmentation**|Yingxue Su et.al.|[2603.05202](http://arxiv.org/abs/2603.05202)|**[link](https://github.com/Zyh55555/SCDL)**|
