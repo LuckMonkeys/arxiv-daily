@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Split Federated Learning Architectures for High-Accuracy and Low-Delay Model Training**|Yiannis Papageorgiou et.al.|[2603.08687](http://arxiv.org/abs/2603.08687)|null|
+|**2026-03-09**|**Coherence-Aware Over-the-Air Distributed Learning under Heterogeneous Link Impairments**|Mehdi Karbalayghareh et.al.|[2603.08641](http://arxiv.org/abs/2603.08641)|null|
+|**2026-03-09**|**Pinching Antennas-Assisted Low-Latency Federated Learning Over Multi-User Wireless Networks**|Saba Asaad et.al.|[2603.08595](http://arxiv.org/abs/2603.08595)|null|
+|**2026-03-09**|**FedPrism: Adaptive Personalized Federated Learning under Non-IID Data**|Prakash Kumbhakar et.al.|[2603.08252](http://arxiv.org/abs/2603.08252)|null|
+|**2026-03-09**|**Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation**|Patrick Wilhelm et.al.|[2603.08211](http://arxiv.org/abs/2603.08211)|null|
+|**2026-03-09**|**Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor**|Jiayu Huang et.al.|[2603.08058](http://arxiv.org/abs/2603.08058)|null|
+|**2026-03-09**|**SI-ChainFL: Shapley-Incentivized Secure Federated Learning for High-Speed Rail Data Sharing**|Mingjie Zhao et.al.|[2603.07992](http://arxiv.org/abs/2603.07992)|null|
+|**2026-03-08**|**Geometric Knowledge-Assisted Federated Dual Knowledge Distillation Approach Towards Remote Sensing Satellite Imagery**|Luyao Zou et.al.|[2603.07774](http://arxiv.org/abs/2603.07774)|null|
+|**2026-03-08**|**Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning**|Jinshan Liu et.al.|[2603.07743](http://arxiv.org/abs/2603.07743)|**[link](https://github.com/shanhe321/FedShift)**|
+|**2026-03-08**|**Post-quantum Federated Learning: Secure And Scalable Threat Intelligence For Collaborative Cyber Defense**|Prabhudarshi Nayak et.al.|[2603.07726](http://arxiv.org/abs/2603.07726)|null|
 |**2026-03-06**|**FedARKS: Federated Aggregation via Robust and Discriminative Knowledge Selection and Integration for Person Re-identification**|Xin Xu et.al.|[2603.06122](http://arxiv.org/abs/2603.06122)|null|
 |**2026-03-06**|**Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach**|Rahim Rahmani et.al.|[2603.06041](http://arxiv.org/abs/2603.06041)|null|
 |**2026-03-06**|**Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation**|Bowen Chen et.al.|[2603.05873](http://arxiv.org/abs/2603.05873)|null|
