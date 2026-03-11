@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,10 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
+|**2026-03-10**|**A Multi-Prototype-Guided Federated Knowledge Distillation Approach in AI-RAN Enabled Multi-Access Edge Computing System**|Luyao Zou et.al.|[2603.09727](http://arxiv.org/abs/2603.09727)|null|
+|**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
+|**2026-03-10**|**Agentic AI as a Network Control-Plane Intelligence Layer for Federated Learning over 6G**|Loc X. Nguyen et.al.|[2603.09141](http://arxiv.org/abs/2603.09141)|null|
+|**2026-03-09**|**MAcPNN: Mutual Assisted Learning on Data Streams with Temporal Dependence**|Federico Giannini et.al.|[2603.08972](http://arxiv.org/abs/2603.08972)|null|
+|**2026-03-09**|**FedLECC: Cluster- and Loss-Guided Client Selection for Federated Learning under Non-IID Data**|Daniel M. Jimenez-Gutierrez et.al.|[2603.08911](http://arxiv.org/abs/2603.08911)|null|
 |**2026-03-09**|**Split Federated Learning Architectures for High-Accuracy and Low-Delay Model Training**|Yiannis Papageorgiou et.al.|[2603.08687](http://arxiv.org/abs/2603.08687)|null|
 |**2026-03-09**|**Coherence-Aware Over-the-Air Distributed Learning under Heterogeneous Link Impairments**|Mehdi Karbalayghareh et.al.|[2603.08641](http://arxiv.org/abs/2603.08641)|null|
 |**2026-03-09**|**Pinching Antennas-Assisted Low-Latency Federated Learning Over Multi-User Wireless Networks**|Saba Asaad et.al.|[2603.08595](http://arxiv.org/abs/2603.08595)|null|
-|**2026-03-09**|**FedPrism: Adaptive Personalized Federated Learning under Non-IID Data**|Prakash Kumbhakar et.al.|[2603.08252](http://arxiv.org/abs/2603.08252)|null|
+|**2026-03-10**|**FedPrism: Adaptive Personalized Federated Learning under Non-IID Data**|Prakash Kumbhakar et.al.|[2603.08252](http://arxiv.org/abs/2603.08252)|null|
 |**2026-03-09**|**Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation**|Patrick Wilhelm et.al.|[2603.08211](http://arxiv.org/abs/2603.08211)|null|
 |**2026-03-09**|**Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor**|Jiayu Huang et.al.|[2603.08058](http://arxiv.org/abs/2603.08058)|null|
 |**2026-03-09**|**SI-ChainFL: Shapley-Incentivized Secure Federated Learning for High-Speed Rail Data Sharing**|Mingjie Zhao et.al.|[2603.07992](http://arxiv.org/abs/2603.07992)|null|
