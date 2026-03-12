@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks**|Maria Lamprini Bartsioka et.al.|[2603.10983](http://arxiv.org/abs/2603.10983)|null|
+|**2026-03-11**|**FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks**|Maria Lamprini A. Bartsioka et.al.|[2603.10977](http://arxiv.org/abs/2603.10977)|null|
+|**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[2603.10902](http://arxiv.org/abs/2603.10902)|null|
+|**2026-03-11**|**Incremental Federated Learning for Intrusion Detection in IoT Networks under Evolving Threat Landscape**|Muaan Ur Rehman et.al.|[2603.10776](http://arxiv.org/abs/2603.10776)|null|
+|**2026-03-11**|**Prioritizing Gradient Sign Over Modulus: An Importance-Aware Framework for Wireless Federated Learning**|Yiyang Yue et.al.|[2603.10763](http://arxiv.org/abs/2603.10763)|null|
+|**2026-03-11**|**Repurposing Backdoors for Good: Ephemeral Intrinsic Proofs for Verifiable Aggregation in Cross-silo Federated Learning**|Xian Qin et.al.|[2603.10692](http://arxiv.org/abs/2603.10692)|null|
+|**2026-03-10**|**A Survey of Weight Space Learning: Understanding, Representation, and Generation**|Xiaolong Han et.al.|[2603.10090](http://arxiv.org/abs/2603.10090)|null|
 |**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
 |**2026-03-10**|**A Multi-Prototype-Guided Federated Knowledge Distillation Approach in AI-RAN Enabled Multi-Access Edge Computing System**|Luyao Zou et.al.|[2603.09727](http://arxiv.org/abs/2603.09727)|null|
 |**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
