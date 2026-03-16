@@ -1,4 +1,4 @@
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes**|Steven Motta et.al.|[2603.13037](http://arxiv.org/abs/2603.13037)|null|
+|**2026-03-13**|**SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning**|Md Anwar Hossen et.al.|[2603.12976](http://arxiv.org/abs/2603.12976)|null|
+|**2026-03-13**|**Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers**|Yue Zhang et.al.|[2603.12684](http://arxiv.org/abs/2603.12684)|null|
+|**2026-03-13**|**CA-HFP: Curvature-Aware Heterogeneous Federated Pruning with Model Reconstruction**|Gang Hu et.al.|[2603.12591](http://arxiv.org/abs/2603.12591)|null|
+|**2026-03-12**|**Sampling through iterated approximation: Gradient-free and multi-fidelity Bayesian inference via transport**|Daniel Sharp et.al.|[2603.12448](http://arxiv.org/abs/2603.12448)|null|
+|**2026-03-12**|**Room Impulse Response Completion Using Signal-Prediction Diffusion Models Conditioned on Simulated Early Reflections**|Zeyu Xu et.al.|[2603.12442](http://arxiv.org/abs/2603.12442)|null|
 |**2026-03-12**|**Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case**|Diego Cajaraville-Aboy et.al.|[2603.12001](http://arxiv.org/abs/2603.12001)|null|
 |**2026-03-12**|**Few-for-Many Personalized Federated Learning**|Ping Guo et.al.|[2603.11992](http://arxiv.org/abs/2603.11992)|null|
 |**2026-03-12**|**Ada3Drift: Adaptive Training-Time Drifting for One-Step 3D Visuomotor Robotic Manipulation**|Chongyang Xu et.al.|[2603.11984](http://arxiv.org/abs/2603.11984)|null|
@@ -4428,7 +4434,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## MMS
 
@@ -4467,7 +4473,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
