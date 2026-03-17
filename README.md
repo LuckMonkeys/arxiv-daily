@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Federated Learning of Binary Neural Networks: Enabling Low-Cost Inference**|Nitin Priyadarshini Shankar et.al.|[2603.15507](http://arxiv.org/abs/2603.15507)|null|
+|**2026-03-16**|**Joint Routing and Model Pruning for Decentralized Federated Learning in Bandwidth-Constrained Multi-Hop Wireless Networks**|Xiaoyu He et.al.|[2603.15188](http://arxiv.org/abs/2603.15188)|**[link](https://github.com/hxysobeautiful/D-FL)**|
+|**2026-03-16**|**Accelerating Byzantine-Robust Distributed Learning with Compressed Communication via Double Momentum and Variance Reduction**|Yanghao Li et.al.|[2603.15144](http://arxiv.org/abs/2603.15144)|null|
+|**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et.al.|[2603.14956](http://arxiv.org/abs/2603.14956)|**[link](https://github.com/rtao499/SFedHIFI)**|
+|**2026-03-16**|**Personalized Federated Learning with Residual Fisher Information for Medical Image Segmentation**|Meilu Zhu et.al.|[2603.14848](http://arxiv.org/abs/2603.14848)|null|
+|**2026-03-16**|**HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation**|Qiyuan Chen et.al.|[2603.14773](http://arxiv.org/abs/2603.14773)|null|
+|**2026-03-15**|**Collective Grid: Privacy-Preserved Multi-Operator Energy Sharing Optimization via Federated Energy Prediction**|Meysam Masoudi et.al.|[2603.14606](http://arxiv.org/abs/2603.14606)|null|
+|**2026-03-15**|**Domain-Skewed Federated Learning with Feature Decoupling and Calibration**|Huan Wang et.al.|[2603.14238](http://arxiv.org/abs/2603.14238)|**[link](https://github.com/mala-lab/F2DC)**|
+|**2026-03-14**|**FedPBS: Proximal-Balanced Scaling Federated Learning Model for Robust Personalized Training for Non-IID Data**|Eman M. AbouNassara et.al.|[2603.13909](http://arxiv.org/abs/2603.13909)|null|
+|**2026-03-14**|**Computation and Communication Efficient Federated Unlearning via On-server Gradient Conflict Mitigation and Expression**|Minh-Duong Nguyen et.al.|[2603.13795](http://arxiv.org/abs/2603.13795)|null|
 |**2026-03-13**|**Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes**|Steven Motta et.al.|[2603.13037](http://arxiv.org/abs/2603.13037)|null|
 |**2026-03-13**|**SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning**|Md Anwar Hossen et.al.|[2603.12976](http://arxiv.org/abs/2603.12976)|null|
 |**2026-03-13**|**Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers**|Yue Zhang et.al.|[2603.12684](http://arxiv.org/abs/2603.12684)|null|
@@ -4434,7 +4444,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## MMS
 
@@ -4473,7 +4483,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
