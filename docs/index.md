@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning**|Reek Das et.al.|[2603.16846](http://arxiv.org/abs/2603.16846)|null|
+|**2026-03-17**|**Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications**|Yuanfang Ren et.al.|[2603.16723](http://arxiv.org/abs/2603.16723)|null|
+|**2026-03-17**|**FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios**|Andrea Moleri et.al.|[2603.16370](http://arxiv.org/abs/2603.16370)|null|
+|**2026-03-17**|**Biased Compression in Gradient Coding for Distributed Learning**|Chengxi Li et.al.|[2603.16353](http://arxiv.org/abs/2603.16353)|null|
+|**2026-03-16**|**Federated Learning for Privacy-Preserving Medical AI**|Tin Hoang et.al.|[2603.15901](http://arxiv.org/abs/2603.15901)|**[link](https://github.com/shikhar3dev/ai-medical-assistant)**|
 |**2026-03-16**|**Federated Learning of Binary Neural Networks: Enabling Low-Cost Inference**|Nitin Priyadarshini Shankar et.al.|[2603.15507](http://arxiv.org/abs/2603.15507)|null|
 |**2026-03-16**|**Joint Routing and Model Pruning for Decentralized Federated Learning in Bandwidth-Constrained Multi-Hop Wireless Networks**|Xiaoyu He et.al.|[2603.15188](http://arxiv.org/abs/2603.15188)|**[link](https://github.com/hxysobeautiful/D-FL)**|
 |**2026-03-16**|**Accelerating Byzantine-Robust Distributed Learning with Compressed Communication via Double Momentum and Variance Reduction**|Yanghao Li et.al.|[2603.15144](http://arxiv.org/abs/2603.15144)|null|
