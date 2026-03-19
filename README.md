@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation**|Charuka Herath et.al.|[2603.17507](http://arxiv.org/abs/2603.17507)|null|
+|**2026-03-18**|**Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design**|Enzo Fenoglio et.al.|[2603.17331](http://arxiv.org/abs/2603.17331)|null|
+|**2026-03-18**|**Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation**|Chunxu Zhang et.al.|[2603.17315](http://arxiv.org/abs/2603.17315)|**[link](https://github.com/Poizoner/code4FCUCR_www2026)**|
+|**2026-03-17**|**Contextual Preference Distribution Learning**|Benjamin Hudson et.al.|[2603.17139](http://arxiv.org/abs/2603.17139)|**[link](https://github.com/ben-hudson/contextual-preference-distribution-learning)**|
 |**2026-03-17**|**Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning**|Reek Das et.al.|[2603.16846](http://arxiv.org/abs/2603.16846)|null|
 |**2026-03-17**|**Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications**|Yuanfang Ren et.al.|[2603.16723](http://arxiv.org/abs/2603.16723)|null|
 |**2026-03-17**|**FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios**|Andrea Moleri et.al.|[2603.16370](http://arxiv.org/abs/2603.16370)|null|
@@ -4449,7 +4453,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## MMS
 
@@ -4488,7 +4492,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation**|Charuka Herath et.al.|[2603.17507](http://arxiv.org/abs/2603.17507)|null|
+|**2026-03-18**|**Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design**|Enzo Fenoglio et.al.|[2603.17331](http://arxiv.org/abs/2603.17331)|null|
+|**2026-03-18**|**Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation**|Chunxu Zhang et.al.|[2603.17315](http://arxiv.org/abs/2603.17315)|**[link](https://github.com/Poizoner/code4FCUCR_www2026)**|
+|**2026-03-17**|**Contextual Preference Distribution Learning**|Benjamin Hudson et.al.|[2603.17139](http://arxiv.org/abs/2603.17139)|**[link](https://github.com/ben-hudson/contextual-preference-distribution-learning)**|
 |**2026-03-17**|**Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning**|Reek Das et.al.|[2603.16846](http://arxiv.org/abs/2603.16846)|null|
 |**2026-03-17**|**Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications**|Yuanfang Ren et.al.|[2603.16723](http://arxiv.org/abs/2603.16723)|null|
 |**2026-03-17**|**FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios**|Andrea Moleri et.al.|[2603.16370](http://arxiv.org/abs/2603.16370)|null|
