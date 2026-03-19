@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery**|Zirui Gong et.al.|[2603.17623](http://arxiv.org/abs/2603.17623)|null|
 |**2026-03-18**|**QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation**|Charuka Herath et.al.|[2603.17507](http://arxiv.org/abs/2603.17507)|null|
 |**2026-03-18**|**Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design**|Enzo Fenoglio et.al.|[2603.17331](http://arxiv.org/abs/2603.17331)|null|
 |**2026-03-18**|**Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation**|Chunxu Zhang et.al.|[2603.17315](http://arxiv.org/abs/2603.17315)|**[link](https://github.com/Poizoner/code4FCUCR_www2026)**|
