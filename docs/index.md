@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning**|Sheng Liu et.al.|[2603.19101](http://arxiv.org/abs/2603.19101)|null|
+|**2026-03-19**|**Communication-Efficient and Robust Multi-Modal Federated Learning via Latent-Space Consensus**|Mohamed Badi et.al.|[2603.19067](http://arxiv.org/abs/2603.19067)|null|
+|**2026-03-19**|**When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence**|Chen Yaoling et.al.|[2603.19040](http://arxiv.org/abs/2603.19040)|**[link](https://github.com/HauLiang/DPWFL)**|
 |**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
 |**2026-03-19**|**Revisiting Label Inference Attacks in Vertical Federated Learning: Why They Are Vulnerable and How to Defend**|Yige Liu et.al.|[2603.18680](http://arxiv.org/abs/2603.18680)|null|
 |**2026-03-19**|**Beyond Passive Aggregation: Active Auditing and Topology-Aware Defense in Decentralized Federated Learning**|Sheng Pan et.al.|[2603.18538](http://arxiv.org/abs/2603.18538)|null|
