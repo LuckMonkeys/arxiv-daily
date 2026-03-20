@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
+|**2026-03-19**|**Revisiting Label Inference Attacks in Vertical Federated Learning: Why They Are Vulnerable and How to Defend**|Yige Liu et.al.|[2603.18680](http://arxiv.org/abs/2603.18680)|null|
+|**2026-03-19**|**Beyond Passive Aggregation: Active Auditing and Topology-Aware Defense in Decentralized Federated Learning**|Sheng Pan et.al.|[2603.18538](http://arxiv.org/abs/2603.18538)|null|
+|**2026-03-18**|**Probabilistic Federated Learning on Uncertain and Heterogeneous Data with Model Personalization**|Ratun Rahman et.al.|[2603.18083](http://arxiv.org/abs/2603.18083)|null|
 |**2026-03-18**|**ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery**|Zirui Gong et.al.|[2603.17623](http://arxiv.org/abs/2603.17623)|null|
 |**2026-03-18**|**QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation**|Charuka Herath et.al.|[2603.17507](http://arxiv.org/abs/2603.17507)|null|
 |**2026-03-18**|**Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design**|Enzo Fenoglio et.al.|[2603.17331](http://arxiv.org/abs/2603.17331)|null|
