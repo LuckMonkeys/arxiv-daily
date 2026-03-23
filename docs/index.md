@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT**|Nikita Zeulin et.al.|[2603.20037](http://arxiv.org/abs/2603.20037)|null|
+|**2026-03-20**|**TAPAS: Efficient Two-Server Asymmetric Private Aggregation Beyond Prio(+)**|Harish Karthikeyan et.al.|[2603.19949](http://arxiv.org/abs/2603.19949)|null|
+|**2026-03-20**|**A Federated Many-to-One Hopfield model for associative Neural Networks**|Andrea Alessandrelli et.al.|[2603.19902](http://arxiv.org/abs/2603.19902)|null|
+|**2026-03-20**|**FedPDPO: Federated Personalized Direct Preference Optimization for Large Language Model Alignment**|Kewen Zhu et.al.|[2603.19741](http://arxiv.org/abs/2603.19741)|null|
+|**2026-03-20**|**FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients**|Tian Wen et.al.|[2603.19722](http://arxiv.org/abs/2603.19722)|null|
+|**2026-03-20**|**On Performance Guarantees for Federated Learning with Personalized Constraints**|Mohammadjavad Ebrahimi et.al.|[2603.19617](http://arxiv.org/abs/2603.19617)|null|
+|**2026-03-20**|**ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization**|Danish Gufran et.al.|[2603.19594](http://arxiv.org/abs/2603.19594)|null|
+|**2026-03-20**|**Scalable Cross-Facility Federated Learning for Scientific Foundation Models on Multiple Supercomputers**|Yijiang Li et.al.|[2603.19544](http://arxiv.org/abs/2603.19544)|null|
+|**2026-03-19**|**FedAgain: A Trust-Based and Robust Federated Learning Strategy for an Automated Kidney Stone Identification in Ureteroscopy**|Ivan Reyes-Amezcua et.al.|[2603.19512](http://arxiv.org/abs/2603.19512)|null|
 |**2026-03-19**|**FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning**|Sheng Liu et.al.|[2603.19101](http://arxiv.org/abs/2603.19101)|null|
 |**2026-03-19**|**Communication-Efficient and Robust Multi-Modal Federated Learning via Latent-Space Consensus**|Mohamed Badi et.al.|[2603.19067](http://arxiv.org/abs/2603.19067)|null|
 |**2026-03-19**|**When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence**|Chen Yaoling et.al.|[2603.19040](http://arxiv.org/abs/2603.19040)|**[link](https://github.com/HauLiang/DPWFL)**|

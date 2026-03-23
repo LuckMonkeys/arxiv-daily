@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT**|Nikita Zeulin et.al.|[2603.20037](http://arxiv.org/abs/2603.20037)|null|
+|**2026-03-20**|**TAPAS: Efficient Two-Server Asymmetric Private Aggregation Beyond Prio(+)**|Harish Karthikeyan et.al.|[2603.19949](http://arxiv.org/abs/2603.19949)|null|
+|**2026-03-20**|**A Federated Many-to-One Hopfield model for associative Neural Networks**|Andrea Alessandrelli et.al.|[2603.19902](http://arxiv.org/abs/2603.19902)|null|
+|**2026-03-20**|**FedPDPO: Federated Personalized Direct Preference Optimization for Large Language Model Alignment**|Kewen Zhu et.al.|[2603.19741](http://arxiv.org/abs/2603.19741)|null|
+|**2026-03-20**|**FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients**|Tian Wen et.al.|[2603.19722](http://arxiv.org/abs/2603.19722)|null|
+|**2026-03-20**|**On Performance Guarantees for Federated Learning with Personalized Constraints**|Mohammadjavad Ebrahimi et.al.|[2603.19617](http://arxiv.org/abs/2603.19617)|null|
+|**2026-03-20**|**ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization**|Danish Gufran et.al.|[2603.19594](http://arxiv.org/abs/2603.19594)|null|
+|**2026-03-20**|**Scalable Cross-Facility Federated Learning for Scientific Foundation Models on Multiple Supercomputers**|Yijiang Li et.al.|[2603.19544](http://arxiv.org/abs/2603.19544)|null|
+|**2026-03-19**|**FedAgain: A Trust-Based and Robust Federated Learning Strategy for an Automated Kidney Stone Identification in Ureteroscopy**|Ivan Reyes-Amezcua et.al.|[2603.19512](http://arxiv.org/abs/2603.19512)|null|
 |**2026-03-19**|**FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning**|Sheng Liu et.al.|[2603.19101](http://arxiv.org/abs/2603.19101)|null|
 |**2026-03-19**|**Communication-Efficient and Robust Multi-Modal Federated Learning via Latent-Space Consensus**|Mohamed Badi et.al.|[2603.19067](http://arxiv.org/abs/2603.19067)|null|
 |**2026-03-19**|**When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence**|Chen Yaoling et.al.|[2603.19040](http://arxiv.org/abs/2603.19040)|**[link](https://github.com/HauLiang/DPWFL)**|
@@ -4461,7 +4470,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## MMS
 
@@ -4500,7 +4509,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
