@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Xingyu Zhu et.al.|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
+|**2026-03-23**|**Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations**|Xin Guo et.al.|[2603.21888](http://arxiv.org/abs/2603.21888)|null|
+|**2026-03-23**|**OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging**|Meilin Liu et.al.|[2603.21660](http://arxiv.org/abs/2603.21660)|null|
+|**2026-03-23**|**TrustFed: Enabling Trustworthy Medical AI under Data Privacy Constraints**|Vagish Kumar et.al.|[2603.21656](http://arxiv.org/abs/2603.21656)|null|
+|**2026-03-23**|**Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks**|Yanming Mu et.al.|[2603.21654](http://arxiv.org/abs/2603.21654)|null|
+|**2026-03-23**|**FedCVU: Federated Learning for Cross-View Video Understanding**|Shenghan Zhang et.al.|[2603.21647](http://arxiv.org/abs/2603.21647)|null|
+|**2026-03-23**|**In-network Attack Detection with Federated Deep Learning in IoT Networks: Real Implementation and Analysis**|Devashish Chaudhary et.al.|[2603.21596](http://arxiv.org/abs/2603.21596)|null|
+|**2026-03-22**|**Aggregation Alignment for Federated Learning with Mixture-of-Experts under Data Heterogeneity**|Zihan Fang et.al.|[2603.21276](http://arxiv.org/abs/2603.21276)|null|
 |**2026-03-22**|**Evidential Quantum Vertical Federated Learning**|Hao Luo et.al.|[2603.21102](http://arxiv.org/abs/2603.21102)|null|
 |**2026-03-21**|**Incentive-Aware Federated Averaging with Performance Guarantees under Strategic Participation**|Fateme Maleki et.al.|[2603.20873](http://arxiv.org/abs/2603.20873)|null|
 |**2026-03-21**|**Diffusion Model for Manifold Data: Score Decomposition, Curvature, and Statistical Complexity**|Zixuan Zhang et.al.|[2603.20645](http://arxiv.org/abs/2603.20645)|null|
@@ -4495,7 +4503,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
