@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et.al.|[2603.22727](http://arxiv.org/abs/2603.22727)|null|
+|**2026-03-23**|**Communication-Efficient Approximate Gradient Coding**|Sifat Munim et.al.|[2603.22514](http://arxiv.org/abs/2603.22514)|**[link](https://github.com/smunim-47/CE-AGC)**|
+|**2026-03-23**|**A Theoretical Framework for Energy-Aware Gradient Pruning in Federated Learning**|Emmanouil M. Athanasakos et.al.|[2603.22465](http://arxiv.org/abs/2603.22465)|null|
 |**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Xingyu Zhu et.al.|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
 |**2026-03-23**|**Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations**|Xin Guo et.al.|[2603.21888](http://arxiv.org/abs/2603.21888)|null|
 |**2026-03-23**|**OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging**|Meilin Liu et.al.|[2603.21660](http://arxiv.org/abs/2603.21660)|null|
@@ -5711,7 +5714,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
