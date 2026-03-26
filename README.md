@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,12 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition**|Aleix Sant et.al.|[2603.24242](http://arxiv.org/abs/2603.24242)|null|
+|**2026-03-25**|**HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer**|Minjun Kim et.al.|[2603.24209](http://arxiv.org/abs/2603.24209)|**[link](https://github.com/danny0628/HEART-PFL)**|
+|**2026-03-25**|**PAC-DP: Personalized Adaptive Clipping for Differentially Private Federated Learning**|Hao Zhou et.al.|[2603.24003](http://arxiv.org/abs/2603.24003)|null|
+|**2026-03-24**|**PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning**|Tao Liu et.al.|[2603.23574](http://arxiv.org/abs/2603.23574)|null|
 |**2026-03-24**|**Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions**|Rustem Islamov et.al.|[2603.23472](http://arxiv.org/abs/2603.23472)|null|
 |**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et.al.|[2603.22727](http://arxiv.org/abs/2603.22727)|null|
 |**2026-03-23**|**Communication-Efficient Approximate Gradient Coding**|Sifat Munim et.al.|[2603.22514](http://arxiv.org/abs/2603.22514)|**[link](https://github.com/smunim-47/CE-AGC)**|
 |**2026-03-23**|**A Theoretical Framework for Energy-Aware Gradient Pruning in Federated Learning**|Emmanouil M. Athanasakos et.al.|[2603.22465](http://arxiv.org/abs/2603.22465)|null|
 |**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Xingyu Zhu et.al.|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
-|**2026-03-23**|**Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations**|Xin Guo et.al.|[2603.21888](http://arxiv.org/abs/2603.21888)|null|
+|**2026-03-25**|**Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations**|Xin Guo et.al.|[2603.21888](http://arxiv.org/abs/2603.21888)|null|
 |**2026-03-23**|**OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging**|Meilin Liu et.al.|[2603.21660](http://arxiv.org/abs/2603.21660)|null|
 |**2026-03-23**|**TrustFed: Enabling Trustworthy Medical AI under Data Privacy Constraints**|Vagish Kumar et.al.|[2603.21656](http://arxiv.org/abs/2603.21656)|null|
 |**2026-03-23**|**Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks**|Yanming Mu et.al.|[2603.21654](http://arxiv.org/abs/2603.21654)|null|
@@ -4486,7 +4490,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## MMS
 
@@ -4507,7 +4511,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
@@ -4525,7 +4529,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
