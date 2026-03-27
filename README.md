@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Social Hippocampus Memory Learning**|Liping Yi et.al.|[2603.25614](http://arxiv.org/abs/2603.25614)|null|
 |**2026-03-26**|**Agentic Trust Coordination for Federated Learning through Adaptive Thresholding and Autonomous Decision Making in Sustainable and Resilient Industrial Networks**|Paul Shepherd et.al.|[2603.25334](http://arxiv.org/abs/2603.25334)|null|
 |**2026-03-26**|**Revealing the influence of participant failures on model quality in cross-silo Federated Learning**|Fabian Stricker et.al.|[2603.25289](http://arxiv.org/abs/2603.25289)|**[link](https://github.com/HKA-IDSS/Supplement-Revealing-the-influence)**|
 |**2026-03-25**|**An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT Networks**|Muhammad Liman Gambo et.al.|[2603.24754](http://arxiv.org/abs/2603.24754)|null|
