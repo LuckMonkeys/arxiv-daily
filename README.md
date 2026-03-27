@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,7 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-25**|**Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition**|Aleix Sant et.al.|[2603.24242](http://arxiv.org/abs/2603.24242)|null|
+|**2026-03-26**|**Agentic Trust Coordination for Federated Learning through Adaptive Thresholding and Autonomous Decision Making in Sustainable and Resilient Industrial Networks**|Paul Shepherd et.al.|[2603.25334](http://arxiv.org/abs/2603.25334)|null|
+|**2026-03-26**|**Revealing the influence of participant failures on model quality in cross-silo Federated Learning**|Fabian Stricker et.al.|[2603.25289](http://arxiv.org/abs/2603.25289)|**[link](https://github.com/HKA-IDSS/Supplement-Revealing-the-influence)**|
+|**2026-03-25**|**An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT Networks**|Muhammad Liman Gambo et.al.|[2603.24754](http://arxiv.org/abs/2603.24754)|null|
+|**2026-03-25**|**Energy-Efficient Hierarchical Federated Anomaly Detection for the Internet of Underwater Things via Selective Cooperative Aggregation**|Kenechi Omeke et.al.|[2603.24648](http://arxiv.org/abs/2603.24648)|null|
+|**2026-03-26**|**Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition**|Aleix Sant et.al.|[2603.24242](http://arxiv.org/abs/2603.24242)|null|
 |**2026-03-25**|**HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer**|Minjun Kim et.al.|[2603.24209](http://arxiv.org/abs/2603.24209)|**[link](https://github.com/danny0628/HEART-PFL)**|
 |**2026-03-25**|**PAC-DP: Personalized Adaptive Clipping for Differentially Private Federated Learning**|Hao Zhou et.al.|[2603.24003](http://arxiv.org/abs/2603.24003)|null|
 |**2026-03-24**|**PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning**|Tao Liu et.al.|[2603.23574](http://arxiv.org/abs/2603.23574)|null|
@@ -4490,7 +4494,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## MMS
 
@@ -4529,7 +4533,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
