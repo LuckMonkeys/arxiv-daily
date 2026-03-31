@@ -1,4 +1,4 @@
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning**|Osama Wehbi et.al.|[2603.28673](http://arxiv.org/abs/2603.28673)|null|
+|**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|Osama Wehbi et.al.|[2603.28652](http://arxiv.org/abs/2603.28652)|null|
+|**2026-03-30**|**Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction**|Leon Witt et.al.|[2603.28434](http://arxiv.org/abs/2603.28434)|null|
+|**2026-03-30**|**Key-Embedded Privacy for Decentralized AI in Biomedical Omics**|Rongyu Zhang et.al.|[2603.28334](http://arxiv.org/abs/2603.28334)|null|
+|**2026-03-30**|**Privacy as Commodity: MFG-RegretNet for Large-Scale Privacy Trading in Federated Learning**|Kangkang Sun et.al.|[2603.28329](http://arxiv.org/abs/2603.28329)|null|
+|**2026-03-30**|**Taming the Instability: A Robust Second-Order Optimizer for Federated Learning over Non-IID Data**|Yuanqiao Zhang et.al.|[2603.28316](http://arxiv.org/abs/2603.28316)|null|
+|**2026-03-30**|**OptINC: Optical In-Network-Computing for Scalable Distributed Learning**|Sijie Fei et.al.|[2603.28290](http://arxiv.org/abs/2603.28290)|null|
+|**2026-03-30**|**Pre-Deployment Complexity Estimation for Federated Perception Systems**|KMA Solaiman et.al.|[2603.28282](http://arxiv.org/abs/2603.28282)|null|
+|**2026-03-30**|**Neural Federated Learning for Livestock Growth Prediction**|Shoujin Wang et.al.|[2603.28117](http://arxiv.org/abs/2603.28117)|null|
+|**2026-03-30**|**FedDES: Graph-Based Dynamic Ensemble Selection for Personalized Federated Learning**|Brianna Mueller et.al.|[2603.28006](http://arxiv.org/abs/2603.28006)|null|
 |**2026-03-26**|**Social Hippocampus Memory Learning**|Liping Yi et.al.|[2603.25614](http://arxiv.org/abs/2603.25614)|null|
 |**2026-03-26**|**Agentic Trust Coordination for Federated Learning through Adaptive Thresholding and Autonomous Decision Making in Sustainable and Resilient Industrial Networks**|Paul Shepherd et.al.|[2603.25334](http://arxiv.org/abs/2603.25334)|null|
 |**2026-03-26**|**Revealing the influence of participant failures on model quality in cross-silo Federated Learning**|Fabian Stricker et.al.|[2603.25289](http://arxiv.org/abs/2603.25289)|**[link](https://github.com/HKA-IDSS/Supplement-Revealing-the-influence)**|
@@ -4495,7 +4505,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## MMS
 
@@ -4534,7 +4544,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
