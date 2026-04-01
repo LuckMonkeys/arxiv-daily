@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Client-Verifiable and Efficient Federated Unlearning in Low-Altitude Wireless Networks**|Yuhua Xu et.al.|[2603.29688](http://arxiv.org/abs/2603.29688)|null|
+|**2026-03-31**|**Self-Supervised Federated Learning under Data Heterogeneity for Label-Scarce Diatom Classification**|Mingkun Tan et.al.|[2603.29633](http://arxiv.org/abs/2603.29633)|null|
+|**2026-03-31**|**FedDBP: Enhancing Federated Prototype Learning with Dual-Branch Features and Personalized Global Fusion**|Ningzhi Gao et.al.|[2603.29455](http://arxiv.org/abs/2603.29455)|**[link](https://github.com/JeemzzG/FedDBP)**|
+|**2026-03-31**|**Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs**|Yuxuan Liu et.al.|[2603.29384](http://arxiv.org/abs/2603.29384)|null|
+|**2026-03-31**|**Beyond Corner Patches: Semantics-Aware Backdoor Attack in Federated Learning**|Kavindu Herath et.al.|[2603.29328](http://arxiv.org/abs/2603.29328)|null|
 |**2026-03-30**|**FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning**|Osama Wehbi et.al.|[2603.28673](http://arxiv.org/abs/2603.28673)|null|
 |**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|Osama Wehbi et.al.|[2603.28652](http://arxiv.org/abs/2603.28652)|null|
 |**2026-03-30**|**Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction**|Leon Witt et.al.|[2603.28434](http://arxiv.org/abs/2603.28434)|null|
@@ -4505,7 +4510,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## MMS
 
@@ -4544,7 +4549,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

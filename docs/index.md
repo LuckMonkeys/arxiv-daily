@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Client-Verifiable and Efficient Federated Unlearning in Low-Altitude Wireless Networks**|Yuhua Xu et.al.|[2603.29688](http://arxiv.org/abs/2603.29688)|null|
+|**2026-03-31**|**Self-Supervised Federated Learning under Data Heterogeneity for Label-Scarce Diatom Classification**|Mingkun Tan et.al.|[2603.29633](http://arxiv.org/abs/2603.29633)|null|
+|**2026-03-31**|**FedDBP: Enhancing Federated Prototype Learning with Dual-Branch Features and Personalized Global Fusion**|Ningzhi Gao et.al.|[2603.29455](http://arxiv.org/abs/2603.29455)|**[link](https://github.com/JeemzzG/FedDBP)**|
+|**2026-03-31**|**Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs**|Yuxuan Liu et.al.|[2603.29384](http://arxiv.org/abs/2603.29384)|null|
+|**2026-03-31**|**Beyond Corner Patches: Semantics-Aware Backdoor Attack in Federated Learning**|Kavindu Herath et.al.|[2603.29328](http://arxiv.org/abs/2603.29328)|null|
 |**2026-03-30**|**FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning**|Osama Wehbi et.al.|[2603.28673](http://arxiv.org/abs/2603.28673)|null|
 |**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|Osama Wehbi et.al.|[2603.28652](http://arxiv.org/abs/2603.28652)|null|
 |**2026-03-30**|**Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction**|Leon Witt et.al.|[2603.28434](http://arxiv.org/abs/2603.28434)|null|
