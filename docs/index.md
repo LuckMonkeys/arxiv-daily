@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**From Patterns to Policy: A Scoping Review Based on Bibliometric Analysis (ScoRBA) of Intelligent and Secure Smart Hospital Ecosystems**|Adi Wijaya et.al.|[2603.30004](http://arxiv.org/abs/2603.30004)|null|
+|**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
+|**2026-03-31**|**GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning**|Theodora Panagea et.al.|[2603.29933](http://arxiv.org/abs/2603.29933)|null|
+|**2026-03-31**|**Loss Gap Parity for Fairness in Heterogeneous Federated Learning**|Brahim Erraji et.al.|[2603.29818](http://arxiv.org/abs/2603.29818)|null|
 |**2026-03-31**|**Client-Verifiable and Efficient Federated Unlearning in Low-Altitude Wireless Networks**|Yuhua Xu et.al.|[2603.29688](http://arxiv.org/abs/2603.29688)|null|
 |**2026-03-31**|**Self-Supervised Federated Learning under Data Heterogeneity for Label-Scarce Diatom Classification**|Mingkun Tan et.al.|[2603.29633](http://arxiv.org/abs/2603.29633)|null|
 |**2026-03-31**|**FedDBP: Enhancing Federated Prototype Learning with Dual-Branch Features and Personalized Global Fusion**|Ningzhi Gao et.al.|[2603.29455](http://arxiv.org/abs/2603.29455)|**[link](https://github.com/JeemzzG/FedDBP)**|
