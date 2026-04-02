@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization**|Hao Fang et.al.|[2604.00955](http://arxiv.org/abs/2604.00955)|null|
+|**2026-04-01**|**FecalFed: Privacy-Preserving Poultry Disease Detection via Federated Learning**|Tien-Yu Chi et.al.|[2604.00559](http://arxiv.org/abs/2604.00559)|null|
+|**2026-04-01**|**Differentially Private One-Shot Federated Inference for Linear Mixed Models via Lossless Likelihood Reconstruction**|Keisuke Hanada et.al.|[2604.00410](http://arxiv.org/abs/2604.00410)|null|
 |**2026-03-31**|**From Patterns to Policy: A Scoping Review Based on Bibliometric Analysis (ScoRBA) of Intelligent and Secure Smart Hospital Ecosystems**|Adi Wijaya et.al.|[2603.30004](http://arxiv.org/abs/2603.30004)|null|
 |**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
 |**2026-03-31**|**GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning**|Theodora Panagea et.al.|[2603.29933](http://arxiv.org/abs/2603.29933)|null|

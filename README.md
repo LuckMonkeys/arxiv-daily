@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization**|Hao Fang et.al.|[2604.00955](http://arxiv.org/abs/2604.00955)|null|
+|**2026-04-01**|**FecalFed: Privacy-Preserving Poultry Disease Detection via Federated Learning**|Tien-Yu Chi et.al.|[2604.00559](http://arxiv.org/abs/2604.00559)|null|
+|**2026-04-01**|**Differentially Private One-Shot Federated Inference for Linear Mixed Models via Lossless Likelihood Reconstruction**|Keisuke Hanada et.al.|[2604.00410](http://arxiv.org/abs/2604.00410)|null|
 |**2026-03-31**|**From Patterns to Policy: A Scoping Review Based on Bibliometric Analysis (ScoRBA) of Intelligent and Secure Smart Hospital Ecosystems**|Adi Wijaya et.al.|[2603.30004](http://arxiv.org/abs/2603.30004)|null|
 |**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
 |**2026-03-31**|**GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning**|Theodora Panagea et.al.|[2603.29933](http://arxiv.org/abs/2603.29933)|null|
@@ -4514,7 +4517,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## MMS
 
@@ -4553,7 +4556,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
