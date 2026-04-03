@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks**|Sunder Ali Khowaja et.al.|[2604.02128](http://arxiv.org/abs/2604.02128)|null|
+|**2026-04-02**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
+|**2026-04-01**|**UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression**|Mars Liyao Gao et.al.|[2604.01305](http://arxiv.org/abs/2604.01305)|null|
 |**2026-04-01**|**Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization**|Hao Fang et.al.|[2604.00955](http://arxiv.org/abs/2604.00955)|null|
 |**2026-04-01**|**FecalFed: Privacy-Preserving Poultry Disease Detection via Federated Learning**|Tien-Yu Chi et.al.|[2604.00559](http://arxiv.org/abs/2604.00559)|null|
 |**2026-04-01**|**Differentially Private One-Shot Federated Inference for Linear Mixed Models via Lossless Likelihood Reconstruction**|Keisuke Hanada et.al.|[2604.00410](http://arxiv.org/abs/2604.00410)|null|
