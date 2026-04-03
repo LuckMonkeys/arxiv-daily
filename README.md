@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy**|Abhilash Kar et.al.|[2604.02248](http://arxiv.org/abs/2604.02248)|null|
 |**2026-04-02**|**SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks**|Sunder Ali Khowaja et.al.|[2604.02128](http://arxiv.org/abs/2604.02128)|null|
 |**2026-04-02**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
 |**2026-04-01**|**UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression**|Mars Liyao Gao et.al.|[2604.01305](http://arxiv.org/abs/2604.01305)|null|
