@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,9 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Enhancing Robustness of Federated Learning via Server Learning**|Van Sy Mai et.al.|[2604.03226](http://arxiv.org/abs/2604.03226)|null|
+|**2026-04-03**|**FedSQ: Optimized Weight Averaging via Fixed Gating**|Cristian Pérez-Corral et.al.|[2604.02990](http://arxiv.org/abs/2604.02990)|null|
+|**2026-04-03**|**Unlocking Multi-Site Clinical Data: A Federated Approach to Privacy-First Child Autism Behavior Analysis**|Guangyu Sun et.al.|[2604.02616](http://arxiv.org/abs/2604.02616)|null|
+|**2026-04-02**|**Communication-Efficient Distributed Learning with Differential Privacy**|Xiaoxing Ren et.al.|[2604.02558](http://arxiv.org/abs/2604.02558)|null|
 |**2026-04-02**|**BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy**|Abhilash Kar et.al.|[2604.02248](http://arxiv.org/abs/2604.02248)|null|
 |**2026-04-02**|**SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks**|Sunder Ali Khowaja et.al.|[2604.02128](http://arxiv.org/abs/2604.02128)|null|
-|**2026-04-02**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
+|**2026-04-03**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
 |**2026-04-01**|**UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression**|Mars Liyao Gao et.al.|[2604.01305](http://arxiv.org/abs/2604.01305)|null|
 |**2026-04-01**|**Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization**|Hao Fang et.al.|[2604.00955](http://arxiv.org/abs/2604.00955)|null|
 |**2026-04-01**|**FecalFed: Privacy-Preserving Poultry Disease Detection via Federated Learning**|Tien-Yu Chi et.al.|[2604.00559](http://arxiv.org/abs/2604.00559)|null|
@@ -5750,7 +5754,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
