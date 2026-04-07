@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Jellyfish: Zero-Shot Federated Unlearning Scheme with Knowledge Disentanglement**|Houzhe Wang et.al.|[2604.04030](http://arxiv.org/abs/2604.04030)|null|
+|**2026-04-04**|**SecureAFL: Secure Asynchronous Federated Learning**|Anjun Gao et.al.|[2604.03862](http://arxiv.org/abs/2604.03862)|null|
+|**2026-04-04**|**BlazeFL: Fast and Deterministic Federated Learning Simulation**|Kitsuya Azuma et.al.|[2604.03606](http://arxiv.org/abs/2604.03606)|null|
+|**2026-04-03**|**Apparent Age Estimation: Challenges and Outcomes**|Justin Rainier Go et.al.|[2604.03335](http://arxiv.org/abs/2604.03335)|null|
 |**2026-04-03**|**Enhancing Robustness of Federated Learning via Server Learning**|Van Sy Mai et.al.|[2604.03226](http://arxiv.org/abs/2604.03226)|null|
 |**2026-04-03**|**FedSQ: Optimized Weight Averaging via Fixed Gating**|Cristian Pérez-Corral et.al.|[2604.02990](http://arxiv.org/abs/2604.02990)|null|
 |**2026-04-03**|**Unlocking Multi-Site Clinical Data: A Federated Approach to Privacy-First Child Autism Behavior Analysis**|Guangyu Sun et.al.|[2604.02616](http://arxiv.org/abs/2604.02616)|null|
