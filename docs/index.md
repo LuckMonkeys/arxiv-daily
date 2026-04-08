@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning**|Samira Kamali Poorazad et.al.|[2604.06101](http://arxiv.org/abs/2604.06101)|null|
+|**2026-04-07**|**Analogical Reasoning as a Doctor: A Foundation Model for Gastrointestinal Endoscopy Diagnosis**|Peixi Peng et.al.|[2604.05649](http://arxiv.org/abs/2604.05649)|null|
+|**2026-04-06**|**Scalar Federated Learning for Linear Quadratic Regulator**|Mohammadreza Rostami et.al.|[2604.05088](http://arxiv.org/abs/2604.05088)|null|
+|**2026-04-06**|**Agentic Federated Learning: The Future of Distributed Training Orchestration**|Rafael O. Jarczewski et.al.|[2604.04895](http://arxiv.org/abs/2604.04895)|null|
+|**2026-04-06**|**Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation**|Houzhe Wang et.al.|[2604.04800](http://arxiv.org/abs/2604.04800)|null|
+|**2026-04-06**|**Dynamic Free-Rider Detection in Federated Learning via Simulated Attack Patterns**|Motoki Nakamura et.al.|[2604.04611](http://arxiv.org/abs/2604.04611)|null|
+|**2026-04-06**|**Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues**|Shini Girija et.al.|[2604.04572](http://arxiv.org/abs/2604.04572)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-04-06**|**Receding-Horizon Control via Drifting Models**|Daniele Foffano et.al.|[2604.04528](http://arxiv.org/abs/2604.04528)|**[link](https://github.com/danielefoffano/Receding-Horizon-Control-via-Drifting-Models)**|
+|**2026-04-06**|**Discrete Prototypical Memories for Federated Time Series Foundation Models**|Liwei Deng et.al.|[2604.04475](http://arxiv.org/abs/2604.04475)|**[link](https://github.com/LiweiDengDavid/FeDPM)**|
+|**2026-04-06**|**Same Geometry, Opposite Noise: Transformer Magnitude Representations Lack Scalar Variability**|Jon-Paul Cacioli et.al.|[2604.04469](http://arxiv.org/abs/2604.04469)|null|
 |**2026-04-05**|**Jellyfish: Zero-Shot Federated Unlearning Scheme with Knowledge Disentanglement**|Houzhe Wang et.al.|[2604.04030](http://arxiv.org/abs/2604.04030)|null|
 |**2026-04-04**|**SecureAFL: Secure Asynchronous Federated Learning**|Anjun Gao et.al.|[2604.03862](http://arxiv.org/abs/2604.03862)|null|
 |**2026-04-04**|**BlazeFL: Fast and Deterministic Federated Learning Simulation**|Kitsuya Azuma et.al.|[2604.03606](http://arxiv.org/abs/2604.03606)|null|
