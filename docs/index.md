@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Automating aggregation strategy selection in federated learning**|Dian S. Y. Pang et.al.|[2604.08056](http://arxiv.org/abs/2604.08056)|null|
 |**2026-04-08**|**Private Federated Learning for High-dimensional Time Series**|Kejun Chen et.al.|[2604.07135](http://arxiv.org/abs/2604.07135)|null|
 |**2026-04-08**|**DDP-SA: Scalable Privacy-Preserving Federated Learning via Distributed Differential Privacy and Secure Aggregation**|Wenjing Wei et.al.|[2604.07125](http://arxiv.org/abs/2604.07125)|null|
 |**2026-04-08**|**FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization**|Shunan Zhu et.al.|[2604.06833](http://arxiv.org/abs/2604.06833)|null|
