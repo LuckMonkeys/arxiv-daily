@@ -1,4 +1,4 @@
-## Updated on 2026.04.12
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**The Impact of Federated Learning on Distributed Remote Sensing Archives**|Anand Umashankar et.al.|[2604.11562](http://arxiv.org/abs/2604.11562)|null|
+|**2026-04-13**|**Representation-Aligned Multi-Scale Personalization for Federated Learning**|Wenfei Liang et.al.|[2604.11278](http://arxiv.org/abs/2604.11278)|**[link](https://github.com/CarrieWFF/FRAMP)**|
+|**2026-04-13**|**A Full Compression Pipeline for Green Federated Learning in Communication-Constrained Environments**|Elouan Colybes et.al.|[2604.11146](http://arxiv.org/abs/2604.11146)|null|
+|**2026-04-13**|**A Proposed Biomedical Data Policy Framework to Reduce Fragmentation, Improve Quality, and Incentivize Sharing in Indian Healthcare in the era of Artificial Intelligence and Digital Health**|Nikhil Mehta et.al.|[2604.11125](http://arxiv.org/abs/2604.11125)|null|
+|**2026-04-12**|**Understanding Communication Backends in Cross-Silo Federated Learning**|Amir Ziashahabi et.al.|[2604.10859](http://arxiv.org/abs/2604.10859)|null|
+|**2026-04-12**|**Task2vec Readiness: Diagnostics for Federated Learning from Pre-Training Embeddings**|Cristiano Mafuz et.al.|[2604.10849](http://arxiv.org/abs/2604.10849)|null|
+|**2026-04-12**|**Communication-Efficient Gluon in Federated Learning**|Xun Qian et.al.|[2604.10689](http://arxiv.org/abs/2604.10689)|null|
+|**2026-04-12**|**FedRio: Personalized Federated Social Bot Detection via Cooperative Reinforced Contrastive Adversarial Distillation**|Yingguang Yang et.al.|[2604.10678](http://arxiv.org/abs/2604.10678)|null|
+|**2026-04-12**|**Enhancing Cross-Problem Vehicle Routing via Federated Learning**|Xiangchi Meng et.al.|[2604.10652](http://arxiv.org/abs/2604.10652)|null|
+|**2026-04-12**|**FEDBUD: Joint Incentive and Privacy Optimization for Resource-Constrained Federated Learning**|Tao Liu et.al.|[2604.10499](http://arxiv.org/abs/2604.10499)|null|
 |**2026-04-09**|**Quantization Impact on the Accuracy and Communication Efficiency Trade-off in Federated Learning for Aerospace Predictive Maintenance**|Abdelkarim Loukili et.al.|[2604.08474](http://arxiv.org/abs/2604.08474)|**[link](https://github.com/therealdeadbeef/aerospace-fl-quantization)**|
 |**2026-04-09**|**Automating aggregation strategy selection in federated learning**|Dian S. Y. Pang et.al.|[2604.08056](http://arxiv.org/abs/2604.08056)|null|
 |**2026-04-08**|**Private Federated Learning for High-dimensional Time Series**|Kejun Chen et.al.|[2604.07135](http://arxiv.org/abs/2604.07135)|null|
@@ -4549,7 +4559,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## MMS
 
@@ -4588,7 +4598,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
