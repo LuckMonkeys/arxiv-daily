@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.15
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**FedIDM: Achieving Fast and Stable Convergence in Byzantine Federated Learning through Iterative Distribution Matching**|He Yang et.al.|[2604.15115](http://arxiv.org/abs/2604.15115)|null|
+|**2026-04-16**|**No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning**|Francesco Diana et.al.|[2604.15063](http://arxiv.org/abs/2604.15063)|null|
+|**2026-04-16**|**FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems**|Wenhao Wang et.al.|[2604.14956](http://arxiv.org/abs/2604.14956)|**[link](https://github.com/wwh0411/FedGUI)**|
+|**2026-04-16**|**Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning**|Thanh Linh Nguyen et.al.|[2604.14886](http://arxiv.org/abs/2604.14886)|null|
+|**2026-04-16**|**Exploiting Correlations in Federated Learning: Opportunities and Practical Limitations**|Adrian Edin et.al.|[2604.14751](http://arxiv.org/abs/2604.14751)|null|
+|**2026-04-16**|**EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection**|Noor Islam S. Mohammad et.al.|[2604.14663](http://arxiv.org/abs/2604.14663)|null|
+|**2026-04-15**|**Asynchronous Probability Ensembling for Federated Disaster Detection**|Emanuel Teixeira Martins et.al.|[2604.14450](http://arxiv.org/abs/2604.14450)|null|
+|**2026-04-15**|**Distributed Learning of Quantum State Tomography Robust to Readout Errors**|Amirhossein Taherpour et.al.|[2604.14428](http://arxiv.org/abs/2604.14428)|null|
+|**2026-04-15**|**Secure and Privacy-Preserving Vertical Federated Learning**|Shan Jin et.al.|[2604.13474](http://arxiv.org/abs/2604.13474)|**[link](https://github.com/Guncuke/VF-DC)**|
+|**2026-04-15**|**HierFedCEA: Hierarchical Federated Edge Learning for Privacy-Preserving Climate Control Optimization Across Heterogeneous Controlled Environment Agriculture Facilities**|Andrii Vakhnovskyi et.al.|[2604.13396](http://arxiv.org/abs/2604.13396)|null|
 |**2026-04-14**|**Probabilistic Feature Imputation and Uncertainty-Aware Multimodal Federated Aggregation**|Nafis Fuad Shahid et.al.|[2604.12970](http://arxiv.org/abs/2604.12970)|null|
 |**2026-04-14**|**Evolution of Optimization Methods: Algorithms, Scenarios, and Evaluations**|Tong Zhang et.al.|[2604.12968](http://arxiv.org/abs/2604.12968)|**[link](https://github.com/APRIL-AIGC/awesome-optimizer)**|
 |**2026-04-14**|**Rethinking the Personalized Relaxed Initialization in the Federated Learning: Consistency and Generalization**|Li Shen et.al.|[2604.12768](http://arxiv.org/abs/2604.12768)|null|
