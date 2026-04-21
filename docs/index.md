@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.19
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Semantic-based Distributed Learning for Diverse and Discriminative Representations**|Zhuojun Tian et.al.|[2604.18237](http://arxiv.org/abs/2604.18237)|null|
+|**2026-04-20**|**Federated Rule Ensemble Method in Medical Data**|Ke Wan et.al.|[2604.17956](http://arxiv.org/abs/2604.17956)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
+|**2026-04-20**|**Efficient Federated RLHF via Zeroth-Order Policy Optimization**|Deyi Wang et.al.|[2604.17747](http://arxiv.org/abs/2604.17747)|null|
+|**2026-04-19**|**Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda**|Minxian Xu et.al.|[2604.17227](http://arxiv.org/abs/2604.17227)|null|
+|**2026-04-19**|**Robust Resource Allocation in RIS-Assisted Wireless Networks Integrating NOMA and Over-the-Air Federated Learning**|Saeid Pakravan et.al.|[2604.17201](http://arxiv.org/abs/2604.17201)|null|
+|**2026-04-19**|**Decentralised Trust and Security Mechanisms for IoT Networks at the Edge: A Comprehensive Review**|Khandoker Ashik Uz Zaman et.al.|[2604.17179](http://arxiv.org/abs/2604.17179)|null|
+|**2026-04-18**|**Federation over Text: Insight Sharing for Multi-Agent Reasoning**|Dixi Yao et.al.|[2604.16778](http://arxiv.org/abs/2604.16778)|null|
+|**2026-04-17**|**FedOBP: Federated Optimal Brain Personalization through Cloud-Edge Element-wise Decoupling**|Xingyan Chen et.al.|[2604.16574](http://arxiv.org/abs/2604.16574)|null|
+|**2026-04-17**|**Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure**|Stefan Behfar et.al.|[2604.16090](http://arxiv.org/abs/2604.16090)|null|
+|**2026-04-17**|**Federated Parameter-Efficient Adaptation for Interference Mitigation at the Wireless Edge**|Evar Jones et.al.|[2604.15936](http://arxiv.org/abs/2604.15936)|null|
 |**2026-04-16**|**FedIDM: Achieving Fast and Stable Convergence in Byzantine Federated Learning through Iterative Distribution Matching**|He Yang et.al.|[2604.15115](http://arxiv.org/abs/2604.15115)|null|
 |**2026-04-16**|**No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning**|Francesco Diana et.al.|[2604.15063](http://arxiv.org/abs/2604.15063)|null|
 |**2026-04-16**|**FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems**|Wenhao Wang et.al.|[2604.14956](http://arxiv.org/abs/2604.14956)|**[link](https://github.com/wwh0411/FedGUI)**|
