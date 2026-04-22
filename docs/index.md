@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**FB-NLL: A Feature-Based Approach to Tackle Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2604.19729](http://arxiv.org/abs/2604.19729)|null|
+|**2026-04-21**|**ZC-Swish: Stabilizing Deep BN-Free Networks for Edge and Micro-Batch Applications**|Suvinava Basak et.al.|[2604.19453](http://arxiv.org/abs/2604.19453)|null|
+|**2026-04-21**|**Heterogeneity-Aware Personalized Federated Learning for Industrial Predictive Analytics**|Yuhan Hu et.al.|[2604.19451](http://arxiv.org/abs/2604.19451)|null|
+|**2026-04-21**|**Optimal Routing for Federated Learning over Dynamic Satellite Networks: Tractable or Not?**|Yi Zhao et.al.|[2604.19399](http://arxiv.org/abs/2604.19399)|null|
+|**2026-04-21**|**FedSEA: Achieving Benefit of Parallelization in Federated Online Learning**|Harekrushna Sahu et.al.|[2604.19336](http://arxiv.org/abs/2604.19336)|null|
+|**2026-04-21**|**Sherpa.ai Privacy-Preserving Multi-Party Entity Alignment without Intersection Disclosure for Noisy Identifiers**|Daniel M. Jimenez-Gutierrez et.al.|[2604.19219](http://arxiv.org/abs/2604.19219)|null|
+|**2026-04-21**|**CHRONOS: A Hardware-Assisted Phase-Decoupled Framework for Secure Federated Learning in IoT**|Hung Dang et.al.|[2604.19053](http://arxiv.org/abs/2604.19053)|null|
 |**2026-04-20**|**Semantic-based Distributed Learning for Diverse and Discriminative Representations**|Zhuojun Tian et.al.|[2604.18237](http://arxiv.org/abs/2604.18237)|null|
 |**2026-04-20**|**Federated Rule Ensemble Method in Medical Data**|Ke Wan et.al.|[2604.17956](http://arxiv.org/abs/2604.17956)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
 |**2026-04-20**|**Efficient Federated RLHF via Zeroth-Order Policy Optimization**|Deyi Wang et.al.|[2604.17747](http://arxiv.org/abs/2604.17747)|null|
