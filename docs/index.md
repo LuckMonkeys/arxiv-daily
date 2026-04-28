@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Data-Driven Privacy-Preserving Modeling and Frequency Regulation with Aggregated Electric Vehicles via Bilinear Hidden Markov Model**|Yiping Liu et.al.|[2604.24724](http://arxiv.org/abs/2604.24724)|null|
+|**2026-04-27**|**Fed-DLoRA: Efficient Wireless Federated Learning with Dynamic Low-Rank Adaptation**|Huaicheng Li et.al.|[2604.24103](http://arxiv.org/abs/2604.24103)|null|
+|**2026-04-27**|**FedSLoP: Memory-Efficient Federated Learning with Low-Rank Gradient Projection**|Yutong He et.al.|[2604.24012](http://arxiv.org/abs/2604.24012)|**[link](https://github.com/pkumelon/FedSLoP)**|
+|**2026-04-27**|**Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework**|You Yang et.al.|[2604.23999](http://arxiv.org/abs/2604.23999)|null|
 |**2026-04-25**|**Scalable and Verifiable Federated Learning for Cross-Institution Financial Fraud Detection**|Prajwal Panth et.al.|[2604.23437](http://arxiv.org/abs/2604.23437)|null|
 |**2026-04-25**|**Enhanced Privacy and Communication Efficiency in Non-IID Federated Learning with Adaptive Quantization and Differential Privacy**|Emre Ardıç et.al.|[2604.23426](http://arxiv.org/abs/2604.23426)|null|
 |**2026-04-25**|**A Taxonomy and Resolution Strategy for Client-Level Disagreements in Federated Learning**|Daan Rosendal et.al.|[2604.23386](http://arxiv.org/abs/2604.23386)|null|
