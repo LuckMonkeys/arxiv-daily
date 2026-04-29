@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Subspace Optimization for Efficient Federated Learning under Heterogeneous Data**|Shuchen Zhu et.al.|[2604.25467](http://arxiv.org/abs/2604.25467)|null|
+|**2026-04-28**|**8DNA: 8D Neural Asset Light Transport by Distribution Learning**|Liwen Wu et.al.|[2604.25129](http://arxiv.org/abs/2604.25129)|null|
 |**2026-04-27**|**Data-Driven Privacy-Preserving Modeling and Frequency Regulation with Aggregated Electric Vehicles via Bilinear Hidden Markov Model**|Yiping Liu et.al.|[2604.24724](http://arxiv.org/abs/2604.24724)|null|
 |**2026-04-27**|**Fed-DLoRA: Efficient Wireless Federated Learning with Dynamic Low-Rank Adaptation**|Huaicheng Li et.al.|[2604.24103](http://arxiv.org/abs/2604.24103)|null|
 |**2026-04-27**|**FedSLoP: Memory-Efficient Federated Learning with Low-Rank Gradient Projection**|Yutong He et.al.|[2604.24012](http://arxiv.org/abs/2604.24012)|**[link](https://github.com/pkumelon/FedSLoP)**|
