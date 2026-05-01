@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning**|Yuhua Wang et.al.|[2604.27833](http://arxiv.org/abs/2604.27833)|null|
+|**2026-04-30**|**Privacy-Preserving Federated Learning via Differential Privacy and Homomorphic Encryption for Cardiovascular Disease Risk Modeling**|Gaurang Sharma et.al.|[2604.27598](http://arxiv.org/abs/2604.27598)|null|
+|**2026-04-30**|**FMCL: Class-Aware Client Clustering with Foundation Model Representations for Heterogeneous Federated Learning**|Mahad Ali et.al.|[2604.27510](http://arxiv.org/abs/2604.27510)|null|
+|**2026-04-30**|**AdaBFL: Multi-Layer Defensive Adaptive Aggregation for Bzantine-Robust Federated Learning**|Zehui Tang et.al.|[2604.27434](http://arxiv.org/abs/2604.27434)|null|
 |**2026-04-29**|**Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging**|Zhaoyuan Cai et.al.|[2604.26809](http://arxiv.org/abs/2604.26809)|null|
 |**2026-04-29**|**Analytically Characterized Optimal Power Control for Signal-Level-Integrated Sensing, Computing and Communication in Federated Learning**|Paul Zheng et.al.|[2604.26741](http://arxiv.org/abs/2604.26741)|null|
 |**2026-04-29**|**Who Trains Matters: Federated Learning under Enrollment and Participation Selection Biases**|Gota Morishita et.al.|[2604.26604](http://arxiv.org/abs/2604.26604)|null|
@@ -4626,7 +4630,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## MMS
 
@@ -4665,7 +4669,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

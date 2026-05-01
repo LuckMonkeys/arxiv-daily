@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning**|Yuhua Wang et.al.|[2604.27833](http://arxiv.org/abs/2604.27833)|null|
+|**2026-04-30**|**Privacy-Preserving Federated Learning via Differential Privacy and Homomorphic Encryption for Cardiovascular Disease Risk Modeling**|Gaurang Sharma et.al.|[2604.27598](http://arxiv.org/abs/2604.27598)|null|
+|**2026-04-30**|**FMCL: Class-Aware Client Clustering with Foundation Model Representations for Heterogeneous Federated Learning**|Mahad Ali et.al.|[2604.27510](http://arxiv.org/abs/2604.27510)|null|
+|**2026-04-30**|**AdaBFL: Multi-Layer Defensive Adaptive Aggregation for Bzantine-Robust Federated Learning**|Zehui Tang et.al.|[2604.27434](http://arxiv.org/abs/2604.27434)|null|
 |**2026-04-29**|**Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging**|Zhaoyuan Cai et.al.|[2604.26809](http://arxiv.org/abs/2604.26809)|null|
 |**2026-04-29**|**Analytically Characterized Optimal Power Control for Signal-Level-Integrated Sensing, Computing and Communication in Federated Learning**|Paul Zheng et.al.|[2604.26741](http://arxiv.org/abs/2604.26741)|null|
 |**2026-04-29**|**Who Trains Matters: Federated Learning under Enrollment and Participation Selection Biases**|Gota Morishita et.al.|[2604.26604](http://arxiv.org/abs/2604.26604)|null|
