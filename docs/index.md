@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Surviving the Edge: Federated Learning under Networking and Resource Constraints**|Mike Mwanje et.al.|[2605.03870](http://arxiv.org/abs/2605.03870)|null|
+|**2026-05-05**|**Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligenc**|Munkhdegerekh Batzorig et.al.|[2605.03847](http://arxiv.org/abs/2605.03847)|null|
+|**2026-05-05**|**A Hierarchical Sampling Framework for bounding the Generalization Error of Federated Learning**|Dario Filatrella et.al.|[2605.03499](http://arxiv.org/abs/2605.03499)|null|
+|**2026-05-05**|**Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models**|Shule Lu et.al.|[2605.03426](http://arxiv.org/abs/2605.03426)|null|
+|**2026-05-05**|**Distributed Learning with Adversarial Gradient Perturbations**|Nawapon Sangsiri et.al.|[2605.03313](http://arxiv.org/abs/2605.03313)|null|
+|**2026-05-04**|**PERFECT: Personalized Federated Learning for CBRS Radar Detection**|Shafi Ullah Khan et.al.|[2605.03199](http://arxiv.org/abs/2605.03199)|null|
+|**2026-05-04**|**Distributed Deep Variational Approach for Privacy-preserving Data Release**|Zahir Alsulaimawi et.al.|[2605.03069](http://arxiv.org/abs/2605.03069)|null|
+|**2026-05-04**|**Federated Reinforcement Learning for Efficient Mobile Crowdsensing under Incomplete Information**|Sumedh J. Dongare et.al.|[2605.02705](http://arxiv.org/abs/2605.02705)|null|
+|**2026-05-04**|**Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning**|Judith Sáinz-Pardo Díaz et.al.|[2605.02372](http://arxiv.org/abs/2605.02372)|null|
+|**2026-05-04**|**FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training**|Ahmad Dabaja et.al.|[2605.02337](http://arxiv.org/abs/2605.02337)|null|
 |**2026-04-30**|**Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning**|Yuhua Wang et.al.|[2604.27833](http://arxiv.org/abs/2604.27833)|null|
 |**2026-04-30**|**Privacy-Preserving Federated Learning via Differential Privacy and Homomorphic Encryption for Cardiovascular Disease Risk Modeling**|Gaurang Sharma et.al.|[2604.27598](http://arxiv.org/abs/2604.27598)|null|
 |**2026-04-30**|**FMCL: Class-Aware Client Clustering with Foundation Model Representations for Heterogeneous Federated Learning**|Mahad Ali et.al.|[2604.27510](http://arxiv.org/abs/2604.27510)|null|
