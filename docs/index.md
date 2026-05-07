@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Federated Learning for Early Prediction of EV Charging Demand**|Vasilis Perifanis et.al.|[2605.04993](http://arxiv.org/abs/2605.04993)|**[link](https://github.com/Indigma-Innovations/federated-learning-ev-charging-demand)**|
+|**2026-05-06**|**Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity**|Junxiang Wu et.al.|[2605.04827](http://arxiv.org/abs/2605.04827)|null|
+|**2026-05-06**|**Knowledge-Free Correlated Agreement for Incentivizing Federated Learning**|Leon Witt et.al.|[2605.04747](http://arxiv.org/abs/2605.04747)|null|
+|**2026-05-06**|**FL-Sailer: Efficient and Privacy-Preserving Federated Learning for Scalable Single-Cell Epigenetic Data Analysis via Adaptive Sampling**|Guangyi Zhang et.al.|[2605.04519](http://arxiv.org/abs/2605.04519)|null|
+|**2026-05-06**|**Topology-Aware Two-Stage Federated Learning via Proxy Models for Sub-THz Heterogeneous LEO Communications**|Jinhao Yi et.al.|[2605.04512](http://arxiv.org/abs/2605.04512)|null|
 |**2026-05-05**|**Surviving the Edge: Federated Learning under Networking and Resource Constraints**|Mike Mwanje et.al.|[2605.03870](http://arxiv.org/abs/2605.03870)|null|
 |**2026-05-05**|**Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligenc**|Munkhdegerekh Batzorig et.al.|[2605.03847](http://arxiv.org/abs/2605.03847)|null|
 |**2026-05-05**|**A Hierarchical Sampling Framework for bounding the Generalization Error of Federated Learning**|Dario Filatrella et.al.|[2605.03499](http://arxiv.org/abs/2605.03499)|null|
