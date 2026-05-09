@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning**|Su Zhang et.al.|[2605.06596](http://arxiv.org/abs/2605.06596)|null|
+|**2026-05-07**|**CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification**|Iason Ofeidis et.al.|[2605.06571](http://arxiv.org/abs/2605.06571)|null|
+|**2026-05-07**|**FedFrozen: Two-Stage Federated Optimization via Attention Kernel Freezing**|Junye Du et.al.|[2605.06446](http://arxiv.org/abs/2605.06446)|null|
+|**2026-05-07**|**ConquerNet: Convolution-Smoothed Quantile ReLU Neural Networks with Minimax Guarantees**|Tianpai Luo et.al.|[2605.06265](http://arxiv.org/abs/2605.06265)|null|
+|**2026-05-07**|**Beyond Rigid Alignment: Graph Federated Learning via Dual Manifold Calibration**|Wentao Yu et.al.|[2605.06260](http://arxiv.org/abs/2605.06260)|null|
+|**2026-05-07**|**From Coordinate Matching to Structural Alignment: Rethinking Prototype Alignment in Heterogeneous Federated Learning**|Xinghao Wu et.al.|[2605.05959](http://arxiv.org/abs/2605.05959)|null|
+|**2026-05-07**|**VARS-FL: Validation-Aligned Client Selection for Non-IID Federated Learning in IoT Systems**|Mohamed Lakas et.al.|[2605.05896](http://arxiv.org/abs/2605.05896)|null|
+|**2026-05-07**|**Adaptive Selection of LoRA Components in Privacy-Preserving Federated Learning**|Myoungjun Kim et.al.|[2605.05769](http://arxiv.org/abs/2605.05769)|null|
+|**2026-05-07**|**AoI-Guided Client Selection for Robust and Timely Federated Intrusion Detection in Cloud-Edge Security Analytics**|Chun Yin Chiu et.al.|[2605.05644](http://arxiv.org/abs/2605.05644)|null|
+|**2026-05-07**|**FedeKD: Energy-Based Gating for Robust Federated Knowledge Distillation under Heterogeneous Settings**|Quang-Huy Nguyen et.al.|[2605.05553](http://arxiv.org/abs/2605.05553)|null|
 |**2026-05-06**|**Federated Learning for Early Prediction of EV Charging Demand**|Vasilis Perifanis et.al.|[2605.04993](http://arxiv.org/abs/2605.04993)|**[link](https://github.com/Indigma-Innovations/federated-learning-ev-charging-demand)**|
 |**2026-05-06**|**Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity**|Junxiang Wu et.al.|[2605.04827](http://arxiv.org/abs/2605.04827)|null|
 |**2026-05-06**|**Knowledge-Free Correlated Agreement for Incentivizing Federated Learning**|Leon Witt et.al.|[2605.04747](http://arxiv.org/abs/2605.04747)|null|
