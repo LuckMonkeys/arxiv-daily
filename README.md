@@ -1,4 +1,4 @@
-## Updated on 2026.05.09
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Resource-Element Energy Difference for Noncoherent Over-the-Air Federated Learning**|Hao Chen et.al.|[2605.07263](http://arxiv.org/abs/2605.07263)|**[link](https://github.com/zavareh1/REED)**|
+|**2026-05-08**|**Modulated learning for private and distributed regression with just a single sample per client device**|Praneeth Vepakomma et.al.|[2605.07233](http://arxiv.org/abs/2605.07233)|null|
+|**2026-05-08**|**HARMONY: Bridging the Personalization-Generalization Gap by Mitigating Representation Skew in Heterogeneous Split Federated Learning**|Jiseok Youn et.al.|[2605.07211](http://arxiv.org/abs/2605.07211)|null|
+|**2026-05-08**|**Toward Individual Fairness Without Centralized Data: Selective Counterfactual Consistency for Vertical Federated Learning**|Dawood Wasif et.al.|[2605.07117](http://arxiv.org/abs/2605.07117)|null|
+|**2026-05-07**|**Performance Analysis of Fluid Antenna-Assisted Over-the-Air Federated Learning Under Spatially Correlated Fading**|Mohsen Ahmadzadeh et.al.|[2605.06823](http://arxiv.org/abs/2605.06823)|null|
+|**2026-05-07**|**Overcoming data scarcity through multi-center federated learning for organs-at-risk segmentation in pediatric upper abdominal radiotherapy**|Mianyong Ding et.al.|[2605.06820](http://arxiv.org/abs/2605.06820)|null|
 |**2026-05-07**|**FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning**|Su Zhang et.al.|[2605.06596](http://arxiv.org/abs/2605.06596)|null|
 |**2026-05-07**|**CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification**|Iason Ofeidis et.al.|[2605.06571](http://arxiv.org/abs/2605.06571)|null|
 |**2026-05-07**|**FedFrozen: Two-Stage Federated Optimization via Attention Kernel Freezing**|Junye Du et.al.|[2605.06446](http://arxiv.org/abs/2605.06446)|null|
@@ -4655,7 +4661,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## MMS
 
@@ -4694,7 +4700,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
