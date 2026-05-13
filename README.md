@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**ISAC for AI: A Trade-off Framework Across Data Acquisition and Transfer in Federated Learning**|Lai Jiang et.al.|[2605.11915](http://arxiv.org/abs/2605.11915)|null|
+|**2026-05-12**|**Fed-BAC: Federated Bandit-Guided Additive Clustering in Hierarchical Federated Learning**|Satwat Bashir et.al.|[2605.11815](http://arxiv.org/abs/2605.11815)|null|
+|**2026-05-12**|**Federated Client Selection under Partial Visibility: A POMDP Approach with Spatio-Temporal Attention**|Qijun Hou et.al.|[2605.11752](http://arxiv.org/abs/2605.11752)|null|
+|**2026-05-12**|**FedOUI: OUI-Guided Client Weighting for Federated Aggregation**|Alberto Fernández-Hernández et.al.|[2605.11571](http://arxiv.org/abs/2605.11571)|null|
+|**2026-05-12**|**FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction**|Jun Zhang et.al.|[2605.11433](http://arxiv.org/abs/2605.11433)|**[link](https://github.com/JunZhangJz/FedMM)**|
+|**2026-05-11**|**Fluid Antenna-Enabled Hybrid NOMA and AirFL Networks Under Imperfect CSI and SIC**|Saeid Pakravan et.al.|[2605.11273](http://arxiv.org/abs/2605.11273)|null|
+|**2026-05-11**|**COSMOS: Model-Agnostic Personalized Federated Learning with Clustered Server Models and Pseudo-Label-Only Communication**|Ben Rachmut et.al.|[2605.11165](http://arxiv.org/abs/2605.11165)|null|
+|**2026-05-11**|**FedSurrogate: Backdoor Defense in Federated Learning via Layer Criticality and Surrogate Replacement**|Fatima Z. Abacha et.al.|[2605.11122](http://arxiv.org/abs/2605.11122)|null|
+|**2026-05-11**|**SplitFed-CL: A Split Federated Co-Learning Framework for Medical Image Segmentation with Inaccurate Labels**|Zahra Hafezi Kafshgari et.al.|[2605.11060](http://arxiv.org/abs/2605.11060)|null|
+|**2026-05-11**|**Provable Sparse Inversion and Token Relabel Enhanced One-shot Federated Learning with ViTs**|Li Shen et.al.|[2605.10748](http://arxiv.org/abs/2605.10748)|null|
 |**2026-05-08**|**Resource-Element Energy Difference for Noncoherent Over-the-Air Federated Learning**|Hao Chen et.al.|[2605.07263](http://arxiv.org/abs/2605.07263)|**[link](https://github.com/zavareh1/REED)**|
 |**2026-05-08**|**Modulated learning for private and distributed regression with just a single sample per client device**|Praneeth Vepakomma et.al.|[2605.07233](http://arxiv.org/abs/2605.07233)|null|
 |**2026-05-08**|**HARMONY: Bridging the Personalization-Generalization Gap by Mitigating Representation Skew in Heterogeneous Split Federated Learning**|Jiseok Youn et.al.|[2605.07211](http://arxiv.org/abs/2605.07211)|null|
@@ -4661,7 +4671,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## MMS
 
@@ -4700,7 +4710,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
