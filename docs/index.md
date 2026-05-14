@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Margin-calibrated Classifier Guidance for Property-driven Synthesis Planning**|Najwa Laabid et.al.|[2605.13101](http://arxiv.org/abs/2605.13101)|null|
+|**2026-05-12**|**On Privacy-Preserving Image Transmission in Low-Altitude Networks: A Swin Transformer-Based Framework with Federated Learning**|Kexin Zhang et.al.|[2605.12566](http://arxiv.org/abs/2605.12566)|null|
 |**2026-05-12**|**ISAC for AI: A Trade-off Framework Across Data Acquisition and Transfer in Federated Learning**|Lai Jiang et.al.|[2605.11915](http://arxiv.org/abs/2605.11915)|null|
 |**2026-05-12**|**Fed-BAC: Federated Bandit-Guided Additive Clustering in Hierarchical Federated Learning**|Satwat Bashir et.al.|[2605.11815](http://arxiv.org/abs/2605.11815)|null|
 |**2026-05-12**|**Federated Client Selection under Partial Visibility: A POMDP Approach with Spatio-Temporal Attention**|Qijun Hou et.al.|[2605.11752](http://arxiv.org/abs/2605.11752)|null|

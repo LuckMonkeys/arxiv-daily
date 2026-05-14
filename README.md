@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Margin-calibrated Classifier Guidance for Property-driven Synthesis Planning**|Najwa Laabid et.al.|[2605.13101](http://arxiv.org/abs/2605.13101)|null|
+|**2026-05-12**|**On Privacy-Preserving Image Transmission in Low-Altitude Networks: A Swin Transformer-Based Framework with Federated Learning**|Kexin Zhang et.al.|[2605.12566](http://arxiv.org/abs/2605.12566)|null|
 |**2026-05-12**|**ISAC for AI: A Trade-off Framework Across Data Acquisition and Transfer in Federated Learning**|Lai Jiang et.al.|[2605.11915](http://arxiv.org/abs/2605.11915)|null|
 |**2026-05-12**|**Fed-BAC: Federated Bandit-Guided Additive Clustering in Hierarchical Federated Learning**|Satwat Bashir et.al.|[2605.11815](http://arxiv.org/abs/2605.11815)|null|
 |**2026-05-12**|**Federated Client Selection under Partial Visibility: A POMDP Approach with Spatio-Temporal Attention**|Qijun Hou et.al.|[2605.11752](http://arxiv.org/abs/2605.11752)|null|
@@ -4671,7 +4673,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## MMS
 
@@ -4710,7 +4712,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
