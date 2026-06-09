@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Model Poisoning Against Federated Model Adaptation with Chain of Bit-Flips**|Bastien Vuillod et.al.|[2606.09548](http://arxiv.org/abs/2606.09548)|null|
+|**2026-06-08**|**Hierarchical Federated Learning for Unsupervised Waveform Classification over Tactical MANETs**|Charles E. Thornton et.al.|[2606.09504](http://arxiv.org/abs/2606.09504)|null|
+|**2026-06-05**|**A 65-nm Privacy-Preserving Neuromorphic Encoder With 7.13-nJ Efficiency, 2.38-Mb/mm^2 Item-Memory Density, and Federated Learning Support**|Boyang Cheng et.al.|[2606.09460](http://arxiv.org/abs/2606.09460)|null|
+|**2026-06-07**|**Exploring CKKS Parameter Trade-offs for Privacy-Preserving Personalized Federated Learning**|Kamolchanok Saengtong et.al.|[2606.08521](http://arxiv.org/abs/2606.08521)|null|
+|**2026-06-06**|**Quantifying and Defending against the Privacy Risk in Logit-based Federated Learning**|Sheng Wan et.al.|[2606.08252](http://arxiv.org/abs/2606.08252)|null|
+|**2026-06-06**|**AlignFed: Alignment-Aware Asynchronous Federated Fine-Tuning for Large Language Models in Heterogeneous Edge Environments**|Yan Wang et.al.|[2606.08197](http://arxiv.org/abs/2606.08197)|null|
+|**2026-06-06**|**AI-Native Closed-Loop Security for 6G-Enabled Cyber-Physical Systems: From Edge Detection to Network-Wide Mitigation**|Bilal Hussain et.al.|[2606.08173](http://arxiv.org/abs/2606.08173)|null|
+|**2026-06-06**|**Conditional Random Ordered Transport Spaces**|Lei Luo et.al.|[2606.08113](http://arxiv.org/abs/2606.08113)|null|
+|**2026-06-06**|**CausShield: Sample Reconstruction-Resilient Vertical FL via Causal Representation Learning**|Yongqi Jiang et.al.|[2606.08027](http://arxiv.org/abs/2606.08027)|null|
+|**2026-06-05**|**Model Multiplicity for Adversarial Detection in Small Language Model Training on Edge Devices**|Stefan Behfar et.al.|[2606.07857](http://arxiv.org/abs/2606.07857)|null|
 |**2026-05-14**|**BiFedKD: Bidirectional Federated Knowledge Distillation Framework for Non-IID and Long-Tailed ECG Monitoring**|Zixuan Shu et.al.|[2605.14886](http://arxiv.org/abs/2605.14886)|null|
 |**2026-05-14**|**FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology**|Fengyi Zhang et.al.|[2605.14590](http://arxiv.org/abs/2605.14590)|null|
 |**2026-05-13**|**Keyed Nonlinear Transform: Lightweight Privacy-Enhancing Feature Sharing for Medical Image Analysis**|Haebom Lee et.al.|[2605.14123](http://arxiv.org/abs/2605.14123)|null|
@@ -5895,6 +5905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Tackle CSM in JPEG Steganalysis with Data Adaptation**|Rony Abecidan et.al.|[2605.21523](http://arxiv.org/abs/2605.21523)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-01**|**MARSAD: A Multi-Functional Tool for Real-Time Social Media Analysis**|Md. Rafiul Biswas et.al.|[2512.01369](http://arxiv.org/abs/2512.01369)|null|
 |**2025-11-28**|**A Game-Theoretic Approach for Adversarial Information Fusion in Distributed Sensor Networks**|Kassem Kallas et.al.|[2511.23026](http://arxiv.org/abs/2511.23026)|null|
