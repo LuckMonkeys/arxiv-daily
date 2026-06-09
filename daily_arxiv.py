@@ -91,6 +91,15 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
+def iter_arxiv_results(client, search_engine, topic):
+    try:
+        yield from client.results(search_engine)
+    except arxiv.HTTPError as e:
+        if e.status in (429, 503):
+            logging.error(f"arXiv API HTTP {e.status} for topic {topic}; skip this topic")
+            return
+        raise
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -105,9 +114,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-    client = arxiv.Client()
+    client = arxiv.Client(page_size=max_results, delay_seconds=10, num_retries=5)
 
-    for result in client.results(search_engine):
+    for result in iter_arxiv_results(client, search_engine, topic):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
