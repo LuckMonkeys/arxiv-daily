@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Range Penalization: Theoretical Insights with Applications in Federated Learning**|Yiyuan She et.al.|[2606.10916](http://arxiv.org/abs/2606.10916)|null|
+|**2026-06-09**|**Secure Aggregation with Top-K Sparsification in Decentralized Federated Learning**|Hengxuan Tang et.al.|[2606.10780](http://arxiv.org/abs/2606.10780)|null|
+|**2026-06-09**|**Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception**|Chanuka A. S. Hewa Kaluannakkage et.al.|[2606.10774](http://arxiv.org/abs/2606.10774)|null|
+|**2026-06-09**|**From Data Heterogeneity to Convergence: A Data-Centric Review of Federated Learning**|Huong Nguyen et.al.|[2606.10595](http://arxiv.org/abs/2606.10595)|null|
+|**2026-06-09**|**MoE Enhanced Federated Learning for Spatiotemporal Prediction**|Zhehao Dai et.al.|[2606.10499](http://arxiv.org/abs/2606.10499)|null|
+|**2026-06-08**|**Multi-Level Analyzation of Imbalance to Resolve Non-IID-Ness in Federated Learning**|Haengbok Chung et.al.|[2606.10250](http://arxiv.org/abs/2606.10250)|null|
+|**2026-06-08**|**Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs**|Jonathan C. Kao et.al.|[2606.10180](http://arxiv.org/abs/2606.10180)|null|
+|**2026-06-08**|**Compositional Generative Modeling from Decentralized Data**|Mashrur M. Morshed et.al.|[2606.10153](http://arxiv.org/abs/2606.10153)|null|
+|**2026-06-08**|**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**|Haoran Zhang et.al.|[2606.10124](http://arxiv.org/abs/2606.10124)|null|
 |**2026-06-08**|**Model Poisoning Against Federated Model Adaptation with Chain of Bit-Flips**|Bastien Vuillod et.al.|[2606.09548](http://arxiv.org/abs/2606.09548)|null|
 |**2026-06-08**|**Hierarchical Federated Learning for Unsupervised Waveform Classification over Tactical MANETs**|Charles E. Thornton et.al.|[2606.09504](http://arxiv.org/abs/2606.09504)|null|
 |**2026-06-05**|**A 65-nm Privacy-Preserving Neuromorphic Encoder With 7.13-nJ Efficiency, 2.38-Mb/mm^2 Item-Memory Density, and Federated Learning Support**|Boyang Cheng et.al.|[2606.09460](http://arxiv.org/abs/2606.09460)|null|
