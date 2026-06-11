@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT**|Jing Yang et.al.|[2606.11803](http://arxiv.org/abs/2606.11803)|null|
+|**2026-06-10**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al.|[2606.11556](http://arxiv.org/abs/2606.11556)|null|
+|**2026-06-09**|**Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data**|Masoume Gholizade et.al.|[2606.11272](http://arxiv.org/abs/2606.11272)|null|
 |**2026-06-09**|**Range Penalization: Theoretical Insights with Applications in Federated Learning**|Yiyuan She et.al.|[2606.10916](http://arxiv.org/abs/2606.10916)|null|
 |**2026-06-09**|**Secure Aggregation with Top-K Sparsification in Decentralized Federated Learning**|Hengxuan Tang et.al.|[2606.10780](http://arxiv.org/abs/2606.10780)|null|
 |**2026-06-09**|**Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception**|Chanuka A. S. Hewa Kaluannakkage et.al.|[2606.10774](http://arxiv.org/abs/2606.10774)|null|
