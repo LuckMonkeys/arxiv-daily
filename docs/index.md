@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Towards Personalized Federated Learning for Dysarthric Speech Recognition**|Tao Zhong et.al.|[2606.13253](http://arxiv.org/abs/2606.13253)|null|
+|**2026-06-11**|**JiRAIYA: A Reputation-Based Hierarchical Federated Learning Framework on Web3**|Venkata Raghava Kurada et.al.|[2606.13180](http://arxiv.org/abs/2606.13180)|null|
+|**2026-06-11**|**A solvable model for unsupervised federated learning**|Giovanni Catania et.al.|[2606.13045](http://arxiv.org/abs/2606.13045)|null|
+|**2026-06-11**|**A Privacy-Preserving Framework Using Remote Data Science for Inter-Institutional Student Retention Prediction**|John Fields et.al.|[2606.12845](http://arxiv.org/abs/2606.12845)|null|
+|**2026-06-10**|**Fed-FBD: Federated Functional Block Diversification for Isolation, Privacy, and Surgical Unlearning**|Weijie Chen et.al.|[2606.12679](http://arxiv.org/abs/2606.12679)|null|
 |**2026-06-10**|**SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT**|Jing Yang et.al.|[2606.11803](http://arxiv.org/abs/2606.11803)|null|
 |**2026-06-10**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al.|[2606.11556](http://arxiv.org/abs/2606.11556)|null|
 |**2026-06-09**|**Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data**|Masoume Gholizade et.al.|[2606.11272](http://arxiv.org/abs/2606.11272)|null|
@@ -5933,7 +5938,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
