@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach**|Taym Alshoghri et.al.|[2606.14515](http://arxiv.org/abs/2606.14515)|null|
+|**2026-06-12**|**Federated Learning for Feature Generalization with Convex Constraints**|Dongwon Kim et.al.|[2606.14416](http://arxiv.org/abs/2606.14416)|null|
+|**2026-06-12**|**MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning**|Xiaobo Zhao et.al.|[2606.14354](http://arxiv.org/abs/2606.14354)|null|
+|**2026-06-11**|**FedSPC: Shared Parameter Correction for Personalized Federated Learning**|Kannanthodath Induchoodan Ajay Menon et.al.|[2606.13748](http://arxiv.org/abs/2606.13748)|null|
 |**2026-06-11**|**Towards Personalized Federated Learning for Dysarthric Speech Recognition**|Tao Zhong et.al.|[2606.13253](http://arxiv.org/abs/2606.13253)|null|
 |**2026-06-11**|**JiRAIYA: A Reputation-Based Hierarchical Federated Learning Framework on Web3**|Venkata Raghava Kurada et.al.|[2606.13180](http://arxiv.org/abs/2606.13180)|null|
 |**2026-06-11**|**A solvable model for unsupervised federated learning**|Giovanni Catania et.al.|[2606.13045](http://arxiv.org/abs/2606.13045)|null|
