@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning**|Xiaolin Li et.al.|[2606.17035](http://arxiv.org/abs/2606.17035)|null|
 |**2026-06-15**|**Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages**|Alvaro Javier Vargas Guerrero et.al.|[2606.16891](http://arxiv.org/abs/2606.16891)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
 |**2026-06-15**|**DataGuard: Guaranteeing Private Training in Systolic-array Based Accelerators**|Pawan Kumar Sanjaya et.al.|[2606.16809](http://arxiv.org/abs/2606.16809)|null|
