@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages**|Alvaro Javier Vargas Guerrero et.al.|[2606.16891](http://arxiv.org/abs/2606.16891)|null|
+|**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
+|**2026-06-15**|**DataGuard: Guaranteeing Private Training in Systolic-array Based Accelerators**|Pawan Kumar Sanjaya et.al.|[2606.16809](http://arxiv.org/abs/2606.16809)|null|
+|**2026-06-15**|**Distribution Alignment for One-Shot Federated Learning via Optimal Transport**|Daniele Berardini et.al.|[2606.16655](http://arxiv.org/abs/2606.16655)|**[link](https://github.com/daniebera/SLOT-Align)**|
+|**2026-06-15**|**pFedUL: Layer-Aware Federated Unlearning for Personalized Federated Learning**|Zhuodong Liu et.al.|[2606.16304](http://arxiv.org/abs/2606.16304)|null|
+|**2026-06-14**|**Conflict-Aware Federated Fine-Tuning of Large Language Models with Mixture-of-Experts**|Yijun Lu et.al.|[2606.15625](http://arxiv.org/abs/2606.15625)|null|
+|**2026-06-13**|**Commons-Governed Artificial Intelligence: A Taxonomy of Collective Governance**|Eduardo C. Garrido-Merchán et.al.|[2606.15466](http://arxiv.org/abs/2606.15466)|null|
+|**2026-06-13**|**Guiding Federated Graph Recommendation with LLM-encoded knowledge**|Thi Minh Chau Nguyen et.al.|[2606.15277](http://arxiv.org/abs/2606.15277)|null|
+|**2026-06-12**|**Deep Learning in Seismic Interpretation: Federated Advances in Salt Dome Segmentation**|Muhammad Zain Mehdi et.al.|[2606.14905](http://arxiv.org/abs/2606.14905)|null|
 |**2026-06-12**|**Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach**|Taym Alshoghri et.al.|[2606.14515](http://arxiv.org/abs/2606.14515)|null|
 |**2026-06-12**|**Federated Learning for Feature Generalization with Convex Constraints**|Dongwon Kim et.al.|[2606.14416](http://arxiv.org/abs/2606.14416)|null|
 |**2026-06-12**|**MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning**|Xiaobo Zhao et.al.|[2606.14354](http://arxiv.org/abs/2606.14354)|null|
