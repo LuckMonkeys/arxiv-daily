@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,11 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift**|Davide Domini et.al.|[2606.18003](http://arxiv.org/abs/2606.18003)|null|
+|**2026-06-15**|**Sensing-Native Over-the-Air Federated Learning**|Peiyuan Huang et.al.|[2606.17117](http://arxiv.org/abs/2606.17117)|null|
+|**2026-06-15**|**Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs**|Md Abdullah Al Mamun et.al.|[2606.17110](http://arxiv.org/abs/2606.17110)|null|
 |**2026-06-15**|**Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning**|Xiaolin Li et.al.|[2606.17035](http://arxiv.org/abs/2606.17035)|null|
 |**2026-06-15**|**Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages**|Alvaro Javier Vargas Guerrero et.al.|[2606.16891](http://arxiv.org/abs/2606.16891)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
 |**2026-06-15**|**DataGuard: Guaranteeing Private Training in Systolic-array Based Accelerators**|Pawan Kumar Sanjaya et.al.|[2606.16809](http://arxiv.org/abs/2606.16809)|null|
-|**2026-06-15**|**Distribution Alignment for One-Shot Federated Learning via Optimal Transport**|Daniele Berardini et.al.|[2606.16655](http://arxiv.org/abs/2606.16655)|**[link](https://github.com/daniebera/SLOT-Align)**|
+|**2026-06-15**|**Distribution Alignment for One-Shot Federated Learning via Optimal Transport**|Daniele Berardini et.al.|[2606.16655](http://arxiv.org/abs/2606.16655)|null|
 |**2026-06-15**|**pFedUL: Layer-Aware Federated Unlearning for Personalized Federated Learning**|Zhuodong Liu et.al.|[2606.16304](http://arxiv.org/abs/2606.16304)|null|
 |**2026-06-14**|**Conflict-Aware Federated Fine-Tuning of Large Language Models with Mixture-of-Experts**|Yijun Lu et.al.|[2606.15625](http://arxiv.org/abs/2606.15625)|null|
 |**2026-06-13**|**Commons-Governed Artificial Intelligence: A Taxonomy of Collective Governance**|Eduardo C. Garrido-Merchán et.al.|[2606.15466](http://arxiv.org/abs/2606.15466)|null|
@@ -4722,7 +4725,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## MMS
 
@@ -4762,7 +4765,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
