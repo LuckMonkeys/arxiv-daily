@@ -20,7 +20,7 @@
 |**2026-06-15**|**Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages**|Alvaro Javier Vargas Guerrero et.al.|[2606.16891](http://arxiv.org/abs/2606.16891)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
 |**2026-06-15**|**DataGuard: Guaranteeing Private Training in Systolic-array Based Accelerators**|Pawan Kumar Sanjaya et.al.|[2606.16809](http://arxiv.org/abs/2606.16809)|null|
-|**2026-06-15**|**Distribution Alignment for One-Shot Federated Learning via Optimal Transport**|Daniele Berardini et.al.|[2606.16655](http://arxiv.org/abs/2606.16655)|null|
+|**2026-06-15**|**Distribution Alignment for One-Shot Federated Learning via Optimal Transport**|Daniele Berardini et.al.|[2606.16655](http://arxiv.org/abs/2606.16655)|**[link](https://github.com/daniebera/SLOT-Align)**|
 |**2026-06-15**|**pFedUL: Layer-Aware Federated Unlearning for Personalized Federated Learning**|Zhuodong Liu et.al.|[2606.16304](http://arxiv.org/abs/2606.16304)|null|
 |**2026-06-14**|**Conflict-Aware Federated Fine-Tuning of Large Language Models with Mixture-of-Experts**|Yijun Lu et.al.|[2606.15625](http://arxiv.org/abs/2606.15625)|null|
 |**2026-06-13**|**Commons-Governed Artificial Intelligence: A Taxonomy of Collective Governance**|Eduardo C. Garrido-Merchán et.al.|[2606.15466](http://arxiv.org/abs/2606.15466)|null|
