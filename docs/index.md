@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Byzantine-Resilient Federated Multi-Agent Optimization Framework for Cyber-Secure Interconnected Microgrids**|Ali Peivand et.al.|[2606.19080](http://arxiv.org/abs/2606.19080)|null|
+|**2026-06-17**|**EH-FedSAG: Variance-Reduced Federated Learning with Energy-Aware Participation in Energy-Harvesting IoT**|Shahab Jahanbazi et.al.|[2606.18758](http://arxiv.org/abs/2606.18758)|null|
+|**2026-06-16**|**From Specification to Execution: AI Assisted Scientific Workflow Management**|Komal Thareja et.al.|[2606.18425](http://arxiv.org/abs/2606.18425)|null|
+|**2026-06-16**|**SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System**|Seyed Salar Ghazi et.al.|[2606.18384](http://arxiv.org/abs/2606.18384)|null|
+|**2026-06-16**|**TIGER: Inverting Transformer Gradients via Embedding-Subspace Distance Optimization**|William Kalikman et.al.|[2606.18312](http://arxiv.org/abs/2606.18312)|null|
 |**2026-06-16**|**C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift**|Davide Domini et.al.|[2606.18003](http://arxiv.org/abs/2606.18003)|null|
 |**2026-06-15**|**Sensing-Native Over-the-Air Federated Learning**|Peiyuan Huang et.al.|[2606.17117](http://arxiv.org/abs/2606.17117)|null|
 |**2026-06-15**|**Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs**|Md Abdullah Al Mamun et.al.|[2606.17110](http://arxiv.org/abs/2606.17110)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Byzantine-Resilient Federated Multi-Agent Optimization Framework for Cyber-Secure Interconnected Microgrids**|Ali Peivand et.al.|[2606.19080](http://arxiv.org/abs/2606.19080)|null|
+|**2026-06-17**|**EH-FedSAG: Variance-Reduced Federated Learning with Energy-Aware Participation in Energy-Harvesting IoT**|Shahab Jahanbazi et.al.|[2606.18758](http://arxiv.org/abs/2606.18758)|null|
+|**2026-06-16**|**From Specification to Execution: AI Assisted Scientific Workflow Management**|Komal Thareja et.al.|[2606.18425](http://arxiv.org/abs/2606.18425)|null|
+|**2026-06-16**|**SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System**|Seyed Salar Ghazi et.al.|[2606.18384](http://arxiv.org/abs/2606.18384)|null|
+|**2026-06-16**|**TIGER: Inverting Transformer Gradients via Embedding-Subspace Distance Optimization**|William Kalikman et.al.|[2606.18312](http://arxiv.org/abs/2606.18312)|null|
 |**2026-06-16**|**C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift**|Davide Domini et.al.|[2606.18003](http://arxiv.org/abs/2606.18003)|null|
 |**2026-06-15**|**Sensing-Native Over-the-Air Federated Learning**|Peiyuan Huang et.al.|[2606.17117](http://arxiv.org/abs/2606.17117)|null|
 |**2026-06-15**|**Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs**|Md Abdullah Al Mamun et.al.|[2606.17110](http://arxiv.org/abs/2606.17110)|null|
@@ -4725,7 +4730,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
 ## MMS
 
@@ -4765,7 +4770,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
