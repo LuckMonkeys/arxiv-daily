@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**Quantum ring all-reduce: communication and privacy advantages for distributed learning**|María Gragera Garcés et.al.|[2606.20344](http://arxiv.org/abs/2606.20344)|null|
+|**2026-06-18**|**GEN-Guard: Correcting Generalization Failures for Deployable Federated Surgical AI**|Julia Alekseenko et.al.|[2606.20303](http://arxiv.org/abs/2606.20303)|null|
+|**2026-06-17**|**Variational Consensus Monte Carlo for Bayesian Mixture**|Julie Fendler et.al.|[2606.19643](http://arxiv.org/abs/2606.19643)|null|
 |**2026-06-17**|**Byzantine-Resilient Federated Multi-Agent Optimization Framework for Cyber-Secure Interconnected Microgrids**|Ali Peivand et.al.|[2606.19080](http://arxiv.org/abs/2606.19080)|null|
 |**2026-06-17**|**EH-FedSAG: Variance-Reduced Federated Learning with Energy-Aware Participation in Energy-Harvesting IoT**|Shahab Jahanbazi et.al.|[2606.18758](http://arxiv.org/abs/2606.18758)|null|
 |**2026-06-16**|**From Specification to Execution: AI Assisted Scientific Workflow Management**|Komal Thareja et.al.|[2606.18425](http://arxiv.org/abs/2606.18425)|null|
