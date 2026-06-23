@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-19**|**Towards Transparent Mental Health Insights: An Explainable AI Model for Career-Related Depression and Anxiety Among University Students Using Structured Data**|Arsham Azam et.al.|[2606.21474](http://arxiv.org/abs/2606.21474)|null|
+|**2026-06-19**|**Bridging Design and Execution: A Visual Graph Editor for Edge and Cloud Workflows**|Katarina-Glorija Grujić et.al.|[2606.21416](http://arxiv.org/abs/2606.21416)|null|
+|**2026-06-19**|**Neural Architecture Distributions: A New Paradigm for Stochastic Segmentation**|Conghui Li et.al.|[2606.21061](http://arxiv.org/abs/2606.21061)|null|
 |**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
 |**2026-06-18**|**Quantum ring all-reduce: communication and privacy advantages for distributed learning**|María Gragera Garcés et.al.|[2606.20344](http://arxiv.org/abs/2606.20344)|null|
 |**2026-06-18**|**GEN-Guard: Correcting Generalization Failures for Deployable Federated Surgical AI**|Julia Alekseenko et.al.|[2606.20303](http://arxiv.org/abs/2606.20303)|null|
