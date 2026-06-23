@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences**|Ashkan Pirmani et.al.|[2606.23500](http://arxiv.org/abs/2606.23500)|null|
+|**2026-06-22**|**FLFL: Federated Latent Factor Learning for Private Recovery of Spatio-Temporal Signals**|Chengjun Yu et.al.|[2606.23091](http://arxiv.org/abs/2606.23091)|null|
+|**2026-06-22**|**Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems**|Linyang Wu et.al.|[2606.23017](http://arxiv.org/abs/2606.23017)|null|
+|**2026-06-22**|**HADES: Privacy-Preserving Federated Learning via Selective Feature Encryption and Hybrid Model Fusion**|Ergün Batuhan Kaynak et.al.|[2606.22928](http://arxiv.org/abs/2606.22928)|null|
+|**2026-06-22**|**Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA Fine-Tuning**|Nuocheng Yang et.al.|[2606.22878](http://arxiv.org/abs/2606.22878)|null|
+|**2026-06-22**|**FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**|Wenlong Cheng et.al.|[2606.22875](http://arxiv.org/abs/2606.22875)|null|
+|**2026-06-22**|**Towards Robust Personalized Federated Learning: Vulnerability Assessment and Defense Co-Design**|Mingyuan Fan et.al.|[2606.22782](http://arxiv.org/abs/2606.22782)|null|
+|**2026-06-21**|**Interpretable Uncertainty Routing Separating Emotion Ambiguity from Distribution Shift in Facial Expression Recognition**|Keito Inoshita et.al.|[2606.22725](http://arxiv.org/abs/2606.22725)|null|
+|**2026-06-21**|**Subspace-Constrained Federated Learning with Low-Rank Adaptation**|Neranjan Senarath et.al.|[2606.22724](http://arxiv.org/abs/2606.22724)|**[link](https://github.com/sadia-sigma-lab/Subspace-Constrained-Federated-learning-with-Lora)**|
+|**2026-06-21**|**SCRUB-FL: Sanitizing and Cleansing Representations via Unlearning of Backdoors**|Osama Wehbi et.al.|[2606.22700](http://arxiv.org/abs/2606.22700)|null|
 |**2026-06-19**|**Towards Transparent Mental Health Insights: An Explainable AI Model for Career-Related Depression and Anxiety Among University Students Using Structured Data**|Arsham Azam et.al.|[2606.21474](http://arxiv.org/abs/2606.21474)|null|
 |**2026-06-19**|**Bridging Design and Execution: A Visual Graph Editor for Edge and Cloud Workflows**|Katarina-Glorija Grujić et.al.|[2606.21416](http://arxiv.org/abs/2606.21416)|null|
 |**2026-06-19**|**Neural Architecture Distributions: A New Paradigm for Stochastic Segmentation**|Conghui Li et.al.|[2606.21061](http://arxiv.org/abs/2606.21061)|null|
