@@ -1223,11 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**FedReLa: Imbalanced Federated Learning via Re-Labeling**|Guangzheng Hu et.al.|[2606.26037](http://arxiv.org/abs/2606.26037)|null|
+|**2026-06-24**|**Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks**|Kavindu Herath et.al.|[2606.25858](http://arxiv.org/abs/2606.25858)|null|
+|**2026-06-24**|**NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication**|Ziqiang Wang et.al.|[2606.25759](http://arxiv.org/abs/2606.25759)|null|
+|**2026-06-24**|**TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems**|Erdenebileg Batbaatar et.al.|[2606.25627](http://arxiv.org/abs/2606.25627)|null|
 |**2026-06-23**|**Semi-asynchronous Federated Learning in Flower: Framework Extension and Performance Assessment**|Víctor Hidalgo-Izquierdo et.al.|[2606.24230](http://arxiv.org/abs/2606.24230)|null|
 |**2026-06-22**|**Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data**|Natalia Moreno-Blasco et.al.|[2606.23871](http://arxiv.org/abs/2606.23871)|null|
 |**2026-06-22**|**Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences**|Ashkan Pirmani et.al.|[2606.23500](http://arxiv.org/abs/2606.23500)|null|
 |**2026-06-22**|**FLFL: Federated Latent Factor Learning for Private Recovery of Spatio-Temporal Signals**|Chengjun Yu et.al.|[2606.23091](http://arxiv.org/abs/2606.23091)|null|
-|**2026-06-23**|**Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems**|Linyang Wu et.al.|[2606.23017](http://arxiv.org/abs/2606.23017)|null|
+|**2026-06-24**|**Nautilus: A Verifiable Hierarchical Federated Learning Framework for Vehicular-Edge-Cloud Systems**|Linyang Wu et.al.|[2606.23017](http://arxiv.org/abs/2606.23017)|null|
 |**2026-06-22**|**HADES: Privacy-Preserving Federated Learning via Selective Feature Encryption and Hybrid Model Fusion**|Ergün Batuhan Kaynak et.al.|[2606.22928](http://arxiv.org/abs/2606.22928)|null|
 |**2026-06-22**|**Priority-Aware Learning-Unlearning Correction for Dynamic Decentralized LoRA Fine-Tuning**|Nuocheng Yang et.al.|[2606.22878](http://arxiv.org/abs/2606.22878)|null|
 |**2026-06-22**|**FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**|Wenlong Cheng et.al.|[2606.22875](http://arxiv.org/abs/2606.22875)|null|
