@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Quantization in Federated Learning: Methods, Challenges and Future Directions**|Farwa Ikram et.al.|[2606.26822](http://arxiv.org/abs/2606.26822)|null|
+|**2026-06-24**|**Federated Hash Projected Latent Factor Learning**|Jialan He et.al.|[2606.26192](http://arxiv.org/abs/2606.26192)|null|
 |**2026-06-24**|**FedReLa: Imbalanced Federated Learning via Re-Labeling**|Guangzheng Hu et.al.|[2606.26037](http://arxiv.org/abs/2606.26037)|null|
 |**2026-06-24**|**Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks**|Kavindu Herath et.al.|[2606.25858](http://arxiv.org/abs/2606.25858)|null|
 |**2026-06-24**|**NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication**|Ziqiang Wang et.al.|[2606.25759](http://arxiv.org/abs/2606.25759)|null|
