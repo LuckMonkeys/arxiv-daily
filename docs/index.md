@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives**|Young Yoon et.al.|[2606.28217](http://arxiv.org/abs/2606.28217)|null|
+|**2026-06-26**|**FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks**|Emmanuel Rassou et.al.|[2606.27622](http://arxiv.org/abs/2606.27622)|null|
+|**2026-06-25**|**When the Aggregator Cheats: Data-Free Backdoors in Federated LLM-based QA Systems**|Chenqing Zhu et.al.|[2606.27511](http://arxiv.org/abs/2606.27511)|null|
 |**2026-06-25**|**Quantization in Federated Learning: Methods, Challenges and Future Directions**|Farwa Ikram et.al.|[2606.26822](http://arxiv.org/abs/2606.26822)|null|
 |**2026-06-24**|**Federated Hash Projected Latent Factor Learning**|Jialan He et.al.|[2606.26192](http://arxiv.org/abs/2606.26192)|null|
 |**2026-06-24**|**FedReLa: Imbalanced Federated Learning via Re-Labeling**|Guangzheng Hu et.al.|[2606.26037](http://arxiv.org/abs/2606.26037)|null|
