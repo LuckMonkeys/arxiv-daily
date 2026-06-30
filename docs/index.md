@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning**|Davide Domini et.al.|[2606.30499](http://arxiv.org/abs/2606.30499)|null|
+|**2026-06-29**|**Lossy Compression for Sparse Aggregation**|Yijun Fan et.al.|[2606.30425](http://arxiv.org/abs/2606.30425)|null|
+|**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
+|**2026-06-29**|**Federated Learning with Energy-Based Structured Probabilistic Inference**|Dario Fenoglio et.al.|[2606.30161](http://arxiv.org/abs/2606.30161)|null|
+|**2026-06-28**|**SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning**|Yaron Kiselman et.al.|[2606.29322](http://arxiv.org/abs/2606.29322)|null|
+|**2026-06-27**|**Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning**|Wenhao Yuan et.al.|[2606.28835](http://arxiv.org/abs/2606.28835)|null|
+|**2026-06-26**|**The Role of Artificial Intelligence in the SKA Era**|Philipp Denzel et.al.|[2606.28493](http://arxiv.org/abs/2606.28493)|null|
 |**2026-06-26**|**Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives**|Young Yoon et.al.|[2606.28217](http://arxiv.org/abs/2606.28217)|null|
 |**2026-06-26**|**FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks**|Emmanuel Rassou et.al.|[2606.27622](http://arxiv.org/abs/2606.27622)|null|
 |**2026-06-25**|**When the Aggregator Cheats: Data-Free Backdoors in Federated LLM-based QA Systems**|Chenqing Zhu et.al.|[2606.27511](http://arxiv.org/abs/2606.27511)|null|
