@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**FedXDS: Leveraging Model Attribution Methods to counteract Data Heterogeneity in Federated Learning**|Maximilian Andreas Hoefler et.al.|[2606.31742](http://arxiv.org/abs/2606.31742)|null|
+|**2026-06-30**|**Expected Gain-based Escalation in Vertical Federated Learning**|Mohamad Mestoukirdi et.al.|[2606.31331](http://arxiv.org/abs/2606.31331)|null|
+|**2026-06-30**|**Secure-CHG: A Comprehensive Framework for Robust and Fair Federated Learning via Hybrid Defense and Contribution-Aware Trust**|Guanming Che et.al.|[2606.31066](http://arxiv.org/abs/2606.31066)|null|
+|**2026-06-29**|**TinyML for On-Device and Edge Analytics in Wireless Networks: A Survey of Deployments, Opportunities, and Concept-Drift Mitigation**|Prasoon Raghuwanshi et.al.|[2606.30843](http://arxiv.org/abs/2606.30843)|null|
+|**2026-06-29**|**An AI-Based Solution for Secure Service Provisioning in IoT**|Marco Arazzi et.al.|[2606.30701](http://arxiv.org/abs/2606.30701)|null|
 |**2026-06-29**|**Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning**|Davide Domini et.al.|[2606.30499](http://arxiv.org/abs/2606.30499)|null|
 |**2026-06-29**|**Lossy Compression for Sparse Aggregation**|Yijun Fan et.al.|[2606.30425](http://arxiv.org/abs/2606.30425)|null|
 |**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|

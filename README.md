@@ -1,4 +1,4 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**FedXDS: Leveraging Model Attribution Methods to counteract Data Heterogeneity in Federated Learning**|Maximilian Andreas Hoefler et.al.|[2606.31742](http://arxiv.org/abs/2606.31742)|null|
+|**2026-06-30**|**Expected Gain-based Escalation in Vertical Federated Learning**|Mohamad Mestoukirdi et.al.|[2606.31331](http://arxiv.org/abs/2606.31331)|null|
+|**2026-06-30**|**Secure-CHG: A Comprehensive Framework for Robust and Fair Federated Learning via Hybrid Defense and Contribution-Aware Trust**|Guanming Che et.al.|[2606.31066](http://arxiv.org/abs/2606.31066)|null|
+|**2026-06-29**|**TinyML for On-Device and Edge Analytics in Wireless Networks: A Survey of Deployments, Opportunities, and Concept-Drift Mitigation**|Prasoon Raghuwanshi et.al.|[2606.30843](http://arxiv.org/abs/2606.30843)|null|
+|**2026-06-29**|**An AI-Based Solution for Secure Service Provisioning in IoT**|Marco Arazzi et.al.|[2606.30701](http://arxiv.org/abs/2606.30701)|null|
 |**2026-06-29**|**Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning**|Davide Domini et.al.|[2606.30499](http://arxiv.org/abs/2606.30499)|null|
 |**2026-06-29**|**Lossy Compression for Sparse Aggregation**|Yijun Fan et.al.|[2606.30425](http://arxiv.org/abs/2606.30425)|null|
 |**2026-06-29**|**Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions**|Christophe Vauthier et.al.|[2606.30310](http://arxiv.org/abs/2606.30310)|null|
@@ -4765,7 +4770,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## MMS
 
@@ -4805,7 +4810,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
