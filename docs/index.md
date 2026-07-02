@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Generative Modeling of Quantum Distribution with Functional Flow Matching**|Jaehoon Hahm et.al.|[2607.00301](http://arxiv.org/abs/2607.00301)|null|
+|**2026-06-30**|**Entropy-Regularized Probabilistic Gates for Sparse Model Discovery in Scarce-Data Federated Learning**|Krishna Harsha Kovelakuntla Huthasana et.al.|[2607.00275](http://arxiv.org/abs/2607.00275)|null|
+|**2026-06-30**|**TallyTrain: Communication-Efficient Federated Distillation**|Radhakrishna Achanta et.al.|[2607.00173](http://arxiv.org/abs/2607.00173)|null|
 |**2026-06-30**|**FedXDS: Leveraging Model Attribution Methods to counteract Data Heterogeneity in Federated Learning**|Maximilian Andreas Hoefler et.al.|[2606.31742](http://arxiv.org/abs/2606.31742)|null|
 |**2026-06-30**|**Expected Gain-based Escalation in Vertical Federated Learning**|Mohamad Mestoukirdi et.al.|[2606.31331](http://arxiv.org/abs/2606.31331)|null|
 |**2026-06-30**|**Secure-CHG: A Comprehensive Framework for Robust and Fair Federated Learning via Hybrid Defense and Contribution-Aware Trust**|Guanming Che et.al.|[2606.31066](http://arxiv.org/abs/2606.31066)|null|
