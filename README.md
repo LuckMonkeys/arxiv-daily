@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data**|Xuanyu Chen et.al.|[2607.02447](http://arxiv.org/abs/2607.02447)|**[link](https://github.com/xuanyuLawrence/FedMAR-DecMAR)**|
+|**2026-07-02**|**QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition**|Quoc Bao Phan et.al.|[2607.02426](http://arxiv.org/abs/2607.02426)|null|
 |**2026-07-02**|**Privacy-Preserving and Verifiable Approximate Distributed Coded Computing**|Xavier Martínez-Luaña et.al.|[2607.02187](http://arxiv.org/abs/2607.02187)|null|
 |**2026-07-02**|**Population-Based Multi-Objective Training of Discriminators for Semi-Supervised GANs**|Francisco Sedeño et.al.|[2607.01907](http://arxiv.org/abs/2607.01907)|null|
 |**2026-07-01**|**Unveiling the Non-Monotonic Effect of Privacy on Generalization under Byzantine Robustness**|Thomas Boudou et.al.|[2607.01492](http://arxiv.org/abs/2607.01492)|null|
