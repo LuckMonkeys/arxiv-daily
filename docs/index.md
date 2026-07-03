@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Privacy-Preserving and Verifiable Approximate Distributed Coded Computing**|Xavier Martínez-Luaña et.al.|[2607.02187](http://arxiv.org/abs/2607.02187)|null|
+|**2026-07-02**|**Population-Based Multi-Objective Training of Discriminators for Semi-Supervised GANs**|Francisco Sedeño et.al.|[2607.01907](http://arxiv.org/abs/2607.01907)|null|
+|**2026-07-01**|**Unveiling the Non-Monotonic Effect of Privacy on Generalization under Byzantine Robustness**|Thomas Boudou et.al.|[2607.01492](http://arxiv.org/abs/2607.01492)|null|
+|**2026-07-01**|**Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning**|Haemin Park et.al.|[2607.01474](http://arxiv.org/abs/2607.01474)|**[link](https://github.com/haemPark/fedcgnm)**|
+|**2026-07-01**|**Auto-FL-Research: Agentic Search for Federated Learning Algorithms**|Holger R. Roth et.al.|[2607.01366](http://arxiv.org/abs/2607.01366)|null|
+|**2026-07-01**|**Generative AI and Federated Learning for Intrusion Detection Systems: A Survey**|Jiefei Liu et.al.|[2607.01305](http://arxiv.org/abs/2607.01305)|null|
+|**2026-06-30**|**Benchmarking Federated Learning and Knowledge Distillation for Point Cloud Classification**|Aizierjiang Aiersilan et.al.|[2607.01272](http://arxiv.org/abs/2607.01272)|**[link](https://github.com/zhangfeiy/FLKD3DBenchmark)**|
 |**2026-07-01**|**Generative Modeling of Quantum Distribution with Functional Flow Matching**|Jaehoon Hahm et.al.|[2607.00301](http://arxiv.org/abs/2607.00301)|null|
 |**2026-06-30**|**Entropy-Regularized Probabilistic Gates for Sparse Model Discovery in Scarce-Data Federated Learning**|Krishna Harsha Kovelakuntla Huthasana et.al.|[2607.00275](http://arxiv.org/abs/2607.00275)|null|
 |**2026-06-30**|**TallyTrain: Communication-Efficient Federated Distillation**|Radhakrishna Achanta et.al.|[2607.00173](http://arxiv.org/abs/2607.00173)|null|
