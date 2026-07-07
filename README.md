@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-05**|**Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized Federated Learning**|Kaushal Attaluri et.al.|[2607.04254](http://arxiv.org/abs/2607.04254)|null|
+|**2026-07-05**|**Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks**|Zubaida Fatima et.al.|[2607.04218](http://arxiv.org/abs/2607.04218)|null|
+|**2026-07-05**|**SpecGradFilter: A Spectral Gradient Filtering Framework for Taming Federated Heterogeneity**|Liyang Yuan et.al.|[2607.04189](http://arxiv.org/abs/2607.04189)|null|
+|**2026-07-05**|**FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering**|Liyang Yuan et.al.|[2607.04170](http://arxiv.org/abs/2607.04170)|null|
+|**2026-07-05**|**FedProIn: Mitigating Client Drift for Learnable Prototypes in Federated Medical Imaging**|Harsh Kumar et.al.|[2607.04158](http://arxiv.org/abs/2607.04158)|null|
+|**2026-07-05**|**FedSPM: Routing-Enabled Federated Learning under Dual Heterogeneity via Semiparametric Mixture**|Zijian Wang et.al.|[2607.04085](http://arxiv.org/abs/2607.04085)|null|
 |**2026-07-03**|**FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy**|Andrea De Luna et.al.|[2607.03334](http://arxiv.org/abs/2607.03334)|null|
 |**2026-07-03**|**Decentralised Federated Learning over Temporal Networks: The Role of Heterogeneities**|Arash Badie-Modiri et.al.|[2607.03171](http://arxiv.org/abs/2607.03171)|null|
 |**2026-07-03**|**Can Model Merging Improve Aggregation in DiLoCo?**|Stefan Horoi et.al.|[2607.03011](http://arxiv.org/abs/2607.03011)|null|
