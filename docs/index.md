@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy**|Andrea De Luna et.al.|[2607.03334](http://arxiv.org/abs/2607.03334)|null|
+|**2026-07-03**|**Decentralised Federated Learning over Temporal Networks: The Role of Heterogeneities**|Arash Badie-Modiri et.al.|[2607.03171](http://arxiv.org/abs/2607.03171)|null|
+|**2026-07-03**|**Can Model Merging Improve Aggregation in DiLoCo?**|Stefan Horoi et.al.|[2607.03011](http://arxiv.org/abs/2607.03011)|null|
+|**2026-07-03**|**Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices**|Nathan Tatsuta et.al.|[2607.02971](http://arxiv.org/abs/2607.02971)|null|
+|**2026-07-02**|**Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms**|Ye Tian et.al.|[2607.02681](http://arxiv.org/abs/2607.02681)|null|
+|**2026-07-02**|**Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data**|Daniel M. Jimenez-Gutierrez et.al.|[2607.02636](http://arxiv.org/abs/2607.02636)|null|
+|**2026-07-02**|**QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting**|Shah Nawaz Haider et.al.|[2607.02632](http://arxiv.org/abs/2607.02632)|null|
 |**2026-07-02**|**Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data**|Xuanyu Chen et.al.|[2607.02447](http://arxiv.org/abs/2607.02447)|**[link](https://github.com/xuanyuLawrence/FedMAR-DecMAR)**|
 |**2026-07-02**|**QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition**|Quoc Bao Phan et.al.|[2607.02426](http://arxiv.org/abs/2607.02426)|null|
 |**2026-07-02**|**Privacy-Preserving and Verifiable Approximate Distributed Coded Computing**|Xavier Martínez-Luaña et.al.|[2607.02187](http://arxiv.org/abs/2607.02187)|null|
