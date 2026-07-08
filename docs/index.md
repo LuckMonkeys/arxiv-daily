@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**FLAIR: Distributed Federated Learning with Dynamic Clustering**|Ihssan Boutebicha et.al.|[2607.06025](http://arxiv.org/abs/2607.06025)|null|
+|**2026-07-07**|**Inertia-Informed Federated Learning Control Framework for Distributed Smart Grid Resilience**|Ibrahim Shahbaz et.al.|[2607.05720](http://arxiv.org/abs/2607.05720)|null|
 |**2026-07-05**|**Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized Federated Learning**|Kaushal Attaluri et.al.|[2607.04254](http://arxiv.org/abs/2607.04254)|null|
 |**2026-07-05**|**Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks**|Zubaida Fatima et.al.|[2607.04218](http://arxiv.org/abs/2607.04218)|null|
 |**2026-07-05**|**SpecGradFilter: A Spectral Gradient Filtering Framework for Taming Federated Heterogeneity**|Liyang Yuan et.al.|[2607.04189](http://arxiv.org/abs/2607.04189)|null|
