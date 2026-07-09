@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning**|Maximilian Andreas Hoefler et.al.|[2607.07565](http://arxiv.org/abs/2607.07565)|null|
+|**2026-07-08**|**FedMark-FM: Auditable, Risk-Adjusted Data Markets for Federated Foundation-Model Adaptation**|Phat T. Tran-Truong et.al.|[2607.07529](http://arxiv.org/abs/2607.07529)|null|
+|**2026-07-08**|**FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation**|Chongkai Li et.al.|[2607.07314](http://arxiv.org/abs/2607.07314)|null|
+|**2026-07-08**|**Robust Federated Learning Under Real-World Client Churn**|Dhruv Garg et.al.|[2607.06979](http://arxiv.org/abs/2607.06979)|null|
+|**2026-07-08**|**Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies**|Kiarash Ahi et.al.|[2607.06963](http://arxiv.org/abs/2607.06963)|null|
+|**2026-07-07**|**AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2607.06768](http://arxiv.org/abs/2607.06768)|null|
+|**2026-07-07**|**Dual Attention Heads for Personalized Federated Learning in ECG Classification**|Kien Le et.al.|[2607.06653](http://arxiv.org/abs/2607.06653)|null|
+|**2026-07-07**|**Entropy-Guided Tensor Compression for Multimodal Federated Learning on Edge Devices**|Quoc Bao Phan et.al.|[2607.06651](http://arxiv.org/abs/2607.06651)|null|
+|**2026-07-07**|**ProMoE-FL: Prototype-conditioned Mixture of Experts for Multimodal Federated Learning with Missing Modalities**|Aavash Chhetri et.al.|[2607.06633](http://arxiv.org/abs/2607.06633)|**[link](https://github.com/bhattarailab/ProMoE-FL)**|
 |**2026-07-07**|**FLAIR: Distributed Federated Learning with Dynamic Clustering**|Ihssan Boutebicha et.al.|[2607.06025](http://arxiv.org/abs/2607.06025)|null|
 |**2026-07-07**|**Inertia-Informed Federated Learning Control Framework for Distributed Smart Grid Resilience**|Ibrahim Shahbaz et.al.|[2607.05720](http://arxiv.org/abs/2607.05720)|null|
 |**2026-07-05**|**Air-Plan: Query-Optimized Topology Selection for Over-the-Air Decentralized Federated Learning**|Kaushal Attaluri et.al.|[2607.04254](http://arxiv.org/abs/2607.04254)|null|
@@ -6027,7 +6036,7 @@ layout: default
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
