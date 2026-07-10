@@ -1,4 +1,4 @@
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Secure Decentralized Federated Learning via Gossip and Virtual Voting**|Amirhossein Taherpour et.al.|[2607.08651](http://arxiv.org/abs/2607.08651)|null|
+|**2026-07-09**|**Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction**|Hyunho Mo et.al.|[2607.08595](http://arxiv.org/abs/2607.08595)|null|
+|**2026-07-09**|**FedOPAL: One-Shot Federated Learning via Analytic Visual Prompt Tuning**|Lingyu Qiu et.al.|[2607.08368](http://arxiv.org/abs/2607.08368)|null|
+|**2026-07-09**|**Benchmark Evaluation of Feredated Learning on Multi-organ Images**|Junbin Mao et.al.|[2607.08219](http://arxiv.org/abs/2607.08219)|null|
+|**2026-07-09**|**FedTR: Federated Learning Framework with Transfer Learning for Industrial Visual Inspection**|Vikash Sathiamoorthy et.al.|[2607.08014](http://arxiv.org/abs/2607.08014)|null|
+|**2026-07-09**|**Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems**|Shuo Huai et.al.|[2607.08013](http://arxiv.org/abs/2607.08013)|null|
 |**2026-07-08**|**Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning**|Maximilian Andreas Hoefler et.al.|[2607.07565](http://arxiv.org/abs/2607.07565)|null|
 |**2026-07-08**|**FedMark-FM: Auditable, Risk-Adjusted Data Markets for Federated Foundation-Model Adaptation**|Phat T. Tran-Truong et.al.|[2607.07529](http://arxiv.org/abs/2607.07529)|null|
 |**2026-07-08**|**FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation**|Chongkai Li et.al.|[2607.07314](http://arxiv.org/abs/2607.07314)|null|
@@ -4806,7 +4812,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## MMS
 
@@ -4846,7 +4852,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
