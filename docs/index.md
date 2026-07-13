@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Federated Learning Architecture: Data Privacy and System Security Approaches**|Cagdas Karatas et.al.|[2607.09391](http://arxiv.org/abs/2607.09391)|null|
+|**2026-07-08**|**Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement**|William Weijia Zheng et.al.|[2607.08797](http://arxiv.org/abs/2607.08797)|null|
 |**2026-07-09**|**Secure Decentralized Federated Learning via Gossip and Virtual Voting**|Amirhossein Taherpour et.al.|[2607.08651](http://arxiv.org/abs/2607.08651)|null|
 |**2026-07-09**|**Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction**|Hyunho Mo et.al.|[2607.08595](http://arxiv.org/abs/2607.08595)|null|
 |**2026-07-09**|**FedOPAL: One-Shot Federated Learning via Analytic Visual Prompt Tuning**|Lingyu Qiu et.al.|[2607.08368](http://arxiv.org/abs/2607.08368)|null|
