@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**SoK: Federated Learning for Intrusion Detection in Vehicular Networks**|Yahya Shahsavari et.al.|[2607.10914](http://arxiv.org/abs/2607.10914)|null|
+|**2026-07-11**|**Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps**|Sakshi Gorkhali et.al.|[2607.10467](http://arxiv.org/abs/2607.10467)|null|
 |**2026-07-10**|**Federated Learning Architecture: Data Privacy and System Security Approaches**|Cagdas Karatas et.al.|[2607.09391](http://arxiv.org/abs/2607.09391)|null|
 |**2026-07-08**|**Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement**|William Weijia Zheng et.al.|[2607.08797](http://arxiv.org/abs/2607.08797)|null|
 |**2026-07-09**|**Secure Decentralized Federated Learning via Gossip and Virtual Voting**|Amirhossein Taherpour et.al.|[2607.08651](http://arxiv.org/abs/2607.08651)|null|
