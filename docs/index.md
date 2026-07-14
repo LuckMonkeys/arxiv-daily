@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations**|Ziyang Zhang et.al.|[2607.11739](http://arxiv.org/abs/2607.11739)|null|
+|**2026-07-13**|**HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning**|Chenxi Sun et.al.|[2607.11528](http://arxiv.org/abs/2607.11528)|null|
+|**2026-07-13**|**Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data**|Zhi-Yong Wang et.al.|[2607.10970](http://arxiv.org/abs/2607.10970)|null|
 |**2026-07-12**|**SoK: Federated Learning for Intrusion Detection in Vehicular Networks**|Yahya Shahsavari et.al.|[2607.10914](http://arxiv.org/abs/2607.10914)|null|
 |**2026-07-11**|**Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps**|Sakshi Gorkhali et.al.|[2607.10467](http://arxiv.org/abs/2607.10467)|null|
 |**2026-07-10**|**Federated Learning Architecture: Data Privacy and System Security Approaches**|Cagdas Karatas et.al.|[2607.09391](http://arxiv.org/abs/2607.09391)|null|
