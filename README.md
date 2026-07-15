@@ -1,4 +1,4 @@
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2026-07-13**|**HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning**|Chenxi Sun et.al.|[2607.11528](http://arxiv.org/abs/2607.11528)|null|
 |**2026-07-13**|**Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data**|Zhi-Yong Wang et.al.|[2607.10970](http://arxiv.org/abs/2607.10970)|null|
 |**2026-07-12**|**SoK: Federated Learning for Intrusion Detection in Vehicular Networks**|Yahya Shahsavari et.al.|[2607.10914](http://arxiv.org/abs/2607.10914)|null|
-|**2026-07-11**|**Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps**|Sakshi Gorkhali et.al.|[2607.10467](http://arxiv.org/abs/2607.10467)|null|
+|**2026-07-14**|**Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps**|Sakshi Gorkhali et.al.|[2607.10467](http://arxiv.org/abs/2607.10467)|null|
 |**2026-07-10**|**Federated Learning Architecture: Data Privacy and System Security Approaches**|Cagdas Karatas et.al.|[2607.09391](http://arxiv.org/abs/2607.09391)|null|
 |**2026-07-08**|**Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement**|William Weijia Zheng et.al.|[2607.08797](http://arxiv.org/abs/2607.08797)|null|
 |**2026-07-09**|**Secure Decentralized Federated Learning via Gossip and Virtual Voting**|Amirhossein Taherpour et.al.|[2607.08651](http://arxiv.org/abs/2607.08651)|null|
@@ -4819,7 +4819,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## MMS
 
@@ -4859,7 +4859,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
