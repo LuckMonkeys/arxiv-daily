@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**PriEval-Protect: A Unified Framework for Privacy Evaluation and Protection in Healthcare Systems**|Ilef Chebil et.al.|[2607.13754](http://arxiv.org/abs/2607.13754)|**[link](https://github.com/PriEval-Protect-Framework/PriEval-Protect-Privacy-Engine)**|
+|**2026-07-14**|**Privacy Preserving Recommender Systems Balancing Personalization with Privacy**|Ranjeet K Jha et.al.|[2607.13328](http://arxiv.org/abs/2607.13328)|null|
+|**2026-07-14**|**Mixed-Timescale Differential Coding for Downlink Model Broadcast in Wireless Federated Learning**|Chung-Hsuan Hu et.al.|[2607.13119](http://arxiv.org/abs/2607.13119)|null|
 |**2026-07-13**|**AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations**|Ziyang Zhang et.al.|[2607.11739](http://arxiv.org/abs/2607.11739)|null|
 |**2026-07-13**|**HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning**|Chenxi Sun et.al.|[2607.11528](http://arxiv.org/abs/2607.11528)|null|
 |**2026-07-13**|**Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data**|Zhi-Yong Wang et.al.|[2607.10970](http://arxiv.org/abs/2607.10970)|null|
