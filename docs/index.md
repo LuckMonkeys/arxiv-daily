@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**Joint Channel Estimation and Dynamics-Aware Grouping for Time-Varying RIS-Assisted OTA Federated Learning**|Ziqi Li et.al.|[2607.17169](http://arxiv.org/abs/2607.17169)|null|
+|**2026-07-19**|**Blind Transpiler: An open-source library for universally blind and homomorphic quantum computations**|Mohit Joshi et.al.|[2607.17131](http://arxiv.org/abs/2607.17131)|null|
+|**2026-07-19**|**Learning Emotion from Motion: Kinetic Multi-Stream Skeleton Modeling with Metadata-Conditioned Weak Label Distributions**|Sosuke Suzuki et.al.|[2607.17121](http://arxiv.org/abs/2607.17121)|null|
+|**2026-07-19**|**Federated Learning and LLM-Driven Threat Intelligence for Zero Trust IoT Architecture**|Amal Alshehri et.al.|[2607.17035](http://arxiv.org/abs/2607.17035)|null|
+|**2026-07-19**|**Federated Lightweight Intrusion Detection in Drone Swarms with Knowledge Distillation**|Fawaz J. Alruwaili et.al.|[2607.17025](http://arxiv.org/abs/2607.17025)|null|
+|**2026-07-18**|**Transmit Coefficients and Receive Combining Vector Design for OTA-FL with Imperfect CSI**|Xiaoyan Ma et.al.|[2607.16983](http://arxiv.org/abs/2607.16983)|null|
+|**2026-07-18**|**Auditable Session Admission for Cross-Silo Federated Learning**|Enzo Fenoglio et.al.|[2607.16559](http://arxiv.org/abs/2607.16559)|null|
 |**2026-07-17**|**Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework**|Xunkai Li et.al.|[2607.15687](http://arxiv.org/abs/2607.15687)|null|
 |**2026-07-16**|**FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels**|Md Nahid Hasan Shuvo et.al.|[2607.15469](http://arxiv.org/abs/2607.15469)|null|
 |**2026-07-16**|**NFSA: Non-Forward Secure Aggregation with One Server via Two Layer Secret Sharing**|Yufei Zhou et.al.|[2607.15052](http://arxiv.org/abs/2607.15052)|null|
