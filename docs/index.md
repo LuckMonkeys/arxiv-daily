@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Distributed Edge Learning under Imperfect Data Sensing**|Mehdi Karbalayghareh et.al.|[2607.18649](http://arxiv.org/abs/2607.18649)|null|
 |**2026-07-20**|**AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning**|Bas Meuwissen et.al.|[2607.17913](http://arxiv.org/abs/2607.17913)|**[link](https://github.com/Nousphera/AE_PSL)**|
 |**2026-07-19**|**Joint Channel Estimation and Dynamics-Aware Grouping for Time-Varying RIS-Assisted OTA Federated Learning**|Ziqi Li et.al.|[2607.17169](http://arxiv.org/abs/2607.17169)|null|
 |**2026-07-19**|**Blind Transpiler: An open-source library for universally blind and homomorphic quantum computations**|Mohit Joshi et.al.|[2607.17131](http://arxiv.org/abs/2607.17131)|null|

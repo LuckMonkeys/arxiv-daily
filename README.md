@@ -1,4 +1,4 @@
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Distributed Edge Learning under Imperfect Data Sensing**|Mehdi Karbalayghareh et.al.|[2607.18649](http://arxiv.org/abs/2607.18649)|null|
 |**2026-07-20**|**AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning**|Bas Meuwissen et.al.|[2607.17913](http://arxiv.org/abs/2607.17913)|**[link](https://github.com/Nousphera/AE_PSL)**|
 |**2026-07-19**|**Joint Channel Estimation and Dynamics-Aware Grouping for Time-Varying RIS-Assisted OTA Federated Learning**|Ziqi Li et.al.|[2607.17169](http://arxiv.org/abs/2607.17169)|null|
 |**2026-07-19**|**Blind Transpiler: An open-source library for universally blind and homomorphic quantum computations**|Mohit Joshi et.al.|[2607.17131](http://arxiv.org/abs/2607.17131)|null|
@@ -4836,7 +4837,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
 ## MMS
 
@@ -4876,7 +4877,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
