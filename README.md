@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**Chained Attacks on Drone-Based Federated Learning: From Network Disruption to Device Impersonation**|Suleiman Muhammad Sabo et.al.|[2607.20280](http://arxiv.org/abs/2607.20280)|null|
+|**2026-07-22**|**Autonomous Collaborative Learning Among an Ensemble of Tsetlin Machines with Consensus-Based Inference**|Yehuda Rudin et.al.|[2607.20124](http://arxiv.org/abs/2607.20124)|null|
+|**2026-07-22**|**Convergence-Latency-Aware Adaptive Modulation and Resource Allocation in RIS-Assisted Wireless Federated Learning**|Liwei Wang et.al.|[2607.19759](http://arxiv.org/abs/2607.19759)|null|
+|**2026-07-21**|**Understanding Developer Pain Points in Federated Learning: Insights from Stack Overflow and GitHub**|Sahand Saed et.al.|[2607.19621](http://arxiv.org/abs/2607.19621)|null|
+|**2026-07-21**|**Trustworthy Privacy-Preserving Multimodal Federated Learning for Personalised Breast Cancer Prediction**|Ruth Amey et.al.|[2607.19532](http://arxiv.org/abs/2607.19532)|null|
+|**2026-07-21**|**SynPre-FL: Synthetic data-driven pretraining integrated Federated Learning training framework**|Akarsh K Nair et.al.|[2607.19524](http://arxiv.org/abs/2607.19524)|null|
 |**2026-07-21**|**Distributed Edge Learning under Imperfect Data Sensing**|Mehdi Karbalayghareh et.al.|[2607.18649](http://arxiv.org/abs/2607.18649)|null|
 |**2026-07-20**|**AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning**|Bas Meuwissen et.al.|[2607.17913](http://arxiv.org/abs/2607.17913)|**[link](https://github.com/Nousphera/AE_PSL)**|
 |**2026-07-19**|**Joint Channel Estimation and Dynamics-Aware Grouping for Time-Varying RIS-Assisted OTA Federated Learning**|Ziqi Li et.al.|[2607.17169](http://arxiv.org/abs/2607.17169)|null|
