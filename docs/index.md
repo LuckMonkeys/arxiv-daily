@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**QuantumChain: Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection**|Epameinondas Douros et.al.|[2607.21449](http://arxiv.org/abs/2607.21449)|null|
+|**2026-07-23**|**Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries**|Hyeong-Gun Joo et.al.|[2607.20890](http://arxiv.org/abs/2607.20890)|null|
+|**2026-07-22**|**One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification**|Afsaneh Mahanipour et.al.|[2607.20641](http://arxiv.org/abs/2607.20641)|null|
 |**2026-07-22**|**Chained Attacks on Drone-Based Federated Learning: From Network Disruption to Device Impersonation**|Suleiman Muhammad Sabo et.al.|[2607.20280](http://arxiv.org/abs/2607.20280)|null|
 |**2026-07-22**|**Autonomous Collaborative Learning Among an Ensemble of Tsetlin Machines with Consensus-Based Inference**|Yehuda Rudin et.al.|[2607.20124](http://arxiv.org/abs/2607.20124)|null|
 |**2026-07-22**|**Convergence-Latency-Aware Adaptive Modulation and Resource Allocation in RIS-Assisted Wireless Federated Learning**|Liwei Wang et.al.|[2607.19759](http://arxiv.org/abs/2607.19759)|null|
