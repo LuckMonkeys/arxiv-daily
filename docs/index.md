@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Autonomous CSI Prediction Framework for O-RAN-Enabled 5G mmWave Vehicular Networks**|Abidemi Orimogunje et.al.|[2607.21963](http://arxiv.org/abs/2607.21963)|null|
+|**2026-07-22**|**A Drift Stable Quantum Federated Learning for Intelligent Services**|Shanika Iroshi Nanayakkara et.al.|[2607.21647](http://arxiv.org/abs/2607.21647)|null|
 |**2026-07-23**|**QuantumChain: Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection**|Epameinondas Douros et.al.|[2607.21449](http://arxiv.org/abs/2607.21449)|null|
 |**2026-07-23**|**Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries**|Hyeong-Gun Joo et.al.|[2607.20890](http://arxiv.org/abs/2607.20890)|null|
 |**2026-07-22**|**One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification**|Afsaneh Mahanipour et.al.|[2607.20641](http://arxiv.org/abs/2607.20641)|null|
