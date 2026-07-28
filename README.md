@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Learning Distributions from Multiple Data Providers**|Jon Kleinberg et.al.|[2607.24732](http://arxiv.org/abs/2607.24732)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-07-27**|**Every Client Is an Environment: Federated De-confounding for Spatio-Temporal Forecasting**|Qingxiang Liu et.al.|[2607.24218](http://arxiv.org/abs/2607.24218)|null|
+|**2026-07-27**|**Adaptive Data Admission and Retention for Streaming Federated Learning**|Zhuoyi Zhao et.al.|[2607.23987](http://arxiv.org/abs/2607.23987)|**[link](https://github.com/zhuoyijoeyzhao/AdaSamplingSFL)**|
 |**2026-07-26**|**Distributed Convolutional Rank Regression over Decentralized Networks**|Chunjing Li et.al.|[2607.23639](http://arxiv.org/abs/2607.23639)|null|
 |**2026-07-26**|**Age-of-Information Aware Federated Learning with Finite Speed Pinching Antenna**|Kaidi Wang et.al.|[2607.23595](http://arxiv.org/abs/2607.23595)|null|
 |**2026-07-25**|**FedTaste: Topology-Aware Structural Transfer for Multimodal Federated Learning with Missing Modalities**|Haochen Liang et.al.|[2607.23245](http://arxiv.org/abs/2607.23245)|null|
