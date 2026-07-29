@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling**|Fan Yang et.al.|[2607.26038](http://arxiv.org/abs/2607.26038)|null|
 |**2026-07-28**|**SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies**|Mohamed Nabih Ali et.al.|[2607.25716](http://arxiv.org/abs/2607.25716)|null|
 |**2026-07-28**|**PIcsC: Partitioning-Induced Covariate Shift Correction**|Behraj Khan et.al.|[2607.25441](http://arxiv.org/abs/2607.25441)|null|
 |**2026-07-28**|**Robust Unsupervised Network Intrusion Detection via Federated Learning with Selective Aggregation under Anomalous Sample Contamination**|Shohei Kamiguchi et.al.|[2607.25439](http://arxiv.org/abs/2607.25439)|**[link](https://github.com/nishio-laboratory/FLANDRE)**|
