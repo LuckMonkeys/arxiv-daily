@@ -1,4 +1,4 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,10 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies**|Mohamed Nabih Ali et.al.|[2607.25716](http://arxiv.org/abs/2607.25716)|null|
+|**2026-07-28**|**PIcsC: Partitioning-Induced Covariate Shift Correction**|Behraj Khan et.al.|[2607.25441](http://arxiv.org/abs/2607.25441)|null|
+|**2026-07-28**|**Robust Unsupervised Network Intrusion Detection via Federated Learning with Selective Aggregation under Anomalous Sample Contamination**|Shohei Kamiguchi et.al.|[2607.25439](http://arxiv.org/abs/2607.25439)|**[link](https://github.com/nishio-laboratory/FLANDRE)**|
+|**2026-07-28**|**Explainable AI for Chronic Kidney Disease Prediction Using Simulated Federated Learning**|Md Zahid Hasan Ontor et.al.|[2607.25348](http://arxiv.org/abs/2607.25348)|null|
+|**2026-07-27**|**MOSAIC-FL, a micro-service based privacy-preserving framework with application to genomics**|Paul Largillier et.al.|[2607.25107](http://arxiv.org/abs/2607.25107)|null|
 |**2026-07-27**|**Learning Distributions from Multiple Data Providers**|Jon Kleinberg et.al.|[2607.24732](http://arxiv.org/abs/2607.24732)|**[link](https://github.com/jettbrains/-L-)**|
 |**2026-07-27**|**Every Client Is an Environment: Federated De-confounding for Spatio-Temporal Forecasting**|Qingxiang Liu et.al.|[2607.24218](http://arxiv.org/abs/2607.24218)|null|
 |**2026-07-27**|**Adaptive Data Admission and Retention for Streaming Federated Learning**|Zhuoyi Zhao et.al.|[2607.23987](http://arxiv.org/abs/2607.23987)|**[link](https://github.com/zhuoyijoeyzhao/AdaSamplingSFL)**|
-|**2026-07-26**|**Distributed Convolutional Rank Regression over Decentralized Networks**|Chunjing Li et.al.|[2607.23639](http://arxiv.org/abs/2607.23639)|null|
+|**2026-07-28**|**Distributed Convolutional Rank Regression over Decentralized Networks**|Chunjing Li et.al.|[2607.23639](http://arxiv.org/abs/2607.23639)|null|
 |**2026-07-26**|**Age-of-Information Aware Federated Learning with Finite Speed Pinching Antenna**|Kaidi Wang et.al.|[2607.23595](http://arxiv.org/abs/2607.23595)|null|
 |**2026-07-25**|**FedTaste: Topology-Aware Structural Transfer for Multimodal Federated Learning with Missing Modalities**|Haochen Liang et.al.|[2607.23245](http://arxiv.org/abs/2607.23245)|null|
 |**2026-07-25**|**FedSLIM: Privacy-Preserving Federated MDL-Based Descriptive Pattern Mining Across Data Silos**|Samar Samir Khalil et.al.|[2607.23236](http://arxiv.org/abs/2607.23236)|null|
@@ -4858,7 +4863,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## MMS
 
@@ -4898,7 +4903,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
