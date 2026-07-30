@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Defending Against Backdoor Attacks via Alignment Checking in Model-Contrastive Federated Learning**|Hongliang Zhang et.al.|[2607.26933](http://arxiv.org/abs/2607.26933)|null|
+|**2026-07-29**|**FedTopo: Relation-Level Topology Sharing for Model-Heterogeneous Federated Learning**|Zhaoyang Ma et.al.|[2607.26801](http://arxiv.org/abs/2607.26801)|null|
+|**2026-07-29**|**Stable and Budget-Feasible Coalition Formation for Clustered Federated Learning: A Hedonic Potential-Game Approach**|Cengis Hasan et.al.|[2607.26788](http://arxiv.org/abs/2607.26788)|**[link](https://github.com/cengishasan/clustered-fl-coalition-formation)**|
+|**2026-07-29**|**An Informativeness-based Clustered Federated Learning Method for Reliable Traffic Prediction in Managed Wi-Fi Networks**|Luca Barbieri et.al.|[2607.26682](http://arxiv.org/abs/2607.26682)|null|
+|**2026-07-28**|**Studying Competing Events with Federated Cumulative Incidence Curves**|Malcolm Risk et.al.|[2607.26287](http://arxiv.org/abs/2607.26287)|null|
+|**2026-07-28**|**Where Physics Meets Privacy: Federated PINNs for Privacy-Preserving Brain Tumor Biomechanical Modeling**|Mahmuda Akter Sristy et.al.|[2607.26207](http://arxiv.org/abs/2607.26207)|null|
 |**2026-07-28**|**Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling**|Fan Yang et.al.|[2607.26038](http://arxiv.org/abs/2607.26038)|null|
 |**2026-07-28**|**SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies**|Mohamed Nabih Ali et.al.|[2607.25716](http://arxiv.org/abs/2607.25716)|null|
 |**2026-07-28**|**PIcsC: Partitioning-Induced Covariate Shift Correction**|Behraj Khan et.al.|[2607.25441](http://arxiv.org/abs/2607.25441)|null|
