@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
+|**2026-07-30**|**Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data**|Pouya Rajabi et.al.|[2607.28191](http://arxiv.org/abs/2607.28191)|null|
+|**2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Jaehun Jung et.al.|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
+|**2026-07-30**|**First-order Constrained Trilevel Optimization Over Distributed Networks for Robust Coreset Selection**|Yang Jiao et.al.|[2607.27632](http://arxiv.org/abs/2607.27632)|null|
 |**2026-07-29**|**Defending Against Backdoor Attacks via Alignment Checking in Model-Contrastive Federated Learning**|Hongliang Zhang et.al.|[2607.26933](http://arxiv.org/abs/2607.26933)|null|
 |**2026-07-29**|**FedTopo: Relation-Level Topology Sharing for Model-Heterogeneous Federated Learning**|Zhaoyang Ma et.al.|[2607.26801](http://arxiv.org/abs/2607.26801)|null|
 |**2026-07-29**|**Stable and Budget-Feasible Coalition Formation for Clustered Federated Learning: A Hedonic Potential-Game Approach**|Cengis Hasan et.al.|[2607.26788](http://arxiv.org/abs/2607.26788)|**[link](https://github.com/cengishasan/clustered-fl-coalition-formation)**|
@@ -4870,7 +4874,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## MMS
 
@@ -4892,6 +4896,7 @@
 |**2025-11-08**|**Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse**|Wenchao Dong et.al.|[2511.06091](http://arxiv.org/abs/2511.06091)|null|
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
+|**2025-11-24**|**CIF: A Constrained Inversion Framework for Reliable Message Extraction in Diffusion-Based Generative Steganography**|Yuqi Qian et.al.|[2508.00434](http://arxiv.org/abs/2508.00434)|null|
 |**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
@@ -4910,7 +4915,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
