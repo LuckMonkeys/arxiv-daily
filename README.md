@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**GQ-FSL: Green Quantized Federated Split Learning**|Idan Roth et.al.|[2607.29659](http://arxiv.org/abs/2607.29659)|null|
 |**2026-07-31**|**Wireless Aggregation Latency in Edge Learning with Fractional Power Control**|A. C. Vamshi Karthik et.al.|[2607.29248](http://arxiv.org/abs/2607.29248)|null|
 |**2026-07-31**|**Decoupled Probabilistic Forecasting and Arbitrage-Aware Refinement of Implied Volatility Surfaces**|Lifeng Hao et.al.|[2607.29220](http://arxiv.org/abs/2607.29220)|null|
 |**2026-07-31**|**Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients**|Shengkun Zhu et.al.|[2607.29071](http://arxiv.org/abs/2607.29071)|null|
