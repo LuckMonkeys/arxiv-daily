@@ -1,4 +1,4 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Wireless Aggregation Latency in Edge Learning with Fractional Power Control**|A. C. Vamshi Karthik et.al.|[2607.29248](http://arxiv.org/abs/2607.29248)|null|
+|**2026-07-31**|**Decoupled Probabilistic Forecasting and Arbitrage-Aware Refinement of Implied Volatility Surfaces**|Lifeng Hao et.al.|[2607.29220](http://arxiv.org/abs/2607.29220)|null|
+|**2026-07-31**|**Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients**|Shengkun Zhu et.al.|[2607.29071](http://arxiv.org/abs/2607.29071)|null|
+|**2026-07-31**|**Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning**|Junbo Wang et.al.|[2607.29045](http://arxiv.org/abs/2607.29045)|null|
+|**2026-07-30**|**The AnyLog Edge Data Fabric**|Roy Shadmon et.al.|[2607.28836](http://arxiv.org/abs/2607.28836)|null|
+|**2026-07-30**|**FedQML-Edge: Compact Quantum Feature Sketches for Communication-Constrained Roadside Federated Learning**|Talha Azfar et.al.|[2607.28799](http://arxiv.org/abs/2607.28799)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data**|Pouya Rajabi et.al.|[2607.28191](http://arxiv.org/abs/2607.28191)|null|
 |**2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Jaehun Jung et.al.|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
@@ -4874,7 +4880,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## MMS
 
@@ -4915,7 +4921,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
