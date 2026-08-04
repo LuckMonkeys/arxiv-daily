@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Pairwise-Independent Dithering for Single-Stage Hadamard Quantization**|Honghao Lin et.al.|[2608.02564](http://arxiv.org/abs/2608.02564)|null|
+|**2026-08-03**|**Assessing the Impacts of Imperfect Datasets on Client Selections in Federated Learning**|Yuan-Heng Tsai et.al.|[2608.02250](http://arxiv.org/abs/2608.02250)|null|
+|**2026-08-03**|**CRIP: Channel Level Representation Injection for Personalized One-Shot Federated Learning**|Zijian Jiang et.al.|[2608.02222](http://arxiv.org/abs/2608.02222)|null|
+|**2026-08-03**|**FedJigsaw: Multi-Agent Collaborative Model Reassembly for Decentralized Heterogeneous Federated Learning**|Jifeng Chen et.al.|[2608.01861](http://arxiv.org/abs/2608.01861)|null|
+|**2026-08-03**|**Rethinking Personalized Reward Modeling for LLMs under Preference Heterogeneity via Group-Debiased Federated Learning**|Seongyoon Kim et.al.|[2608.01556](http://arxiv.org/abs/2608.01556)|null|
+|**2026-08-02**|**MineGrad: Gradient Inversion Attacks on LoRA Fine-Tuning**|Hasin Us Sami et.al.|[2608.01521](http://arxiv.org/abs/2608.01521)|null|
+|**2026-08-02**|**Cluster-Aware Over-the-Air Federated Learning with Energy-Harvesting Devices: From Global Training to Model Personalization**|Furkan Bagci et.al.|[2608.01426](http://arxiv.org/abs/2608.01426)|null|
+|**2026-08-02**|**Reputation-driven Cooperation in Lattice-based Decentralized Federated Learning through Evolutionary Game Theory**|Phuc Hoang Truong Huynh et.al.|[2608.01197](http://arxiv.org/abs/2608.01197)|null|
+|**2026-08-02**|**FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity**|Ganghyeon Lee et.al.|[2608.01129](http://arxiv.org/abs/2608.01129)|null|
+|**2026-08-02**|**FL-OA: A Byzantine-Robust Federated Learning Framework with Outsourced Auditing for Intelligent Devices**|Hongliang Zhang et.al.|[2608.01095](http://arxiv.org/abs/2608.01095)|null|
 |**2026-08-01**|**Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation**|Muhammad Irfan Khan et.al.|[2608.00872](http://arxiv.org/abs/2608.00872)|null|
 |**2026-08-01**|**Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks**|Masoud Ghazikor et.al.|[2608.00855](http://arxiv.org/abs/2608.00855)|null|
 |**2026-08-01**|**Design and Implementation of Schwarz Information Criterion-Aided Intelligent Decentralized Resource Allocation in Dynamic LoRa Networks**|Aohan Li et.al.|[2608.00409](http://arxiv.org/abs/2608.00409)|null|
