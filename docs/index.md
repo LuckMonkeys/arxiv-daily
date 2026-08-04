@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-01**|**Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation**|Muhammad Irfan Khan et.al.|[2608.00872](http://arxiv.org/abs/2608.00872)|null|
+|**2026-08-01**|**Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks**|Masoud Ghazikor et.al.|[2608.00855](http://arxiv.org/abs/2608.00855)|null|
+|**2026-08-01**|**Design and Implementation of Schwarz Information Criterion-Aided Intelligent Decentralized Resource Allocation in Dynamic LoRa Networks**|Aohan Li et.al.|[2608.00409](http://arxiv.org/abs/2608.00409)|null|
+|**2026-08-01**|**Understanding Federated Learning Through the Lens of Mechanism Design: The Role of Data Heterogeneity**|Lina Alkarmi et.al.|[2608.00364](http://arxiv.org/abs/2608.00364)|null|
 |**2026-07-31**|**GQ-FSL: Green Quantized Federated Split Learning**|Idan Roth et.al.|[2607.29659](http://arxiv.org/abs/2607.29659)|null|
 |**2026-07-31**|**Wireless Aggregation Latency in Edge Learning with Fractional Power Control**|A. C. Vamshi Karthik et.al.|[2607.29248](http://arxiv.org/abs/2607.29248)|null|
 |**2026-07-31**|**Decoupled Probabilistic Forecasting and Arbitrage-Aware Refinement of Implied Volatility Surfaces**|Lifeng Hao et.al.|[2607.29220](http://arxiv.org/abs/2607.29220)|null|
