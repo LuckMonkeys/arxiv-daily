@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution**|Chenhan Xiao et.al.|[2608.03878](http://arxiv.org/abs/2608.03878)|null|
 |**2026-08-04**|**FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare**|Rojalini Tripathy et.al.|[2608.03498](http://arxiv.org/abs/2608.03498)|null|
 |**2026-08-04**|**FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations**|Ziwu Liu et.al.|[2608.03436](http://arxiv.org/abs/2608.03436)|null|
 |**2026-08-04**|**AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning**|Shengyang Li et.al.|[2608.03324](http://arxiv.org/abs/2608.03324)|null|
