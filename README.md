@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Simon Lösche et.al.|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
+|**2026-08-05**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al.|[2608.04753](http://arxiv.org/abs/2608.04753)|null|
+|**2026-08-04**|**FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks**|An Khanh Bui et.al.|[2608.04073](http://arxiv.org/abs/2608.04073)|null|
+|**2026-08-04**|**Robust and Personalized Federated Learning for Aircraft-Engine Prognostics under Benign and Adversarial Client Heterogeneity**|Chinmoy Mitra et.al.|[2608.04045](http://arxiv.org/abs/2608.04045)|null|
 |**2026-08-04**|**Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution**|Chenhan Xiao et.al.|[2608.03878](http://arxiv.org/abs/2608.03878)|null|
 |**2026-08-04**|**FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare**|Rojalini Tripathy et.al.|[2608.03498](http://arxiv.org/abs/2608.03498)|null|
 |**2026-08-04**|**FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations**|Ziwu Liu et.al.|[2608.03436](http://arxiv.org/abs/2608.03436)|null|
@@ -4901,7 +4905,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## MMS
 
@@ -4942,7 +4946,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Simon Lösche et.al.|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
+|**2026-08-05**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al.|[2608.04753](http://arxiv.org/abs/2608.04753)|null|
+|**2026-08-04**|**FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks**|An Khanh Bui et.al.|[2608.04073](http://arxiv.org/abs/2608.04073)|null|
+|**2026-08-04**|**Robust and Personalized Federated Learning for Aircraft-Engine Prognostics under Benign and Adversarial Client Heterogeneity**|Chinmoy Mitra et.al.|[2608.04045](http://arxiv.org/abs/2608.04045)|null|
 |**2026-08-04**|**Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution**|Chenhan Xiao et.al.|[2608.03878](http://arxiv.org/abs/2608.03878)|null|
 |**2026-08-04**|**FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare**|Rojalini Tripathy et.al.|[2608.03498](http://arxiv.org/abs/2608.03498)|null|
 |**2026-08-04**|**FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations**|Ziwu Liu et.al.|[2608.03436](http://arxiv.org/abs/2608.03436)|null|
