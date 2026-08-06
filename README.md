@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al.|[2608.05127](http://arxiv.org/abs/2608.05127)|null|
 |**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Simon Lösche et.al.|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
 |**2026-08-05**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al.|[2608.04753](http://arxiv.org/abs/2608.04753)|null|
 |**2026-08-04**|**FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks**|An Khanh Bui et.al.|[2608.04073](http://arxiv.org/abs/2608.04073)|null|
