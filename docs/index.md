@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems**|Manideep Dhar et.al.|[2608.06112](http://arxiv.org/abs/2608.06112)|null|
+|**2026-08-06**|**When Agentic AI Meets Integrated Sensing and Communication**|Kai Li et.al.|[2608.05792](http://arxiv.org/abs/2608.05792)|null|
+|**2026-08-05**|**Sparse Principal Component Analysis via Wavelets for Distributed Data**|Giovanni Barbosa Herrero et.al.|[2608.05386](http://arxiv.org/abs/2608.05386)|null|
+|**2026-08-05**|**DG-FedReuse: Proxy-Gradient-Gated Cached-Update Reuse with Matched Sparse Uplink Accounting**|Rahil Aftab et.al.|[2608.05358](http://arxiv.org/abs/2608.05358)|null|
 |**2026-08-05**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al.|[2608.05127](http://arxiv.org/abs/2608.05127)|null|
 |**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Simon Lösche et.al.|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
 |**2026-08-05**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al.|[2608.04753](http://arxiv.org/abs/2608.04753)|null|

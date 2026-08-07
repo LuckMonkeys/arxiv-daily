@@ -1,4 +1,4 @@
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems**|Manideep Dhar et.al.|[2608.06112](http://arxiv.org/abs/2608.06112)|null|
+|**2026-08-06**|**When Agentic AI Meets Integrated Sensing and Communication**|Kai Li et.al.|[2608.05792](http://arxiv.org/abs/2608.05792)|null|
+|**2026-08-05**|**Sparse Principal Component Analysis via Wavelets for Distributed Data**|Giovanni Barbosa Herrero et.al.|[2608.05386](http://arxiv.org/abs/2608.05386)|null|
+|**2026-08-05**|**DG-FedReuse: Proxy-Gradient-Gated Cached-Update Reuse with Matched Sparse Uplink Accounting**|Rahil Aftab et.al.|[2608.05358](http://arxiv.org/abs/2608.05358)|null|
 |**2026-08-05**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al.|[2608.05127](http://arxiv.org/abs/2608.05127)|null|
 |**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Simon Lösche et.al.|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
 |**2026-08-05**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al.|[2608.04753](http://arxiv.org/abs/2608.04753)|null|
@@ -4906,7 +4910,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 ## MMS
 
@@ -4947,7 +4951,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
