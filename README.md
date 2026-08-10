@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity**|Deepank Girish et.al.|[2608.07393](http://arxiv.org/abs/2608.07393)|null|
+|**2026-08-07**|**TOFD: Target-Oriented Feature Decoupling against Poisoning Attacks in Split Federated Learning**|Yuhan Xie et.al.|[2608.07274](http://arxiv.org/abs/2608.07274)|null|
+|**2026-08-07**|**Fluid-DiT: Graph-Free Diffusion Transformers for Fluid Flow Simulations Learning**|Shentong Mo et.al.|[2608.07161](http://arxiv.org/abs/2608.07161)|null|
+|**2026-08-07**|**Capacity Confounds and Coverage Guarantees in Adaptive Sub-model Federated Learning**|Alireza Moayedikia et.al.|[2608.07157](http://arxiv.org/abs/2608.07157)|null|
+|**2026-08-07**|**FedLBW: A Loss-Based Weighting Strategy for Federated Learning on Non-IID Data in Wireless Networks**|Majid Kundroo et.al.|[2608.07007](http://arxiv.org/abs/2608.07007)|null|
+|**2026-08-07**|**FedVAR: Prototype-Aligned Federated Framework for Video Anomaly Recognition**|Ghani Haider et.al.|[2608.06876](http://arxiv.org/abs/2608.06876)|null|
+|**2026-08-06**|**Bypassing Krum: Selection-Aware Backdoor Attacks in Federated Learning**|Srinivasan Subramanian et.al.|[2608.06637](http://arxiv.org/abs/2608.06637)|null|
+|**2026-08-06**|**Theoretical Foundations of Communication-Efficient, Robust, and Practical Distributed and Federated Optimization**|Grigory Malinovsky et.al.|[2608.06563](http://arxiv.org/abs/2608.06563)|null|
+|**2026-08-06**|**FedTransKD-IDS: Robust Federated Transfer Learning with Knowledge Distillation for Intrusion Detection in IoT**|Mohammad Hosssein Gholamrezazadeh et.al.|[2608.06447](http://arxiv.org/abs/2608.06447)|null|
 |**2026-08-06**|**From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems**|Manideep Dhar et.al.|[2608.06112](http://arxiv.org/abs/2608.06112)|null|
 |**2026-08-06**|**When Agentic AI Meets Integrated Sensing and Communication**|Kai Li et.al.|[2608.05792](http://arxiv.org/abs/2608.05792)|null|
 |**2026-08-05**|**Sparse Principal Component Analysis via Wavelets for Distributed Data**|Giovanni Barbosa Herrero et.al.|[2608.05386](http://arxiv.org/abs/2608.05386)|null|
