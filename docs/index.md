@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Defining Decentralization: An Ontological Perspective**|Jakub Kacper Szeląg et.al.|[2608.09748](http://arxiv.org/abs/2608.09748)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-08-10**|**Rethinking Factor Sharing in Federated LoRA: A Rank-Aware Adaptive Approach**|Xinyi Xu et.al.|[2608.09742](http://arxiv.org/abs/2608.09742)|null|
+|**2026-08-10**|**FedOrbit: Adaptive Personalized Federated Learning for Non-IID LEO Satellite Constellations**|Satwat Bashir et.al.|[2608.09687](http://arxiv.org/abs/2608.09687)|null|
+|**2026-08-10**|**Targeted Label-Flipping and Oversampling Attacks on Federated Conditional GANs**|Panav Shah et.al.|[2608.09314](http://arxiv.org/abs/2608.09314)|null|
+|**2026-08-10**|**FEAST: Federated Shared-Space Training for Resource-Heterogeneous Clients**|Bostan Khan et.al.|[2608.09250](http://arxiv.org/abs/2608.09250)|null|
+|**2026-08-10**|**Multimodal Federated Learning under Dual-Axis Modality Missingness**|Adiba Orzikulova et.al.|[2608.09240](http://arxiv.org/abs/2608.09240)|null|
+|**2026-08-10**|**Label Granularity Skew in Federated Learning with Hierarchical Image Classification**|Jaeheon Kim et.al.|[2608.09236](http://arxiv.org/abs/2608.09236)|null|
+|**2026-08-10**|**FedTVD: Balancing Data Quality and Quantity for Robust Federated Learning**|Radwan Selo et.al.|[2608.09221](http://arxiv.org/abs/2608.09221)|null|
+|**2026-08-10**|**FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning**|Van Truong Vo et.al.|[2608.09208](http://arxiv.org/abs/2608.09208)|null|
+|**2026-08-10**|**Personalized Federated Learning via Variance-Aware Nonparametric Empirical Bayes**|Jae Ho Chang et.al.|[2608.09074](http://arxiv.org/abs/2608.09074)|null|
 |**2026-08-07**|**FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity**|Deepank Girish et.al.|[2608.07393](http://arxiv.org/abs/2608.07393)|null|
 |**2026-08-07**|**TOFD: Target-Oriented Feature Decoupling against Poisoning Attacks in Split Federated Learning**|Yuhan Xie et.al.|[2608.07274](http://arxiv.org/abs/2608.07274)|null|
 |**2026-08-07**|**Fluid-DiT: Graph-Free Diffusion Transformers for Fluid Flow Simulations Learning**|Shentong Mo et.al.|[2608.07161](http://arxiv.org/abs/2608.07161)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Defining Decentralization: An Ontological Perspective**|Jakub Kacper Szeląg et.al.|[2608.09748](http://arxiv.org/abs/2608.09748)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-08-10**|**Rethinking Factor Sharing in Federated LoRA: A Rank-Aware Adaptive Approach**|Xinyi Xu et.al.|[2608.09742](http://arxiv.org/abs/2608.09742)|null|
+|**2026-08-10**|**FedOrbit: Adaptive Personalized Federated Learning for Non-IID LEO Satellite Constellations**|Satwat Bashir et.al.|[2608.09687](http://arxiv.org/abs/2608.09687)|null|
+|**2026-08-10**|**Targeted Label-Flipping and Oversampling Attacks on Federated Conditional GANs**|Panav Shah et.al.|[2608.09314](http://arxiv.org/abs/2608.09314)|null|
+|**2026-08-10**|**FEAST: Federated Shared-Space Training for Resource-Heterogeneous Clients**|Bostan Khan et.al.|[2608.09250](http://arxiv.org/abs/2608.09250)|null|
+|**2026-08-10**|**Multimodal Federated Learning under Dual-Axis Modality Missingness**|Adiba Orzikulova et.al.|[2608.09240](http://arxiv.org/abs/2608.09240)|null|
+|**2026-08-10**|**Label Granularity Skew in Federated Learning with Hierarchical Image Classification**|Jaeheon Kim et.al.|[2608.09236](http://arxiv.org/abs/2608.09236)|null|
+|**2026-08-10**|**FedTVD: Balancing Data Quality and Quantity for Robust Federated Learning**|Radwan Selo et.al.|[2608.09221](http://arxiv.org/abs/2608.09221)|null|
+|**2026-08-10**|**FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning**|Van Truong Vo et.al.|[2608.09208](http://arxiv.org/abs/2608.09208)|null|
+|**2026-08-10**|**Personalized Federated Learning via Variance-Aware Nonparametric Empirical Bayes**|Jae Ho Chang et.al.|[2608.09074](http://arxiv.org/abs/2608.09074)|null|
 |**2026-08-07**|**FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity**|Deepank Girish et.al.|[2608.07393](http://arxiv.org/abs/2608.07393)|null|
 |**2026-08-07**|**TOFD: Target-Oriented Feature Decoupling against Poisoning Attacks in Split Federated Learning**|Yuhan Xie et.al.|[2608.07274](http://arxiv.org/abs/2608.07274)|null|
 |**2026-08-07**|**Fluid-DiT: Graph-Free Diffusion Transformers for Fluid Flow Simulations Learning**|Shentong Mo et.al.|[2608.07161](http://arxiv.org/abs/2608.07161)|null|
@@ -4919,7 +4929,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 ## MMS
 
@@ -4960,7 +4970,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
