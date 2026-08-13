@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Beyond Parameter Space: NTK-Guided Personalized Aggregation for Robust Federated Learning**|Mirko Konstantin et.al.|[2608.12108](http://arxiv.org/abs/2608.12108)|null|
+|**2026-08-12**|**Hierarchical Federated Transfer Learning in Digital Twin-Based Vehicular Networks**|Qasim Zia et.al.|[2608.11532](http://arxiv.org/abs/2608.11532)|null|
+|**2026-08-11**|**Federated Learning for Distributed CNC Tool Wear Prediction**|Afsana Khan et.al.|[2608.11281](http://arxiv.org/abs/2608.11281)|null|
 |**2026-08-10**|**Defining Decentralization: An Ontological Perspective**|Jakub Kacper Szeląg et.al.|[2608.09748](http://arxiv.org/abs/2608.09748)|**[link](https://github.com/jettbrains/-L-)**|
 |**2026-08-10**|**Rethinking Factor Sharing in Federated LoRA: A Rank-Aware Adaptive Approach**|Xinyi Xu et.al.|[2608.09742](http://arxiv.org/abs/2608.09742)|null|
 |**2026-08-10**|**FedOrbit: Adaptive Personalized Federated Learning for Non-IID LEO Satellite Constellations**|Satwat Bashir et.al.|[2608.09687](http://arxiv.org/abs/2608.09687)|null|
