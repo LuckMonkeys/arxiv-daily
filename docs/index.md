@@ -1223,6 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Designing Sustainable Federated Learning as a Service using Neural Architecture Search**|Keya Patel et.al.|[2608.14359](http://arxiv.org/abs/2608.14359)|null|
+|**2026-08-14**|**Could Model Partitioning Make Federated Learning More Sustainable?**|Tobias Frohlich et.al.|[2608.14242](http://arxiv.org/abs/2608.14242)|null|
+|**2026-08-14**|**Budget-Aware Federated Dual-Side Channel Estimation for Hybrid mmWave Massive MIMO**|Jiawei Chen et.al.|[2608.14182](http://arxiv.org/abs/2608.14182)|null|
+|**2026-08-14**|**Polar Code Based Federated Learning: Convergence Analysis and Resource Allocation**|Han Xiao et.al.|[2608.13961](http://arxiv.org/abs/2608.13961)|null|
+|**2026-08-14**|**Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning**|Chun-Hua Lin et.al.|[2608.13914](http://arxiv.org/abs/2608.13914)|null|
+|**2026-08-14**|**MedMix: Specialization-Consistent Federated Sparse MoEs under Modality Heterogeneity**|Adiba Orzikulova et.al.|[2608.13911](http://arxiv.org/abs/2608.13911)|null|
+|**2026-08-14**|**Dual-Layer Over-the-Air Federated Learning in LEO Satellite Networks: Architecture, Key Technologies and Applications**|Zhendong Li et.al.|[2608.13885](http://arxiv.org/abs/2608.13885)|null|
+|**2026-08-14**|**Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions**|Qinglin Yang et.al.|[2608.13844](http://arxiv.org/abs/2608.13844)|null|
 |**2026-08-13**|**Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning**|Yikai Xu et.al.|[2608.13418](http://arxiv.org/abs/2608.13418)|null|
 |**2026-08-13**|**Understanding Backdoor Vulnerabilities in Vertical Federated Learning: The Gap Between Research and Practice**|Ziqi Zhao et.al.|[2608.12962](http://arxiv.org/abs/2608.12962)|null|
 |**2026-08-13**|**Federated Compositional Muon Optimizer for Matrix-Wise Models**|Wang Yan et.al.|[2608.12710](http://arxiv.org/abs/2608.12710)|null|
