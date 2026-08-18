@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**CoM $^3$ eT: A foundation model for medical image analysis through federated, multidimensional context integration**|J. Raphael Schäfer et.al.|[2608.16268](http://arxiv.org/abs/2608.16268)|null|
+|**2026-08-16**|**Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation**|Chenwang Liu et.al.|[2608.15660](http://arxiv.org/abs/2608.15660)|null|
+|**2026-08-16**|**When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**|Wenhao Yuan et.al.|[2608.15639](http://arxiv.org/abs/2608.15639)|null|
+|**2026-08-16**|**UniFed-VLM: Federated Instruction Tuning for Vision-Language Models with Multiple Heterogeneity**|Pengyu Wang et.al.|[2608.15516](http://arxiv.org/abs/2608.15516)|null|
+|**2026-08-15**|**MoE Router-Guided Clustering for Heterogeneous Federated Instruction Tuning**|Ankita Sharma et.al.|[2608.15311](http://arxiv.org/abs/2608.15311)|null|
+|**2026-08-15**|**FedADB: Class Anchor-Driven Dual-Branch Federated Learning for Mitigating Forgetting**|Zhenyan Liu et.al.|[2608.15310](http://arxiv.org/abs/2608.15310)|null|
+|**2026-08-15**|**Decentralized Federated Learning for Heterogeneous Multi-Task Semantic Communication**|Lin Yin et.al.|[2608.15256](http://arxiv.org/abs/2608.15256)|null|
+|**2026-08-15**|**An Adaptive Gradient Clipping and Noise Injection Mechanism for Differentially Private Federated Learning**|Wenjing Wei et.al.|[2608.15153](http://arxiv.org/abs/2608.15153)|null|
+|**2026-08-15**|**Global Federated Learning Strategies for Building Efficient Personalized Models**|Seongyoon Kim et.al.|[2608.15107](http://arxiv.org/abs/2608.15107)|null|
+|**2026-08-15**|**PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity**|Jindi Wu et.al.|[2608.14995](http://arxiv.org/abs/2608.14995)|null|
 |**2026-08-14**|**Designing Sustainable Federated Learning as a Service using Neural Architecture Search**|Keya Patel et.al.|[2608.14359](http://arxiv.org/abs/2608.14359)|null|
 |**2026-08-14**|**Could Model Partitioning Make Federated Learning More Sustainable?**|Tobias Frohlich et.al.|[2608.14242](http://arxiv.org/abs/2608.14242)|null|
 |**2026-08-14**|**Budget-Aware Federated Dual-Side Channel Estimation for Hybrid mmWave Massive MIMO**|Jiawei Chen et.al.|[2608.14182](http://arxiv.org/abs/2608.14182)|null|
