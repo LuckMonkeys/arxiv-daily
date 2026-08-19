@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Efficient Resource Optimization for Split Federated Learning**|Wei Wei et.al.|[2608.17849](http://arxiv.org/abs/2608.17849)|**[link](https://github.com/Nirmal-22/Straggler-Resilient-Federated-Learning-Framework-Using-Split-Learning-Methodology)**|
+|**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
+|**2026-08-17**|**Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction**|Aditya Kumar et.al.|[2608.17069](http://arxiv.org/abs/2608.17069)|**[link](https://github.com/Sumitchongder/dew-p-qfl-unlearning)**|
 |**2026-08-17**|**CoM $^3$ eT: A foundation model for medical image analysis through federated, multidimensional context integration**|J. Raphael Schäfer et.al.|[2608.16268](http://arxiv.org/abs/2608.16268)|null|
 |**2026-08-16**|**Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation**|Chenwang Liu et.al.|[2608.15660](http://arxiv.org/abs/2608.15660)|null|
 |**2026-08-16**|**When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation**|Wenhao Yuan et.al.|[2608.15639](http://arxiv.org/abs/2608.15639)|null|
