@@ -13,7 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-18**|**Efficient Resource Optimization for Split Federated Learning**|Wei Wei et.al.|[2608.17849](http://arxiv.org/abs/2608.17849)|null|
+|**2026-08-19**|**FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems**|Md Kibria Saroare et.al.|[2608.19155](http://arxiv.org/abs/2608.19155)|null|
+|**2026-08-19**|**Autonomous Cyber Defense in Connected Vehicles: A Multi-Agent Approach to V2X Security**|Krishna Teja Medam et.al.|[2608.19135](http://arxiv.org/abs/2608.19135)|null|
+|**2026-08-19**|**FedLNS: Leverage LayerNorm Signature Modeling to Mitigate Adversarial Manipulation in Federated LLMs**|Kai Li et.al.|[2608.18736](http://arxiv.org/abs/2608.18736)|null|
+|**2026-08-19**|**Coordination on a Budget: Federated Active Learning with Few Labels**|Liam Mohr et.al.|[2608.18634](http://arxiv.org/abs/2608.18634)|null|
+|**2026-08-18**|**FedCoRe: Target-Adaptive Completion for Missing Modalities in Healthcare Federated Learning**|Holger R. Roth et.al.|[2608.18311](http://arxiv.org/abs/2608.18311)|null|
+|**2026-08-18**|**Efficient Resource Optimization for Split Federated Learning**|Wei Wei et.al.|[2608.17849](http://arxiv.org/abs/2608.17849)|**[link](https://github.com/Nirmal-22/Straggler-Resilient-Federated-Learning-Framework-Using-Split-Learning-Methodology)**|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
 |**2026-08-17**|**Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction**|Aditya Kumar et.al.|[2608.17069](http://arxiv.org/abs/2608.17069)|**[link](https://github.com/Sumitchongder/dew-p-qfl-unlearning)**|
 |**2026-08-17**|**CoM $^3$ eT: A foundation model for medical image analysis through federated, multidimensional context integration**|J. Raphael Schäfer et.al.|[2608.16268](http://arxiv.org/abs/2608.16268)|null|
@@ -4962,6 +4967,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Beyond Distortion Robustness: Rethinking Severe Cropping as Erasure-Resilient Message Embedding**|Bo Pang et.al.|[2608.18567](http://arxiv.org/abs/2608.18567)|null|
 |**2026-05-19**|**Tackle CSM in JPEG Steganalysis with Data Adaptation**|Rony Abecidan et.al.|[2605.21523](http://arxiv.org/abs/2605.21523)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-01**|**MARSAD: A Multi-Functional Tool for Real-Time Social Media Analysis**|Md. Rafiul Biswas et.al.|[2512.01369](http://arxiv.org/abs/2512.01369)|null|
