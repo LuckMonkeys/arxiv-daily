@@ -1,4 +1,4 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-18**|**Efficient Resource Optimization for Split Federated Learning**|Wei Wei et.al.|[2608.17849](http://arxiv.org/abs/2608.17849)|**[link](https://github.com/Nirmal-22/Straggler-Resilient-Federated-Learning-Framework-Using-Split-Learning-Methodology)**|
+|**2026-08-18**|**Efficient Resource Optimization for Split Federated Learning**|Wei Wei et.al.|[2608.17849](http://arxiv.org/abs/2608.17849)|null|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
 |**2026-08-17**|**Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction**|Aditya Kumar et.al.|[2608.17069](http://arxiv.org/abs/2608.17069)|**[link](https://github.com/Sumitchongder/dew-p-qfl-unlearning)**|
 |**2026-08-17**|**CoM $^3$ eT: A foundation model for medical image analysis through federated, multidimensional context integration**|J. Raphael Schäfer et.al.|[2608.16268](http://arxiv.org/abs/2608.16268)|null|
@@ -4956,7 +4956,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## MMS
 
@@ -4997,7 +4997,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
