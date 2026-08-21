@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**MOSAIC: Modality-agnostic Spectral Alignment for Federated Image-level Weakly Supervised Tumor Segmentation under Client-specific Missing Modalities**|Tarun Kumar Garg et.al.|[2608.19788](http://arxiv.org/abs/2608.19788)|null|
+|**2026-08-20**|**Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images**|Yuki Itabashi et.al.|[2608.19650](http://arxiv.org/abs/2608.19650)|null|
+|**2026-08-20**|**Differential Privacy in Feature Reconstruction Aided Federated Learning for Agent's Semantic Communication Model Update**|Yoon Huh et.al.|[2608.19649](http://arxiv.org/abs/2608.19649)|null|
+|**2026-08-20**|**AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning**|Ye Tao et.al.|[2608.19534](http://arxiv.org/abs/2608.19534)|null|
+|**2026-08-19**|**A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones**|Lena D. Swamikannan et.al.|[2608.19462](http://arxiv.org/abs/2608.19462)|null|
 |**2026-08-19**|**FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems**|Md Kibria Saroare et.al.|[2608.19155](http://arxiv.org/abs/2608.19155)|null|
 |**2026-08-19**|**Autonomous Cyber Defense in Connected Vehicles: A Multi-Agent Approach to V2X Security**|Krishna Teja Medam et.al.|[2608.19135](http://arxiv.org/abs/2608.19135)|null|
 |**2026-08-19**|**FedLNS: Leverage LayerNorm Signature Modeling to Mitigate Adversarial Manipulation in Federated LLMs**|Kai Li et.al.|[2608.18736](http://arxiv.org/abs/2608.18736)|null|
