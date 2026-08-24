@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning**|Mouhamed Amine Bouchiha et.al.|[2608.21137](http://arxiv.org/abs/2608.21137)|null|
+|**2026-08-21**|**FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space**|Jiahong Liu et.al.|[2608.21096](http://arxiv.org/abs/2608.21096)|null|
+|**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[2608.20580](http://arxiv.org/abs/2608.20580)|null|
+|**2026-08-20**|**FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning**|Jiajun Wu et.al.|[2608.20518](http://arxiv.org/abs/2608.20518)|null|
 |**2026-08-20**|**MOSAIC: Modality-agnostic Spectral Alignment for Federated Image-level Weakly Supervised Tumor Segmentation under Client-specific Missing Modalities**|Tarun Kumar Garg et.al.|[2608.19788](http://arxiv.org/abs/2608.19788)|null|
 |**2026-08-20**|**Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images**|Yuki Itabashi et.al.|[2608.19650](http://arxiv.org/abs/2608.19650)|null|
 |**2026-08-20**|**Differential Privacy in Feature Reconstruction Aided Federated Learning for Agent's Semantic Communication Model Update**|Yoon Huh et.al.|[2608.19649](http://arxiv.org/abs/2608.19649)|null|
