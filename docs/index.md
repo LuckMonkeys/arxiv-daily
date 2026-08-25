@@ -1223,7 +1223,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-21**|**BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning**|Mouhamed Amine Bouchiha et.al.|[2608.21137](http://arxiv.org/abs/2608.21137)|null|
+|**2026-08-24**|**How Much Regularization Survives Averaging? Update Masking in Federated Learning**|Wenhao Yan et.al.|[2608.23286](http://arxiv.org/abs/2608.23286)|null|
+|**2026-08-24**|**FedCC: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning**|Wenxuan Ye et.al.|[2608.23031](http://arxiv.org/abs/2608.23031)|null|
+|**2026-08-24**|**A Momentum-Based Variance-Reduced Algorithm for Federated Multiobjective Optimization**|Yong Zhao et.al.|[2608.22945](http://arxiv.org/abs/2608.22945)|null|
+|**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
+|**2026-08-23**|**GCA: Global Centroid Alignment in Federated Learning**|Jong-Ik Park et.al.|[2608.22593](http://arxiv.org/abs/2608.22593)|null|
+|**2026-08-23**|**Model-Consistent Byzantine-Resilient Decentralized Federated Learning for Collaborative Missions**|Yue Li et.al.|[2608.22552](http://arxiv.org/abs/2608.22552)|null|
+|**2026-08-23**|**Unveiling the Depth-Performance Dilemma in Split-Federated Fine-tuning of LLMs**|Hariharan Ramesh et.al.|[2608.22188](http://arxiv.org/abs/2608.22188)|null|
+|**2026-08-21**|**Federated Continual Learning as a Distributed Drift-Plus-Penalty Control Problem**|Nazreen Shah et.al.|[2608.21539](http://arxiv.org/abs/2608.21539)|null|
+|**2026-08-24**|**BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning**|Mouhamed Amine Bouchiha et.al.|[2608.21137](http://arxiv.org/abs/2608.21137)|null|
 |**2026-08-21**|**FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space**|Jiahong Liu et.al.|[2608.21096](http://arxiv.org/abs/2608.21096)|null|
 |**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[2608.20580](http://arxiv.org/abs/2608.20580)|null|
 |**2026-08-20**|**FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning**|Jiajun Wu et.al.|[2608.20518](http://arxiv.org/abs/2608.20518)|null|
@@ -6202,7 +6210,7 @@ layout: default
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
 |**2025-11-24**|**CIF: A Constrained Inversion Framework for Reliable Message Extraction in Diffusion-Based Generative Steganography**|Yuqi Qian et.al.|[2508.00434](http://arxiv.org/abs/2508.00434)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
