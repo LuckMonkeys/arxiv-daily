@@ -13,7 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-24**|**How Much Regularization Survives Averaging? Update Masking in Federated Learning**|Wenhao Yan et.al.|[2608.23286](http://arxiv.org/abs/2608.23286)|null|
+|**2026-08-25**|**MDTE: Minority-Aware Diffusion over Temporal Edge Events for Imbalanced Node Classification**|Zhou Zelong et.al.|[2608.24812](http://arxiv.org/abs/2608.24812)|null|
+|**2026-08-25**|**Test-Time Collaborative Classification over Multi-Agent Networks**|Ping Hu et.al.|[2608.24787](http://arxiv.org/abs/2608.24787)|null|
+|**2026-08-24**|**Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks**|Daniel Manu et.al.|[2608.24610](http://arxiv.org/abs/2608.24610)|null|
+|**2026-08-25**|**SatDL: Jointly Optimizing Data Redistribution and Training for Satellite-Based Distributed Learning**|Hao Wu et.al.|[2608.24516](http://arxiv.org/abs/2608.24516)|null|
+|**2026-08-25**|**ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal**|Bohan Zhang et.al.|[2608.24073](http://arxiv.org/abs/2608.24073)|null|
+|**2026-08-25**|**STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning**|Ashlinder Kaur et.al.|[2608.23952](http://arxiv.org/abs/2608.23952)|null|
+|**2026-08-25**|**Generalization, memorization, and overfitting for diffusion models trained in the lazy high-dimensional regime**|Hugo Latourelle-Vigeant et.al.|[2608.23938](http://arxiv.org/abs/2608.23938)|null|
+|**2026-08-25**|**How Much Regularization Survives Averaging? Update Masking in Federated Learning**|Wenhao Yan et.al.|[2608.23286](http://arxiv.org/abs/2608.23286)|null|
 |**2026-08-24**|**FedCC: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning**|Wenxuan Ye et.al.|[2608.23031](http://arxiv.org/abs/2608.23031)|null|
 |**2026-08-24**|**A Momentum-Based Variance-Reduced Algorithm for Federated Multiobjective Optimization**|Yong Zhao et.al.|[2608.22945](http://arxiv.org/abs/2608.22945)|null|
 |**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
@@ -5012,7 +5019,7 @@
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
