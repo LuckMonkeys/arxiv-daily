@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**How Edge of Stability Hinders SCAFFOLD in Federated Optimization**|Anant Khandelwal et.al.|[2608.25873](http://arxiv.org/abs/2608.25873)|null|
+|**2026-08-26**|**Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data**|Rene Glitza et.al.|[2608.25794](http://arxiv.org/abs/2608.25794)|null|
+|**2026-08-26**|**Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW**|Nguyen Van Thieu et.al.|[2608.25535](http://arxiv.org/abs/2608.25535)|null|
+|**2026-08-26**|**Joint Beamforming Design and Port Selection in Fluid Antenna-Assisted Multi-Cell Networks: A Personalized Federated Learning Approach**|Liwen Gao et.al.|[2608.25514](http://arxiv.org/abs/2608.25514)|null|
+|**2026-08-26**|**Lightweight AI for UAV-Mounted RIS: An Overview**|Sherief Hashima et.al.|[2608.25402](http://arxiv.org/abs/2608.25402)|null|
+|**2026-08-25**|**Rethinking the Transferable Adversarial Attacks and Robust Defense in Federated Learning**|Zuobin Xiong et.al.|[2608.25133](http://arxiv.org/abs/2608.25133)|null|
+|**2026-08-25**|**Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment**|Yan Gao et.al.|[2608.25114](http://arxiv.org/abs/2608.25114)|null|
 |**2026-08-25**|**MDTE: Minority-Aware Diffusion over Temporal Edge Events for Imbalanced Node Classification**|Zhou Zelong et.al.|[2608.24812](http://arxiv.org/abs/2608.24812)|null|
 |**2026-08-25**|**Test-Time Collaborative Classification over Multi-Agent Networks**|Ping Hu et.al.|[2608.24787](http://arxiv.org/abs/2608.24787)|null|
 |**2026-08-24**|**Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks**|Daniel Manu et.al.|[2608.24610](http://arxiv.org/abs/2608.24610)|null|
@@ -6227,7 +6234,7 @@ layout: default
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
