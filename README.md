@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Personalized Federated Learning for Tensor Regression**|Kejun Chen et.al.|[2608.27191](http://arxiv.org/abs/2608.27191)|null|
+|**2026-08-27**|**SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring**|Baran Can Gül et.al.|[2608.27108](http://arxiv.org/abs/2608.27108)|null|
+|**2026-08-27**|**An Accurate and Single-Communication Federated Inference Algorithm**|Laura Montagnani et.al.|[2608.27063](http://arxiv.org/abs/2608.27063)|null|
+|**2026-08-26**|**FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation**|Amelia Sorrenti et.al.|[2608.26433](http://arxiv.org/abs/2608.26433)|null|
 |**2026-08-26**|**How Edge of Stability Hinders SCAFFOLD in Federated Optimization**|Anant Khandelwal et.al.|[2608.25873](http://arxiv.org/abs/2608.25873)|null|
 |**2026-08-26**|**Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data**|Rene Glitza et.al.|[2608.25794](http://arxiv.org/abs/2608.25794)|null|
 |**2026-08-26**|**Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW**|Nguyen Van Thieu et.al.|[2608.25535](http://arxiv.org/abs/2608.25535)|null|
@@ -4992,13 +4996,13 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## MMS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-19**|**Beyond Distortion Robustness: Rethinking Severe Cropping as Erasure-Resilient Message Embedding**|Bo Pang et.al.|[2608.18567](http://arxiv.org/abs/2608.18567)|null|
+|**2026-08-27**|**Beyond Distortion Robustness: Rethinking Severe Cropping as Erasure-Resilient Message Embedding**|Bo Pang et.al.|[2608.18567](http://arxiv.org/abs/2608.18567)|null|
 |**2026-05-19**|**Tackle CSM in JPEG Steganalysis with Data Adaptation**|Rony Abecidan et.al.|[2605.21523](http://arxiv.org/abs/2605.21523)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-01**|**MARSAD: A Multi-Functional Tool for Real-Time Social Media Analysis**|Md. Rafiul Biswas et.al.|[2512.01369](http://arxiv.org/abs/2512.01369)|null|
@@ -5034,7 +5038,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
