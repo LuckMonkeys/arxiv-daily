@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Quantum Federated Learning Based on Bures--Uhlmann Geometry for Heterogeneous Noisy Clients**|Haruki Emori et.al.|[2608.28379](http://arxiv.org/abs/2608.28379)|null|
+|**2026-08-28**|**FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**|Jun Bai et.al.|[2608.27856](http://arxiv.org/abs/2608.27856)|null|
+|**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
+|**2026-08-28**|**Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization**|Jianing Chen et.al.|[2608.27791](http://arxiv.org/abs/2608.27791)|null|
+|**2026-08-27**|**Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy**|Yucheng Fu et.al.|[2608.27766](http://arxiv.org/abs/2608.27766)|null|
+|**2026-08-27**|**Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning**|Yiming Xie et.al.|[2608.27715](http://arxiv.org/abs/2608.27715)|**[link](https://github.com/Yiming25/beyond-non-iid-learner-client-mismatch)**|
+|**2026-08-27**|**DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge**|Yiming Xie et.al.|[2608.27713](http://arxiv.org/abs/2608.27713)|null|
+|**2026-08-28**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[2608.27429](http://arxiv.org/abs/2608.27429)|null|
 |**2026-08-27**|**Personalized Federated Learning for Tensor Regression**|Kejun Chen et.al.|[2608.27191](http://arxiv.org/abs/2608.27191)|null|
 |**2026-08-27**|**SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring**|Baran Can Gül et.al.|[2608.27108](http://arxiv.org/abs/2608.27108)|null|
 |**2026-08-27**|**An Accurate and Single-Communication Federated Inference Algorithm**|Laura Montagnani et.al.|[2608.27063](http://arxiv.org/abs/2608.27063)|null|
