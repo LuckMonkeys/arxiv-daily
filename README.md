@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Optimizing Byzantine Node Placement in Decentralized Federated Learning**|Edoardo Gabrielli et.al.|[2609.01495](http://arxiv.org/abs/2609.01495)|null|
+|**2026-09-01**|**Just Talk Once: Communication-Efficient Split Federated LLM Fine-Tuning on Edge Devices**|Jiaxiang Geng et.al.|[2609.01457](http://arxiv.org/abs/2609.01457)|**[link](https://github.com/BESTTOOLBOX/Just-Talk-Once)**|
+|**2026-09-01**|**PopPert: Population-level Joint-Distribution Modeling for Single-Cell Perturbation Prediction**|Handong Wang et.al.|[2609.01357](http://arxiv.org/abs/2609.01357)|null|
 |**2026-09-01**|**FractalNet-Based Heterogeneous Federated Learning for Orbital Edge Intelligence in Satellite Mega-Constellations: A Wildfire Case Study**|Sai Puppala et.al.|[2609.00875](http://arxiv.org/abs/2609.00875)|null|
 |**2026-09-01**|**Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**|Lei Wang et.al.|[2609.00632](http://arxiv.org/abs/2609.00632)|null|
 |**2026-08-31**|**CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning**|Baraa Bilbeisi et.al.|[2609.00446](http://arxiv.org/abs/2609.00446)|null|
