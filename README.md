@@ -1,4 +1,4 @@
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**FractalNet-Based Heterogeneous Federated Learning for Orbital Edge Intelligence in Satellite Mega-Constellations: A Wildfire Case Study**|Sai Puppala et.al.|[2609.00875](http://arxiv.org/abs/2609.00875)|null|
+|**2026-09-01**|**Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**|Lei Wang et.al.|[2609.00632](http://arxiv.org/abs/2609.00632)|null|
+|**2026-08-31**|**CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning**|Baraa Bilbeisi et.al.|[2609.00446](http://arxiv.org/abs/2609.00446)|null|
 |**2026-08-29**|**CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning**|Masaki Nakada et.al.|[2608.28992](http://arxiv.org/abs/2608.28992)|null|
 |**2026-08-28**|**Quantum Federated Learning Based on Bures--Uhlmann Geometry for Heterogeneous Noisy Clients**|Haruki Emori et.al.|[2608.28379](http://arxiv.org/abs/2608.28379)|null|
 |**2026-08-28**|**FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**|Jun Bai et.al.|[2608.27856](http://arxiv.org/abs/2608.27856)|null|
@@ -5005,7 +5008,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## MMS
 
@@ -5047,7 +5050,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

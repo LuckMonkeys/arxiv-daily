@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**FractalNet-Based Heterogeneous Federated Learning for Orbital Edge Intelligence in Satellite Mega-Constellations: A Wildfire Case Study**|Sai Puppala et.al.|[2609.00875](http://arxiv.org/abs/2609.00875)|null|
+|**2026-09-01**|**Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**|Lei Wang et.al.|[2609.00632](http://arxiv.org/abs/2609.00632)|null|
+|**2026-08-31**|**CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning**|Baraa Bilbeisi et.al.|[2609.00446](http://arxiv.org/abs/2609.00446)|null|
 |**2026-08-29**|**CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning**|Masaki Nakada et.al.|[2608.28992](http://arxiv.org/abs/2608.28992)|null|
 |**2026-08-28**|**Quantum Federated Learning Based on Bures--Uhlmann Geometry for Heterogeneous Noisy Clients**|Haruki Emori et.al.|[2608.28379](http://arxiv.org/abs/2608.28379)|null|
 |**2026-08-28**|**FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**|Jun Bai et.al.|[2608.27856](http://arxiv.org/abs/2608.27856)|null|
