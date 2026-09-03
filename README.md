@@ -1,4 +1,4 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|Md Abrar Jahin et.al.|[2609.02519](http://arxiv.org/abs/2609.02519)|null|
+|**2026-09-02**|**CACTUS: Mask-Guided Semantic Clean-Label Backdoors in Decentralized Federated Learning**|Chao Feng et.al.|[2609.02450](http://arxiv.org/abs/2609.02450)|null|
+|**2026-09-02**|**Similarity-Aware Personalized Federated Learning in Heterogeneous Environments**|Arun Kumar A et.al.|[2609.02241](http://arxiv.org/abs/2609.02241)|null|
+|**2026-09-02**|**Federated Learning on the American Science Cloud using APPFL**|Zilinghan Li et.al.|[2609.02238](http://arxiv.org/abs/2609.02238)|null|
+|**2026-09-02**|**Towards Global Federated Genome-Wide Association Meta-Analysis Using GA4GH TES**|Abhijit Chunduru et.al.|[2609.02227](http://arxiv.org/abs/2609.02227)|null|
+|**2026-09-02**|**Federated LoRA Adaptation of BiomedCLIP Across Four International Chest X-Ray Cohorts**|Sanjaya Poudel et.al.|[2609.02101](http://arxiv.org/abs/2609.02101)|**[link](https://github.com/GaireLaboratory/FedLoRA-BiomedCLIP)**|
+|**2026-09-02**|**InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation**|Ziquan Liu et.al.|[2609.02004](http://arxiv.org/abs/2609.02004)|null|
+|**2026-09-01**|**Convergence Theory of Knowledge Distillation in Asynchronous P2P Gossip Learning Network**|Lucas Qingyang Fang et.al.|[2609.01952](http://arxiv.org/abs/2609.01952)|null|
+|**2026-09-01**|**Pushing Forward Multi-Secret-Key Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2609.01945](http://arxiv.org/abs/2609.01945)|null|
+|**2026-09-01**|**D-FROST: Decentralized Federated pRompt-tuning via Optimal tranSporT for Non-IID and Imbalanced Data**|Quan Minh Nguyen et.al.|[2609.01802](http://arxiv.org/abs/2609.01802)|null|
 |**2026-09-01**|**Optimizing Byzantine Node Placement in Decentralized Federated Learning**|Edoardo Gabrielli et.al.|[2609.01495](http://arxiv.org/abs/2609.01495)|null|
 |**2026-09-01**|**Just Talk Once: Communication-Efficient Split Federated LLM Fine-Tuning on Edge Devices**|Jiaxiang Geng et.al.|[2609.01457](http://arxiv.org/abs/2609.01457)|**[link](https://github.com/BESTTOOLBOX/Just-Talk-Once)**|
 |**2026-09-01**|**PopPert: Population-level Joint-Distribution Modeling for Single-Cell Perturbation Prediction**|Handong Wang et.al.|[2609.01357](http://arxiv.org/abs/2609.01357)|null|
@@ -5011,7 +5021,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## MMS
 
@@ -5053,7 +5063,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
