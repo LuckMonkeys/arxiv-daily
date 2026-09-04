@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Pushing the (Decision) Boundaries: Dynamically Calibrating Differentially Private Noise to Explainability in Federated Learning**|Michael Khavkin et.al.|[2609.03851](http://arxiv.org/abs/2609.03851)|null|
+|**2026-09-03**|**Govern the Model, Not Only the Data: Storage, Circulation, and Learning in Creative AI**|Phoenix Perry et.al.|[2609.03800](http://arxiv.org/abs/2609.03800)|null|
+|**2026-09-03**|**Closing the Semantic-Edge Gap: Tiny Language Models for 6G Wireless Intelligence**|Srikanth Kamath et.al.|[2609.03747](http://arxiv.org/abs/2609.03747)|null|
+|**2026-09-03**|**Privacy, Robustness, and Fairness Trade-offs in Federated Intrusion Detection: Geometric Indistinguishability at the Aggregation Interface**|Adrita Rahman Tory et.al.|[2609.03420](http://arxiv.org/abs/2609.03420)|null|
+|**2026-09-02**|**Adaptive Beam Hopping and Power Control for Dual-Layer Over-the-Air Online Federated Learning in LEO Satellite Networks**|Zhendong Li et.al.|[2609.03202](http://arxiv.org/abs/2609.03202)|null|
+|**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[2609.03064](http://arxiv.org/abs/2609.03064)|null|
+|**2026-09-02**|**From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning**|Rémi Bourgerie et.al.|[2609.02984](http://arxiv.org/abs/2609.02984)|null|
+|**2026-09-02**|**Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks**|Ali Akarma et.al.|[2609.02971](http://arxiv.org/abs/2609.02971)|null|
 |**2026-09-02**|**Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion**|Md Abrar Jahin et.al.|[2609.02519](http://arxiv.org/abs/2609.02519)|null|
 |**2026-09-02**|**CACTUS: Mask-Guided Semantic Clean-Label Backdoors in Decentralized Federated Learning**|Chao Feng et.al.|[2609.02450](http://arxiv.org/abs/2609.02450)|null|
 |**2026-09-02**|**Similarity-Aware Personalized Federated Learning in Heterogeneous Environments**|Arun Kumar A et.al.|[2609.02241](http://arxiv.org/abs/2609.02241)|null|
