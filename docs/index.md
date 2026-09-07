@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
 |**2026-09-04**|**FedDRAW: Federated Dual Reputation Annealing Weighting for Heterogeneous Multi-Institutional Chest Radiograph Classification**|Maryam Moradpour et.al.|[2609.05223](http://arxiv.org/abs/2609.05223)|null|
 |**2026-09-04**|**Solution-space heterogeneity shapes federated learning dynamics across partial differential equations**|Ping Luo et.al.|[2609.05012](http://arxiv.org/abs/2609.05012)|null|
 |**2026-09-04**|**Task-oriented Framework for Communication-Efficient Federated Learning: From Isolated Optimization to Holistic Synergy**|Fuqiang Pan et.al.|[2609.04945](http://arxiv.org/abs/2609.04945)|null|
