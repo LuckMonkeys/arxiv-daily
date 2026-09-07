@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**FedDRAW: Federated Dual Reputation Annealing Weighting for Heterogeneous Multi-Institutional Chest Radiograph Classification**|Maryam Moradpour et.al.|[2609.05223](http://arxiv.org/abs/2609.05223)|null|
+|**2026-09-04**|**Solution-space heterogeneity shapes federated learning dynamics across partial differential equations**|Ping Luo et.al.|[2609.05012](http://arxiv.org/abs/2609.05012)|null|
+|**2026-09-04**|**Task-oriented Framework for Communication-Efficient Federated Learning: From Isolated Optimization to Holistic Synergy**|Fuqiang Pan et.al.|[2609.04945](http://arxiv.org/abs/2609.04945)|null|
+|**2026-09-04**|**Communication-Efficient Personalized Federated Learning via Layer-Wise Multi-Threshold Random Sketching**|Xu Zhang et.al.|[2609.04830](http://arxiv.org/abs/2609.04830)|null|
+|**2026-09-04**|**Federated Attack Campaign Detection via Contrastive Encoding of Threat Indicators in Gradient Updates**|Manuel Röder et.al.|[2609.04815](http://arxiv.org/abs/2609.04815)|null|
+|**2026-09-04**|**Resilience Beyond Stationary Client Unavailability: Unlocking Efficient and Unbiased Federated Learning**|Ming Xiang et.al.|[2609.04763](http://arxiv.org/abs/2609.04763)|null|
 |**2026-09-03**|**Pushing the (Decision) Boundaries: Dynamically Calibrating Differentially Private Noise to Explainability in Federated Learning**|Michael Khavkin et.al.|[2609.03851](http://arxiv.org/abs/2609.03851)|null|
 |**2026-09-03**|**Govern the Model, Not Only the Data: Storage, Circulation, and Learning in Creative AI**|Phoenix Perry et.al.|[2609.03800](http://arxiv.org/abs/2609.03800)|null|
 |**2026-09-03**|**Closing the Semantic-Edge Gap: Tiny Language Models for 6G Wireless Intelligence**|Srikanth Kamath et.al.|[2609.03747](http://arxiv.org/abs/2609.03747)|null|
@@ -6261,7 +6267,7 @@ layout: default
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
 |**2025-11-24**|**CIF: A Constrained Inversion Framework for Reliable Message Extraction in Diffusion-Based Generative Steganography**|Yuqi Qian et.al.|[2508.00434](http://arxiv.org/abs/2508.00434)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
