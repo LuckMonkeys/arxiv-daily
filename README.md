@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**When Topology Betrays Privacy: Lattice-Based Reconstruction Attacks on Secure Aggregation in Decentralized Federated Learning**|Wenrui Yu et.al.|[2609.08476](http://arxiv.org/abs/2609.08476)|null|
+|**2026-09-08**|**Geographically Regularized AUC-Maximizing Personalized Federated Learning**|Mayu Hiraishi et.al.|[2609.08379](http://arxiv.org/abs/2609.08379)|null|
+|**2026-09-08**|**Non-Coherent Over-the-Air Federated Learning: Protocol, Convergence, and Device Scheduling**|Haifeng Wen et.al.|[2609.08312](http://arxiv.org/abs/2609.08312)|null|
+|**2026-09-07**|**Federated Binary Gating with Server-Side Vision-Language Inference for Surveillance Anomaly Classification**|Côme-Alexis Puech et.al.|[2609.07403](http://arxiv.org/abs/2609.07403)|null|
+|**2026-09-07**|**Robust Decentralized Personalized Federated Learning via Prediction-Constrained Neighborhood Collaboration**|Xiao Ma et.al.|[2609.07312](http://arxiv.org/abs/2609.07312)|**[link](https://github.com/MPUMxX/R-PDFL)**|
+|**2026-09-07**|**Robust Decentralized Federated Distillation via Multi-Modality Knowledge Collaboration**|Xiao Ma et.al.|[2609.07230](http://arxiv.org/abs/2609.07230)|null|
+|**2026-09-07**|**FedRAW: Preserving Rare-Label Influence in Asynchronous Federated Learning**|Prashant Bajpai et.al.|[2609.07192](http://arxiv.org/abs/2609.07192)|null|
+|**2026-09-07**|**Fine-grained Distributed Backdoor Attacks in Federated Learning**|Jian Wang et.al.|[2609.07147](http://arxiv.org/abs/2609.07147)|null|
+|**2026-09-07**|**Distributed Secure Learning Control for Large-scale Multirobots under Stealthy Actuator Attacks**|Xinglong Zhang et.al.|[2609.06896](http://arxiv.org/abs/2609.06896)|null|
+|**2026-09-06**|**Novel Methods for Catheter and Guidewire Segmentation in X-ray Fluoroscopy under a Federated Learning Setting**|Chayun Kongtongvattana et.al.|[2609.06876](http://arxiv.org/abs/2609.06876)|null|
 |**2026-09-05**|**Hierarchical Fourier Approximation for Variational Quantum Distribution Learning**|Taha Hoseinpour Asli et.al.|[2609.06307](http://arxiv.org/abs/2609.06307)|null|
 |**2026-09-05**|**FANS: Federated Adaptive Network Search Learning for Heterogeneous Devices**|Jiaxin Zhang et.al.|[2609.06106](http://arxiv.org/abs/2609.06106)|null|
 |**2026-09-05**|**FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon**|Shaolong Chen et.al.|[2609.06073](http://arxiv.org/abs/2609.06073)|null|
