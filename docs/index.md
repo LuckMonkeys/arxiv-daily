@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-05**|**Hierarchical Fourier Approximation for Variational Quantum Distribution Learning**|Taha Hoseinpour Asli et.al.|[2609.06307](http://arxiv.org/abs/2609.06307)|null|
+|**2026-09-05**|**FANS: Federated Adaptive Network Search Learning for Heterogeneous Devices**|Jiaxin Zhang et.al.|[2609.06106](http://arxiv.org/abs/2609.06106)|null|
+|**2026-09-05**|**FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon**|Shaolong Chen et.al.|[2609.06073](http://arxiv.org/abs/2609.06073)|null|
+|**2026-09-05**|**CoCoFL_Continual_Computing_for_Federated_Learning_over_Intermittent_Satellite-Ground_Links**|Yun Shen et.al.|[2609.05997](http://arxiv.org/abs/2609.05997)|null|
+|**2026-09-05**|**CALM: Class-wise Agreement and Label-gated Disagreement Modulation for Decentralized Federated Learning**|Yifan Ying et.al.|[2609.05884](http://arxiv.org/abs/2609.05884)|null|
 |**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
 |**2026-09-04**|**FedDRAW: Federated Dual Reputation Annealing Weighting for Heterogeneous Multi-Institutional Chest Radiograph Classification**|Maryam Moradpour et.al.|[2609.05223](http://arxiv.org/abs/2609.05223)|null|
 |**2026-09-04**|**Solution-space heterogeneity shapes federated learning dynamics across partial differential equations**|Ping Luo et.al.|[2609.05012](http://arxiv.org/abs/2609.05012)|null|
