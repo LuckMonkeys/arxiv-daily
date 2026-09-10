@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**HybridFLow: SDN-Orchestrated Client Partitioning for Hybrid Federated Learning**|Osama Abu Hamdan et.al.|[2609.10404](http://arxiv.org/abs/2609.10404)|null|
 |**2026-09-09**|**OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis**|Ayush Debnath et.al.|[2609.10364](http://arxiv.org/abs/2609.10364)|null|
 |**2026-09-09**|**A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction**|Chunxu Zhang et.al.|[2609.10108](http://arxiv.org/abs/2609.10108)|null|
 |**2026-09-09**|**Beyond Conventional Federated Learning via High-Order Regularization**|Alireza Kabgani et.al.|[2609.09904](http://arxiv.org/abs/2609.09904)|null|
