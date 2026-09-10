@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis**|Ayush Debnath et.al.|[2609.10364](http://arxiv.org/abs/2609.10364)|null|
+|**2026-09-09**|**A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction**|Chunxu Zhang et.al.|[2609.10108](http://arxiv.org/abs/2609.10108)|null|
+|**2026-09-09**|**Beyond Conventional Federated Learning via High-Order Regularization**|Alireza Kabgani et.al.|[2609.09904](http://arxiv.org/abs/2609.09904)|null|
+|**2026-09-09**|**Privacy-Preserving Split Learning for Federated LLM Fine-Tuning**|Heng Jin et.al.|[2609.09794](http://arxiv.org/abs/2609.09794)|null|
+|**2026-09-09**|**NEXUS-MI: Communication-Aware Federated Personalization for Gateway-Coordinated Motor-Imagery Brain-Computer Interfaces**|Daniel Adu Worae et.al.|[2609.09786](http://arxiv.org/abs/2609.09786)|null|
+|**2026-09-09**|**Cascading Gradient Inversion via LT-Code Inspired Peeling in Federated Learning**|Saeed Shariati et.al.|[2609.09659](http://arxiv.org/abs/2609.09659)|null|
+|**2026-09-09**|**Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G**|Zhuodong Liu et.al.|[2609.09591](http://arxiv.org/abs/2609.09591)|null|
 |**2026-09-08**|**When Topology Betrays Privacy: Lattice-Based Reconstruction Attacks on Secure Aggregation in Decentralized Federated Learning**|Wenrui Yu et.al.|[2609.08476](http://arxiv.org/abs/2609.08476)|null|
 |**2026-09-08**|**Geographically Regularized AUC-Maximizing Personalized Federated Learning**|Mayu Hiraishi et.al.|[2609.08379](http://arxiv.org/abs/2609.08379)|null|
 |**2026-09-08**|**Non-Coherent Over-the-Air Federated Learning: Protocol, Convergence, and Device Scheduling**|Haifeng Wen et.al.|[2609.08312](http://arxiv.org/abs/2609.08312)|null|
