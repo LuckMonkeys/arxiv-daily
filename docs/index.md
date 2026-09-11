@@ -1223,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs**|Jordi Luque et.al.|[2609.11762](http://arxiv.org/abs/2609.11762)|null|
 |**2026-09-10**|**Brain-PACE: A Deep Siamese MRI Framework for Modelling Longitudinal Brain Acceleration**|Samuel Maddox et.al.|[2609.11378](http://arxiv.org/abs/2609.11378)|null|
 |**2026-09-10**|**Byzantine-tolerant distributed learning of finite mixture models under partial corruptions**|Yimei Zhang et.al.|[2609.11309](http://arxiv.org/abs/2609.11309)|null|
 |**2026-09-09**|**Byzantine-Robust Federated Fire Detection with a Rotating Coordinator**|Georgia Argyrou et.al.|[2609.10647](http://arxiv.org/abs/2609.10647)|null|
