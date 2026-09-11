@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Brain-PACE: A Deep Siamese MRI Framework for Modelling Longitudinal Brain Acceleration**|Samuel Maddox et.al.|[2609.11378](http://arxiv.org/abs/2609.11378)|null|
+|**2026-09-10**|**Byzantine-tolerant distributed learning of finite mixture models under partial corruptions**|Yimei Zhang et.al.|[2609.11309](http://arxiv.org/abs/2609.11309)|null|
+|**2026-09-09**|**Byzantine-Robust Federated Fire Detection with a Rotating Coordinator**|Georgia Argyrou et.al.|[2609.10647](http://arxiv.org/abs/2609.10647)|null|
 |**2026-09-09**|**HybridFLow: SDN-Orchestrated Client Partitioning for Hybrid Federated Learning**|Osama Abu Hamdan et.al.|[2609.10404](http://arxiv.org/abs/2609.10404)|null|
 |**2026-09-09**|**OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis**|Ayush Debnath et.al.|[2609.10364](http://arxiv.org/abs/2609.10364)|null|
 |**2026-09-09**|**A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction**|Chunxu Zhang et.al.|[2609.10108](http://arxiv.org/abs/2609.10108)|null|
