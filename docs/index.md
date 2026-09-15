@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication**|Yilin Xu et.al.|[2609.15950](http://arxiv.org/abs/2609.15950)|null|
+|**2026-09-14**|**Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation**|Zhen Zhong et.al.|[2609.15885](http://arxiv.org/abs/2609.15885)|null|
+|**2026-09-14**|**LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys**|Md Khalid Syfullah et.al.|[2609.15871](http://arxiv.org/abs/2609.15871)|null|
+|**2026-09-14**|**Scalability and Performance Evaluation of Federated Learning Frameworks: A Comparative Analysis**|Bassel Soudan et.al.|[2609.15681](http://arxiv.org/abs/2609.15681)|null|
+|**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
+|**2026-09-14**|**FedLTLib: A Comprehensive Benchmark for Federated Long-Tail Learning**|Changkun Lin et.al.|[2609.15625](http://arxiv.org/abs/2609.15625)|null|
+|**2026-09-14**|**Through the Eyes of the Beholder: Biometric and Demographic Conditioning for Multimodal Sexism Detection**|Ana-Maria Luisa Mocanu et.al.|[2609.15608](http://arxiv.org/abs/2609.15608)|null|
+|**2026-09-14**|**End-to-End Verifiable and Robust Federated Learning**|Doryan Lesaignoux et.al.|[2609.15521](http://arxiv.org/abs/2609.15521)|null|
+|**2026-09-14**|**A Game-Theoretic Framework for Incentive-Compatible AI training Under Renewable-Energy Constraints**|Konstantinos Varsos et.al.|[2609.15389](http://arxiv.org/abs/2609.15389)|null|
+|**2026-09-13**|**OCT-FedSIR: Toward Trustworthy Federated Ophthalmic Learning under Annotation Noise**|Sina Gholami et.al.|[2609.14734](http://arxiv.org/abs/2609.14734)|null|
 |**2026-09-10**|**Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs**|Jordi Luque et.al.|[2609.11762](http://arxiv.org/abs/2609.11762)|null|
 |**2026-09-10**|**Brain-PACE: A Deep Siamese MRI Framework for Modelling Longitudinal Brain Acceleration**|Samuel Maddox et.al.|[2609.11378](http://arxiv.org/abs/2609.11378)|null|
 |**2026-09-10**|**Byzantine-tolerant distributed learning of finite mixture models under partial corruptions**|Yimei Zhang et.al.|[2609.11309](http://arxiv.org/abs/2609.11309)|null|
