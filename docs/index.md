@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Personalized Federated Learning through Global Knowledge Distillation and Local Head Adaptation**|Polycarpo Souza Neto et.al.|[2609.17284](http://arxiv.org/abs/2609.17284)|null|
+|**2026-09-15**|**Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation**|Chethana Prasad Kabgere et.al.|[2609.16977](http://arxiv.org/abs/2609.16977)|**[link](https://github.com/ChethanaPrasadK/Structural-Negative-Transfer-in-Federated-Graph-Neural-Networks)**|
+|**2026-09-15**|**Decentralized Gossip Learning and Federated Averaging for Histopathology Image Classification**|Yusuf Ozturk et.al.|[2609.16448](http://arxiv.org/abs/2609.16448)|null|
+|**2026-09-15**|**Adaptive Bayesian Partner Selection for Federated Clinical Centers**|Navid Seidi et.al.|[2609.16446](http://arxiv.org/abs/2609.16446)|null|
+|**2026-09-14**|**SWB-DM: A Calibrated Sliced-Wasserstein-Barycenter Aggregator with Delayed-Momentum Caching for Byzantine-Robust Federated Learning under Partial Participation**|Saranraj S et.al.|[2609.16099](http://arxiv.org/abs/2609.16099)|null|
 |**2026-09-14**|**Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication**|Yilin Xu et.al.|[2609.15950](http://arxiv.org/abs/2609.15950)|null|
 |**2026-09-14**|**Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation**|Zhen Zhong et.al.|[2609.15885](http://arxiv.org/abs/2609.15885)|null|
 |**2026-09-14**|**LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys**|Md Khalid Syfullah et.al.|[2609.15871](http://arxiv.org/abs/2609.15871)|null|
