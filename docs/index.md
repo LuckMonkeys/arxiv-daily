@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**FedPGT: Progressive Gradient Transmission for Vehicular Federated Learning over Time-Varying Channels**|Jintao Yan et.al.|[2609.18089](http://arxiv.org/abs/2609.18089)|null|
+|**2026-09-15**|**Optimal Resource Extraction under Distribution Learning and Infinite-Horizon Stochastic Hamilton--Jacobi Equations**|Ulrich Horst et.al.|[2609.17717](http://arxiv.org/abs/2609.17717)|null|
 |**2026-09-15**|**Personalized Federated Learning through Global Knowledge Distillation and Local Head Adaptation**|Polycarpo Souza Neto et.al.|[2609.17284](http://arxiv.org/abs/2609.17284)|null|
 |**2026-09-15**|**Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation**|Chethana Prasad Kabgere et.al.|[2609.16977](http://arxiv.org/abs/2609.16977)|**[link](https://github.com/ChethanaPrasadK/Structural-Negative-Transfer-in-Federated-Graph-Neural-Networks)**|
 |**2026-09-15**|**Decentralized Gossip Learning and Federated Averaging for Histopathology Image Classification**|Yusuf Ozturk et.al.|[2609.16448](http://arxiv.org/abs/2609.16448)|null|
