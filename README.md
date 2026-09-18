@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Accelerating Sharded Data Parallelism at Scale with Federated Learning**|Gianluca Mittone et.al.|[2609.20359](http://arxiv.org/abs/2609.20359)|null|
+|**2026-09-17**|**QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles**|Baran Can Gül et.al.|[2609.20123](http://arxiv.org/abs/2609.20123)|null|
+|**2026-09-17**|**Equivalence Between Nested Gibbs Measures and Log-Linear Combinations of Gibbs Measures**|Yaiza Bermudez et.al.|[2609.19988](http://arxiv.org/abs/2609.19988)|null|
+|**2026-09-17**|**Efficiently Distributed Federated Learning**|Gianluca Mittone et.al.|[2609.19972](http://arxiv.org/abs/2609.19972)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
+|**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Haolong Li et.al.|[2609.19923](http://arxiv.org/abs/2609.19923)|null|
+|**2026-09-17**|**Federated Learning Framework for Privacy-Preserving Kidney Stone Detection**|Najiyya Younas et.al.|[2609.19740](http://arxiv.org/abs/2609.19740)|null|
+|**2026-09-17**|**Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems**|Mohammed El Hanjri et.al.|[2609.19695](http://arxiv.org/abs/2609.19695)|null|
+|**2026-09-17**|**FedFIbOS: Fisher Importance based Optimal Submodelling for Heterogeneous Federated Learning**|Yasmeen Afzal et.al.|[2609.19559](http://arxiv.org/abs/2609.19559)|null|
+|**2026-09-16**|**Federated Soft Clustering via Generalized Total Variation Minimization**|Shamsiiat Abdurakhmanova et.al.|[2609.19202](http://arxiv.org/abs/2609.19202)|null|
 |**2026-09-16**|**FedPGT: Progressive Gradient Transmission for Vehicular Federated Learning over Time-Varying Channels**|Jintao Yan et.al.|[2609.18089](http://arxiv.org/abs/2609.18089)|null|
 |**2026-09-15**|**Optimal Resource Extraction under Distribution Learning and Infinite-Horizon Stochastic Hamilton--Jacobi Equations**|Ulrich Horst et.al.|[2609.17717](http://arxiv.org/abs/2609.17717)|null|
 |**2026-09-15**|**Personalized Federated Learning through Global Knowledge Distillation and Local Head Adaptation**|Polycarpo Souza Neto et.al.|[2609.17284](http://arxiv.org/abs/2609.17284)|null|
@@ -5080,7 +5089,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 ## MMS
 
@@ -5122,7 +5131,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
