@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data**|Morris Stallmann et.al.|[2609.21829](http://arxiv.org/abs/2609.21829)|null|
+|**2026-09-17**|**FedeRage: Provably Convergent Agnostic Federated Learning under General Client Drift**|Herlock Rahimi et.al.|[2609.21057](http://arxiv.org/abs/2609.21057)|null|
 |**2026-09-17**|**Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning**|Simon Süwer et.al.|[2609.20650](http://arxiv.org/abs/2609.20650)|null|
 |**2026-09-17**|**Distributionally Robust Federated Learning with Multi-Source Data**|Yingzhu Liu et.al.|[2609.20501](http://arxiv.org/abs/2609.20501)|null|
 |**2026-09-17**|**Accelerating Sharded Data Parallelism at Scale with Federated Learning**|Gianluca Mittone et.al.|[2609.20359](http://arxiv.org/abs/2609.20359)|null|
