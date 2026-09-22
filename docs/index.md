@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Explanation-Guided Federated Deep Reinforcement Learning for Joint Resource Allocation and Scheduling in 6G in-X Subnetworks**|Ramoni Adeogun et.al.|[2609.24102](http://arxiv.org/abs/2609.24102)|null|
+|**2026-09-20**|**PROSE: A Theory of Optimal Stopping with Perishable Evidence for Peer Selection in Intermittently Connected Decentralised Learning**|Christos Anagnostopoulos et.al.|[2609.23845](http://arxiv.org/abs/2609.23845)|null|
+|**2026-09-20**|**Adaptive Determinantal Client Scheduling in Federated Learning**|Wen Xu et.al.|[2609.23843](http://arxiv.org/abs/2609.23843)|null|
+|**2026-09-20**|**Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking**|Jordi Luque et.al.|[2609.23825](http://arxiv.org/abs/2609.23825)|null|
+|**2026-09-20**|**SAGE: Optimal-Stopping Peer Selection for Decentralised Federated Learning**|Ke Xiao et.al.|[2609.23773](http://arxiv.org/abs/2609.23773)|null|
+|**2026-09-20**|**Feature Suppression and Differential Privacy for Residential Traffic Classification: A Two-Home Federated Study**|Márton Pál Lipcsey-Magyar et.al.|[2609.23521](http://arxiv.org/abs/2609.23521)|null|
+|**2026-09-20**|**Perplexity Predicts Protection: Choosing Pretrained Backbones for Worst-Client Fairness in Federated Parameter-Efficient Fine-Tuning**|Kiran Naseer et.al.|[2609.23463](http://arxiv.org/abs/2609.23463)|null|
+|**2026-09-19**|**AirGC-CD: Gaussian-Circulant Precoding for Exactly Debiasable PAPR Reduction in Over-the-Air Federated Learning**|Jonggyu Jang et.al.|[2609.23084](http://arxiv.org/abs/2609.23084)|null|
+|**2026-09-19**|**An Empirical Study and Open Testbed for Federated Fine-Tuning of Vision-Language-Action Models**|Zhekai Duan et.al.|[2609.22973](http://arxiv.org/abs/2609.22973)|null|
+|**2026-09-19**|**Joint Domain-Class Modeling for Federated Learning Under Feature Skew**|Sina Najafi et.al.|[2609.22932](http://arxiv.org/abs/2609.22932)|null|
 |**2026-09-18**|**Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data**|Morris Stallmann et.al.|[2609.21829](http://arxiv.org/abs/2609.21829)|null|
 |**2026-09-17**|**FedeRage: Provably Convergent Agnostic Federated Learning under General Client Drift**|Herlock Rahimi et.al.|[2609.21057](http://arxiv.org/abs/2609.21057)|null|
 |**2026-09-17**|**Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning**|Simon Süwer et.al.|[2609.20650](http://arxiv.org/abs/2609.20650)|null|
