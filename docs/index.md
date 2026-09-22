@@ -1223,6 +1223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update**|Anne-Christin Hauschild et.al.|[2609.24718](http://arxiv.org/abs/2609.24718)|null|
+|**2026-09-21**|**FedMust: Semi-supervised Multi-task Student-Teacher Federated Learning for Multi-organ CT Segmentation**|Ashkan Moradi et.al.|[2609.24627](http://arxiv.org/abs/2609.24627)|null|
 |**2026-09-21**|**Explanation-Guided Federated Deep Reinforcement Learning for Joint Resource Allocation and Scheduling in 6G in-X Subnetworks**|Ramoni Adeogun et.al.|[2609.24102](http://arxiv.org/abs/2609.24102)|null|
 |**2026-09-20**|**PROSE: A Theory of Optimal Stopping with Perishable Evidence for Peer Selection in Intermittently Connected Decentralised Learning**|Christos Anagnostopoulos et.al.|[2609.23845](http://arxiv.org/abs/2609.23845)|null|
 |**2026-09-20**|**Adaptive Determinantal Client Scheduling in Federated Learning**|Wen Xu et.al.|[2609.23843](http://arxiv.org/abs/2609.23843)|null|
