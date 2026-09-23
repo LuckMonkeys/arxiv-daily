@@ -1,4 +1,4 @@
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**FairMean: Promoting Fairness in Distributed Learning under Label Poisoning Attacks**|Huigan Zheng et.al.|[2609.26377](http://arxiv.org/abs/2609.26377)|null|
+|**2026-09-22**|**On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression**|Leonardo F. Toso et.al.|[2609.25705](http://arxiv.org/abs/2609.25705)|null|
+|**2026-09-21**|**A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization**|Wonho Bae et.al.|[2609.25471](http://arxiv.org/abs/2609.25471)|null|
 |**2026-09-21**|**A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update**|Anne-Christin Hauschild et.al.|[2609.24718](http://arxiv.org/abs/2609.24718)|null|
 |**2026-09-21**|**FedMust: Semi-supervised Multi-task Student-Teacher Federated Learning for Multi-organ CT Segmentation**|Ashkan Moradi et.al.|[2609.24627](http://arxiv.org/abs/2609.24627)|null|
 |**2026-09-21**|**Explanation-Guided Federated Deep Reinforcement Learning for Joint Resource Allocation and Scheduling in 6G in-X Subnetworks**|Ramoni Adeogun et.al.|[2609.24102](http://arxiv.org/abs/2609.24102)|null|
@@ -5105,7 +5108,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 ## MMS
 
@@ -5147,7 +5150,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

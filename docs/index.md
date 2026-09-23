@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**FairMean: Promoting Fairness in Distributed Learning under Label Poisoning Attacks**|Huigan Zheng et.al.|[2609.26377](http://arxiv.org/abs/2609.26377)|null|
+|**2026-09-22**|**On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression**|Leonardo F. Toso et.al.|[2609.25705](http://arxiv.org/abs/2609.25705)|null|
+|**2026-09-21**|**A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization**|Wonho Bae et.al.|[2609.25471](http://arxiv.org/abs/2609.25471)|null|
 |**2026-09-21**|**A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update**|Anne-Christin Hauschild et.al.|[2609.24718](http://arxiv.org/abs/2609.24718)|null|
 |**2026-09-21**|**FedMust: Semi-supervised Multi-task Student-Teacher Federated Learning for Multi-organ CT Segmentation**|Ashkan Moradi et.al.|[2609.24627](http://arxiv.org/abs/2609.24627)|null|
 |**2026-09-21**|**Explanation-Guided Federated Deep Reinforcement Learning for Joint Resource Allocation and Scheduling in 6G in-X Subnetworks**|Ramoni Adeogun et.al.|[2609.24102](http://arxiv.org/abs/2609.24102)|null|
