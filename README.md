@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Fed-ReMasker: Federated Tabular Imputation under Feature-Level Missingness**|Ioannis Papathanail et.al.|[2609.28105](http://arxiv.org/abs/2609.28105)|**[link](https://github.com/AIHNlab/Fed-ReMasker)**|
 |**2026-09-23**|**FedIncome: Federated Learning for Income Estimation in Digital Lending Under Data Sovereignty Constraints**|Sultan Amed et.al.|[2609.27654](http://arxiv.org/abs/2609.27654)|null|
 |**2026-09-23**|**Distributed Stochastic Approximation Algorithms and Heavy-Tailed Age of Information**|Adrian Redder et.al.|[2609.27499](http://arxiv.org/abs/2609.27499)|null|
 |**2026-09-23**|**Reliable Federated TinyML Deployment for IoT Security**|Younsoo Park et.al.|[2609.27202](http://arxiv.org/abs/2609.27202)|null|
