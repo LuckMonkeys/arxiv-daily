@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**FedIncome: Federated Learning for Income Estimation in Digital Lending Under Data Sovereignty Constraints**|Sultan Amed et.al.|[2609.27654](http://arxiv.org/abs/2609.27654)|null|
+|**2026-09-23**|**Distributed Stochastic Approximation Algorithms and Heavy-Tailed Age of Information**|Adrian Redder et.al.|[2609.27499](http://arxiv.org/abs/2609.27499)|null|
+|**2026-09-23**|**Reliable Federated TinyML Deployment for IoT Security**|Younsoo Park et.al.|[2609.27202](http://arxiv.org/abs/2609.27202)|null|
+|**2026-09-22**|**When Clients Are Orchestrated: Strategic Gradient Manipulation to Defeat Federated Learning Servers with Efficient Defense**|Mohamed Shaaban et.al.|[2609.27124](http://arxiv.org/abs/2609.27124)|null|
 |**2026-09-22**|**FairMean: Promoting Fairness in Distributed Learning under Label Poisoning Attacks**|Huigan Zheng et.al.|[2609.26377](http://arxiv.org/abs/2609.26377)|null|
 |**2026-09-22**|**On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression**|Leonardo F. Toso et.al.|[2609.25705](http://arxiv.org/abs/2609.25705)|null|
 |**2026-09-21**|**A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization**|Wonho Bae et.al.|[2609.25471](http://arxiv.org/abs/2609.25471)|null|
