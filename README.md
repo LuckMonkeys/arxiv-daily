@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Toward verifiably private learning from federated data**|Katharine Daly et.al.|[2609.31494](http://arxiv.org/abs/2609.31494)|null|
+|**2026-09-25**|**Uncertainty-Aware Federated Learning for Infant Movement Analysis**|Edmond S. L. Ho et.al.|[2609.31463](http://arxiv.org/abs/2609.31463)|**[link](https://github.com/edmondslho/UA-FedAvg)**|
+|**2026-09-25**|**Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality**|Bradley Scott et.al.|[2609.31454](http://arxiv.org/abs/2609.31454)|**[link](https://github.com/bs97/different-corruptions-different-signals)**|
+|**2026-09-25**|**Deduplication-while-Training: A Resilient Paradigm for Privacy-Preserving Cross-Client Deduplication in Federated Learning**|Rongxi Wang et.al.|[2609.31262](http://arxiv.org/abs/2609.31262)|null|
+|**2026-09-25**|**FedHisto-PAST: Parameter-Efficient Stain-Aware Federated Learning for Cross-Site Lung Histopathology Classification**|Muhammad Muhtasim Shahriar et.al.|[2609.31150](http://arxiv.org/abs/2609.31150)|null|
+|**2026-09-25**|**Distributed Learning as a Service: The Developer's Perspective**|Tianyue Chu et.al.|[2609.31061](http://arxiv.org/abs/2609.31061)|null|
+|**2026-09-24**|**Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks**|Marcel Mordarski et.al.|[2609.30581](http://arxiv.org/abs/2609.30581)|null|
+|**2026-09-24**|**Federated Targeted Maximum Likelihood Estimation**|Diyang Li et.al.|[2609.30503](http://arxiv.org/abs/2609.30503)|null|
 |**2026-09-24**|**Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**|Sudip Bhujel et.al.|[2609.30258](http://arxiv.org/abs/2609.30258)|**[link](https://github.com/sudip-bhujel/TRACE)**|
 |**2026-09-24**|**SPADE-DFL: Communication-Efficient Decentralized Federated Learning via Derivative-Free Linearized ADMM**|Mengli Wei et.al.|[2609.29446](http://arxiv.org/abs/2609.29446)|null|
 |**2026-09-24**|**TrafficFab: An Autonomic Edge-Cloud Testbed Fabric forAI-Driven Traffic Management**|Mayank Arya et.al.|[2609.29223](http://arxiv.org/abs/2609.29223)|null|
@@ -5122,7 +5130,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## MMS
 
@@ -5164,7 +5172,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

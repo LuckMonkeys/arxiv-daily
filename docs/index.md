@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Toward verifiably private learning from federated data**|Katharine Daly et.al.|[2609.31494](http://arxiv.org/abs/2609.31494)|null|
+|**2026-09-25**|**Uncertainty-Aware Federated Learning for Infant Movement Analysis**|Edmond S. L. Ho et.al.|[2609.31463](http://arxiv.org/abs/2609.31463)|**[link](https://github.com/edmondslho/UA-FedAvg)**|
+|**2026-09-25**|**Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality**|Bradley Scott et.al.|[2609.31454](http://arxiv.org/abs/2609.31454)|**[link](https://github.com/bs97/different-corruptions-different-signals)**|
+|**2026-09-25**|**Deduplication-while-Training: A Resilient Paradigm for Privacy-Preserving Cross-Client Deduplication in Federated Learning**|Rongxi Wang et.al.|[2609.31262](http://arxiv.org/abs/2609.31262)|null|
+|**2026-09-25**|**FedHisto-PAST: Parameter-Efficient Stain-Aware Federated Learning for Cross-Site Lung Histopathology Classification**|Muhammad Muhtasim Shahriar et.al.|[2609.31150](http://arxiv.org/abs/2609.31150)|null|
+|**2026-09-25**|**Distributed Learning as a Service: The Developer's Perspective**|Tianyue Chu et.al.|[2609.31061](http://arxiv.org/abs/2609.31061)|null|
+|**2026-09-24**|**Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks**|Marcel Mordarski et.al.|[2609.30581](http://arxiv.org/abs/2609.30581)|null|
+|**2026-09-24**|**Federated Targeted Maximum Likelihood Estimation**|Diyang Li et.al.|[2609.30503](http://arxiv.org/abs/2609.30503)|null|
 |**2026-09-24**|**Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**|Sudip Bhujel et.al.|[2609.30258](http://arxiv.org/abs/2609.30258)|**[link](https://github.com/sudip-bhujel/TRACE)**|
 |**2026-09-24**|**SPADE-DFL: Communication-Efficient Decentralized Federated Learning via Derivative-Free Linearized ADMM**|Mengli Wei et.al.|[2609.29446](http://arxiv.org/abs/2609.29446)|null|
 |**2026-09-24**|**TrafficFab: An Autonomic Edge-Cloud Testbed Fabric forAI-Driven Traffic Management**|Mayank Arya et.al.|[2609.29223](http://arxiv.org/abs/2609.29223)|null|
