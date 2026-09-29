@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning**|Junkang Liu et.al.|[2609.35130](http://arxiv.org/abs/2609.35130)|null|
+|**2026-09-28**|**Neural Language Models Learn the Contextual Distributions of Dependency Structures: a statistical learning theory to compositionality**|Wang Bojun et.al.|[2609.34936](http://arxiv.org/abs/2609.34936)|null|
+|**2026-09-28**|**Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure**|Jeff Nijsse et.al.|[2609.34804](http://arxiv.org/abs/2609.34804)|null|
+|**2026-09-28**|**CoeF-SFL: Preserving Collaborative Server-Client Learning with Enhanced Communication Efficiency**|Junwoo Bae et.al.|[2609.34360](http://arxiv.org/abs/2609.34360)|null|
+|**2026-09-27**|**Score-based stochastic reduced-order models of barotropic quasi-geostrophic turbulence**|Ludovico Theo Giorgini et.al.|[2609.34028](http://arxiv.org/abs/2609.34028)|null|
+|**2026-09-27**|**Collaborative Synthetic Data for Privacy-Preserving Financial Fraud Detection Across Organizational Silos**|Simeon Allmendinger et.al.|[2609.33754](http://arxiv.org/abs/2609.33754)|null|
+|**2026-09-27**|**From Distributions to Stochastic Processes: Neural Approximation of Measure-Valued Maps**|Yichen Wang et.al.|[2609.33649](http://arxiv.org/abs/2609.33649)|null|
+|**2026-09-27**|**Adaptive Client Clustering and Coordination for Federated Learning Workflow Management in Edge Networks**|Jieping Luo et.al.|[2609.33544](http://arxiv.org/abs/2609.33544)|null|
+|**2026-09-27**|**Federated Multi-Modal Human Activity Recognition using Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2609.33492](http://arxiv.org/abs/2609.33492)|null|
+|**2026-09-27**|**Predicting Block-Coordinate Performance via Cross-Curvature**|Shengkun Zhu et.al.|[2609.33489](http://arxiv.org/abs/2609.33489)|null|
 |**2026-09-25**|**Toward verifiably private learning from federated data**|Katharine Daly et.al.|[2609.31494](http://arxiv.org/abs/2609.31494)|null|
 |**2026-09-25**|**Uncertainty-Aware Federated Learning for Infant Movement Analysis**|Edmond S. L. Ho et.al.|[2609.31463](http://arxiv.org/abs/2609.31463)|**[link](https://github.com/edmondslho/UA-FedAvg)**|
 |**2026-09-25**|**Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality**|Bradley Scott et.al.|[2609.31454](http://arxiv.org/abs/2609.31454)|**[link](https://github.com/bs97/different-corruptions-different-signals)**|
