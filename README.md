@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**FedSocket: Recipient-Executable Knowledge Exchange for Heterogeneous Multimodal Federated Learning**|Xinyuan Zhao et.al.|[2609.37582](http://arxiv.org/abs/2609.37582)|null|
+|**2026-09-29**|**OPFL: Optimistic Verification of Federated Learning via Empirical Boundary**|Hongxu Su et.al.|[2609.37011](http://arxiv.org/abs/2609.37011)|null|
+|**2026-09-29**|**DiffReID: Discriminative Diffusion Model for Object Re-Identification**|Yingquan Wang et.al.|[2609.36894](http://arxiv.org/abs/2609.36894)|null|
+|**2026-09-29**|**FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation**|Song-Li Wu et.al.|[2609.36670](http://arxiv.org/abs/2609.36670)|null|
+|**2026-09-29**|**When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion**|Tingyi Lin et.al.|[2609.36667](http://arxiv.org/abs/2609.36667)|null|
+|**2026-09-29**|**Byzantine-Robust Federated Representation Learning**|Leonardo F. Toso et.al.|[2609.36660](http://arxiv.org/abs/2609.36660)|null|
+|**2026-09-29**|**Communication-Efficient Agnostic Federated Learning via Faster Convergence and Compression**|Haomin Bai et.al.|[2609.36610](http://arxiv.org/abs/2609.36610)|null|
+|**2026-09-28**|**DecoyTrace: Toxic Decoys for Active Defense in Decentralized Federated Learning**|Pedro Beltrán-López et.al.|[2609.36330](http://arxiv.org/abs/2609.36330)|null|
+|**2026-09-28**|**Encoder-Sharing Hierarchical Federated Multi-Task Learning for VANETs**|M. Saeid HaghighiFard et.al.|[2609.36157](http://arxiv.org/abs/2609.36157)|null|
+|**2026-09-28**|**Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study**|Rafael Garcia-Dias et.al.|[2609.36001](http://arxiv.org/abs/2609.36001)|null|
 |**2026-09-28**|**CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning**|Junkang Liu et.al.|[2609.35130](http://arxiv.org/abs/2609.35130)|null|
 |**2026-09-28**|**Neural Language Models Learn the Contextual Distributions of Dependency Structures: a statistical learning theory to compositionality**|Wang Bojun et.al.|[2609.34936](http://arxiv.org/abs/2609.34936)|null|
 |**2026-09-28**|**Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure**|Jeff Nijsse et.al.|[2609.34804](http://arxiv.org/abs/2609.34804)|null|
@@ -5140,7 +5150,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 ## MMS
 
@@ -5182,7 +5192,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
