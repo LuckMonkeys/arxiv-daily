@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**vFedProtoQNAS: Prototype-Guided Personalized Quantum Neural Architecture Search for Virtual Federated Learning**|Seok Bin Son et.al.|[2610.01718](http://arxiv.org/abs/2610.01718)|null|
+|**2026-10-01**|**Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspection and Availability**|Ceren Yıldırım et.al.|[2610.01650](http://arxiv.org/abs/2610.01650)|null|
+|**2026-10-01**|**FedSAP: Federated Learning with Structured Adaptive Partitioning for Multi-Domain Heterogeneous Edge Devices**|Wentao Yue et.al.|[2610.01638](http://arxiv.org/abs/2610.01638)|null|
+|**2026-10-01**|**FedLore: Communication and Memory Efficient Federated Learning via Shared Gradient Low-Rank Projection**|Junkang Liu et.al.|[2610.01620](http://arxiv.org/abs/2610.01620)|null|
+|**2026-10-01**|**FedFit: Federated Fine-Tuning of LLMs via Vector-Bank Parameterization and Quantization**|Hang Zou et.al.|[2610.01537](http://arxiv.org/abs/2610.01537)|null|
+|**2026-10-01**|**FedCKA: Representation-Guided Layer Personalization for Federated 3D Perception Across Driving Domains**|Jolle Verhoog et.al.|[2610.01510](http://arxiv.org/abs/2610.01510)|null|
+|**2026-10-01**|**Federated Learning for LLMs over Mobile Networks: Issues and Solutions in the RAN Transport**|Emilio Paolini et.al.|[2610.01304](http://arxiv.org/abs/2610.01304)|null|
+|**2026-10-01**|**Federated Agent Optimization**|Qiang Yang et.al.|[2610.01195](http://arxiv.org/abs/2610.01195)|**[link](https://github.com/dinesh-krishnamoorthy/Federated-BayesOpt)**|
+|**2026-10-01**|**Latent Information Sharing for Accelerating Federated Learning**|Seungjun Lee et.al.|[2610.01126](http://arxiv.org/abs/2610.01126)|null|
+|**2026-09-30**|**Progressive-Resolution Secure Aggregation for Federated Learning**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2610.00695](http://arxiv.org/abs/2610.00695)|null|
 |**2026-09-30**|**Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning**|Sachi Shome et.al.|[2609.40312](http://arxiv.org/abs/2609.40312)|null|
 |**2026-09-30**|**MANET-GNN: Learned Decentralized Optimization of Power Allocation in Multi-Channel MANETs**|Tomer Alter et.al.|[2609.40170](http://arxiv.org/abs/2609.40170)|null|
 |**2026-09-30**|**Learning to Explain While Planning: Rule-Aligned Diffusion Planning for Autonomous Driving**|Jiaxi Ye et.al.|[2609.39995](http://arxiv.org/abs/2609.39995)|null|
@@ -5160,7 +5170,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## MMS
 
@@ -5194,7 +5204,7 @@
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
@@ -5202,7 +5212,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
