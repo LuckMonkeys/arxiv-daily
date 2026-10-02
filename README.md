@@ -18,7 +18,7 @@
 |**2026-10-01**|**FedSAP: Federated Learning with Structured Adaptive Partitioning for Multi-Domain Heterogeneous Edge Devices**|Wentao Yue et.al.|[2610.01638](http://arxiv.org/abs/2610.01638)|null|
 |**2026-10-01**|**FedLore: Communication and Memory Efficient Federated Learning via Shared Gradient Low-Rank Projection**|Junkang Liu et.al.|[2610.01620](http://arxiv.org/abs/2610.01620)|null|
 |**2026-10-01**|**FedFit: Federated Fine-Tuning of LLMs via Vector-Bank Parameterization and Quantization**|Hang Zou et.al.|[2610.01537](http://arxiv.org/abs/2610.01537)|null|
-|**2026-10-01**|**FedCKA: Representation-Guided Layer Personalization for Federated 3D Perception Across Driving Domains**|Jolle Verhoog et.al.|[2610.01510](http://arxiv.org/abs/2610.01510)|null|
+|**2026-10-01**|**FedCKA: Representation-Guided Layer Personalization for Federated 3D Perception Across Driving Domains**|Jolle Verhoog et.al.|[2610.01510](http://arxiv.org/abs/2610.01510)|**[link](https://github.com/j-verhoog/FedCKA)**|
 |**2026-10-01**|**Federated Learning for LLMs over Mobile Networks: Issues and Solutions in the RAN Transport**|Emilio Paolini et.al.|[2610.01304](http://arxiv.org/abs/2610.01304)|null|
 |**2026-10-01**|**Federated Agent Optimization**|Qiang Yang et.al.|[2610.01195](http://arxiv.org/abs/2610.01195)|**[link](https://github.com/dinesh-krishnamoorthy/Federated-BayesOpt)**|
 |**2026-10-01**|**Latent Information Sharing for Accelerating Federated Learning**|Seungjun Lee et.al.|[2610.01126](http://arxiv.org/abs/2610.01126)|null|
