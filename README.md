@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**PoCoFL: POlicy-COmpliant Federated Learning**|Dominik Roy George et.al.|[2610.03650](http://arxiv.org/abs/2610.03650)|null|
+|**2026-10-02**|**A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning**|Agnivo Ghosh et.al.|[2610.03597](http://arxiv.org/abs/2610.03597)|null|
+|**2026-10-02**|**FedSwitch: Federated Region Classification From Wireless Channel Measurements**|Mattia Piana et.al.|[2610.03523](http://arxiv.org/abs/2610.03523)|null|
+|**2026-10-02**|**Fed-ADApt: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation**|Abhijeet Parida et.al.|[2610.03474](http://arxiv.org/abs/2610.03474)|null|
+|**2026-10-02**|**Cordial Learning: Distributed Training with Correlated Data**|Sarah Shitrit et.al.|[2610.03330](http://arxiv.org/abs/2610.03330)|null|
+|**2026-10-02**|**RIPPLE in Still Water: Zero-Shot Clustering in Federated Learning with Wavelet Scattering Transform**|Alessandro Licciardi et.al.|[2610.03054](http://arxiv.org/abs/2610.03054)|null|
+|**2026-10-02**|**Understanding Trajectory Heterogeneity in Federated World Model Learning**|Yipan Wei et.al.|[2610.02957](http://arxiv.org/abs/2610.02957)|null|
+|**2026-10-02**|**Distributed Learning with Selective State Space Models: Architecture-Aware Convergence Analysis**|Adam Piaseczny et.al.|[2610.02659](http://arxiv.org/abs/2610.02659)|null|
+|**2026-10-01**|**Social bot detection in the age of ChatGPT: Challenges and opportunities**|Emilio Ferrara et.al.|[2610.02386](http://arxiv.org/abs/2610.02386)|null|
 |**2026-10-01**|**vFedProtoQNAS: Prototype-Guided Personalized Quantum Neural Architecture Search for Virtual Federated Learning**|Seok Bin Son et.al.|[2610.01718](http://arxiv.org/abs/2610.01718)|null|
 |**2026-10-01**|**Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspection and Availability**|Ceren Yıldırım et.al.|[2610.01650](http://arxiv.org/abs/2610.01650)|null|
 |**2026-10-01**|**FedSAP: Federated Learning with Structured Adaptive Partitioning for Multi-Domain Heterogeneous Edge Devices**|Wentao Yue et.al.|[2610.01638](http://arxiv.org/abs/2610.01638)|null|
@@ -5170,7 +5179,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## MMS
 
@@ -5212,7 +5221,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
