@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study**|Ivan Donà et.al.|[2610.06420](http://arxiv.org/abs/2610.06420)|null|
+|**2026-10-05**|**Pay to Learn, Share to Earn: Incentivized Federated Multi-Player Bandits**|Pavamana K J et.al.|[2610.06062](http://arxiv.org/abs/2610.06062)|null|
+|**2026-10-05**|**Large Stepsizes Federated Learning on Logistic Regression with Linearly Separable Data: The Case of Heterogeneous Devices**|Hok Fong Wong et.al.|[2610.05915](http://arxiv.org/abs/2610.05915)|null|
+|**2026-10-04**|**When the Cross-Silo Federation Goes Offline: Continual Learning for Site Onboarding with Limited Unlabeled Data**|Ahmadreza Eslaminia et.al.|[2610.05598](http://arxiv.org/abs/2610.05598)|null|
+|**2026-10-04**|**Distributed Subliminal Learning: Replacing Model Updates with Random-Carrier Outputs**|Dario Fenoglio et.al.|[2610.05378](http://arxiv.org/abs/2610.05378)|null|
+|**2026-10-04**|**Fast Convergence through Distributed Augmentation for Class-Imbalanced Federated Learning**|Arathi Nair M et.al.|[2610.05279](http://arxiv.org/abs/2610.05279)|null|
+|**2026-10-03**|**Learning OTA: A Unified Framework for Edge Sensing, Computation, and Communication**|Mehdi Karbalayghareh et.al.|[2610.04718](http://arxiv.org/abs/2610.04718)|null|
+|**2026-10-03**|**Decouple, Purify and Unite: Semantic-Structural Prototype Learning for Federated Medical Segmentation**|Xingyue Zhao et.al.|[2610.04700](http://arxiv.org/abs/2610.04700)|null|
+|**2026-10-03**|**Asking the Crowd the Right Question: Bias-Cancelling Weights for Federated Learning**|Ilya Kuruzov et.al.|[2610.04671](http://arxiv.org/abs/2610.04671)|null|
+|**2026-10-03**|**Personalized Federated Vector Autoregression with Personalization Diversity**|Zhiyun Fan et.al.|[2610.04474](http://arxiv.org/abs/2610.04474)|null|
 |**2026-10-02**|**PoCoFL: POlicy-COmpliant Federated Learning**|Dominik Roy George et.al.|[2610.03650](http://arxiv.org/abs/2610.03650)|null|
 |**2026-10-02**|**A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning**|Agnivo Ghosh et.al.|[2610.03597](http://arxiv.org/abs/2610.03597)|null|
 |**2026-10-02**|**FedSwitch: Federated Region Classification From Wireless Channel Measurements**|Mattia Piana et.al.|[2610.03523](http://arxiv.org/abs/2610.03523)|null|
@@ -5179,7 +5189,7 @@
 |**2023-02-28**|**Differentially Private Distributed Convex Optimization**|Minseok Ryu et.al.|[2302.14514](http://arxiv.org/abs/2302.14514)|null|
 |**2023-02-28**|**Federated Covariate Shift Adaptation for Missing Target Output Values**|Yaqian Xu et.al.|[2302.14427](http://arxiv.org/abs/2302.14427)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## MMS
 
@@ -5221,7 +5231,7 @@
 |**2019-02-17**|**Nearest neighbor decoding for Tardos fingerprinting codes**|Thijs Laarhoven et.al.|[1902.06196](http://arxiv.org/abs/1902.06196)|null|
 |**2015-02-12**|**Optimal sequential fingerprinting: Wald vs. Tardos**|Thijs Laarhoven et.al.|[1502.03722](http://arxiv.org/abs/1502.03722)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
