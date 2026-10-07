@@ -1224,7 +1224,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-06**|**FedDermaSeg: Federated Learning for Dermatological Image Segmentation**|Anabik Pal et.al.|[2610.08574](http://arxiv.org/abs/2610.08574)|null|
-|**2026-10-06**|**HE-OFT: Privacy-Preserving One-Shot Federated Fine-Tuning under Homomorphic Encryption**|Halil İbrahim Kanpak et.al.|[2610.08255](http://arxiv.org/abs/2610.08255)|null|
+|**2026-10-06**|**HE-OFT: Privacy-Preserving One-Shot Federated Fine-Tuning under Homomorphic Encryption**|Halil İbrahim Kanpak et.al.|[2610.08255](http://arxiv.org/abs/2610.08255)|**[link](https://github.com/CRYPTO-KU/HE-OFT)**|
 |**2026-10-06**|**Quantifying the Privacy Posture of Operator-Side 5G/O-RAN Profiles**|Nikolaos Kekatos et.al.|[2610.07976](http://arxiv.org/abs/2610.07976)|null|
 |**2026-10-06**|**Tram-FL: Reducing Communication and Computation Costs through Sequential Model Circulation in Decentralized Federated Learning**|Kota Maejima et.al.|[2610.07859](http://arxiv.org/abs/2610.07859)|null|
 |**2026-10-06**|**ESP: Energy-Score Policy for One-Step Multimodal Action Generation**|Lilika Makabe et.al.|[2610.07696](http://arxiv.org/abs/2610.07696)|null|
@@ -6436,7 +6436,7 @@ layout: default
 |**2022-04-25**|**Efficient Quantum Image Encryption Technique for Securing Multimedia Applications**|Rakesh Saini et.al.|[2204.07996](http://arxiv.org/abs/2204.07996)|null|
 |**2022-01-23**|**Security Considerations for Virtual Reality Systems**|Karthik Viswanathan et.al.|[2201.02563](http://arxiv.org/abs/2201.02563)|null|
 |**2021-02-28**|**The Property of Frequency Shift in 2D-FRFT Domain with Application to Image Encryption**|Lei Gao et.al.|[2103.00365](http://arxiv.org/abs/2103.00365)|null|
-|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|null|
+|**2020-10-06**|**Secure 3D medical Imaging**|Shadi Al-Zu'bi et.al.|[2010.03367](http://arxiv.org/abs/2010.03367)|**[link](https://github.com/Deepa1172/Capstone-ScanHippoHealth)**|
 |**2020-04-27**|**Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage**|Thomas Jerkovits et.al.|[2004.13095](http://arxiv.org/abs/2004.13095)|null|
 |**2020-04-26**|**Secure Steganography Technique Based on Bitplane Indexes**|Alan Anwer Abdulla et.al.|[2004.12470](http://arxiv.org/abs/2004.12470)|null|
 |**2019-12-26**|**PI-GAN: Learning Pose Independent representations for multiple profile face synthesis**|Hamed Alqahtani et.al.|[2001.00645](http://arxiv.org/abs/2001.00645)|null|
