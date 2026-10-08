@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1223,6 +1223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning**|Koffka Khan et.al.|[2610.10361](http://arxiv.org/abs/2610.10361)|null|
+|**2026-10-07**|**Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks**|Will Jedrzejczak et.al.|[2610.10360](http://arxiv.org/abs/2610.10360)|null|
+|**2026-10-07**|**A Probabilistic Perspective on Wasserstein-Based Evidential Uncertainty for Out-of-Distribution Segmentation**|Arnold Brosch et.al.|[2610.10116](http://arxiv.org/abs/2610.10116)|null|
+|**2026-10-07**|**Sparsity in control problems: Recent trends and open challenges**|Luca Ballotta et.al.|[2610.09787](http://arxiv.org/abs/2610.09787)|null|
+|**2026-10-06**|**FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning**|Konstantinos Ziliaskopoulos et.al.|[2610.09091](http://arxiv.org/abs/2610.09091)|null|
 |**2026-10-06**|**FedDermaSeg: Federated Learning for Dermatological Image Segmentation**|Anabik Pal et.al.|[2610.08574](http://arxiv.org/abs/2610.08574)|null|
 |**2026-10-06**|**HE-OFT: Privacy-Preserving One-Shot Federated Fine-Tuning under Homomorphic Encryption**|Halil İbrahim Kanpak et.al.|[2610.08255](http://arxiv.org/abs/2610.08255)|**[link](https://github.com/CRYPTO-KU/HE-OFT)**|
 |**2026-10-06**|**Quantifying the Privacy Posture of Operator-Side 5G/O-RAN Profiles**|Nikolaos Kekatos et.al.|[2610.07976](http://arxiv.org/abs/2610.07976)|null|
@@ -6426,7 +6431,7 @@ layout: default
 |**2025-11-09**|**Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework**|Junhao Li et.al.|[2511.03248](http://arxiv.org/abs/2511.03248)|**[link](https://github.com/xaddwell/multimodal-privacy)**|
 |**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
 |**2025-11-24**|**CIF: A Constrained Inversion Framework for Reliable Message Extraction in Diffusion-Based Generative Steganography**|Yuqi Qian et.al.|[2508.00434](http://arxiv.org/abs/2508.00434)|null|
-|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/All-Type-ADD)**|
+|**2026-01-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
 |**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083](http://arxiv.org/abs/2504.06083)|null|
 |**2025-02-03**|**Secure & Personalized Music-to-Video Generation via CHARCHA**|Mehul Agarwal et.al.|[2502.02610](http://arxiv.org/abs/2502.02610)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
